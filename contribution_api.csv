@@ -1,0 +1,2543 @@
+FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorISO2Code,FundISO2Code
+2006,Netherlands,CBPF,Ethiopia,Member State,0.0,5012000.0,NL,ET
+2006,Norway,CBPF,Ethiopia,Member State,0.0,1553277.0,NO,ET
+2006,Switzerland,CBPF,Ethiopia,Member State,0.0,247934.0,CH,ET
+2006,United Kingdom,CBPF,Ethiopia,Member State,0.0,8861284.0,GB,ET
+2007,Netherlands,CBPF,Ethiopia,Member State,0.0,3395940.0,NL,ET
+2007,Norway,CBPF,Ethiopia,Member State,0.0,2022775.6099999999,NO,ET
+2007,Norway,CBPF,Haiti,Member State,0.0,1833920.19,NO,HT
+2007,Spain,CBPF,oPt,Member State,0.0,4000000.0,ES,PS
+2007,Sweden,CBPF,Ethiopia,Member State,0.0,577564.8,SE,ET
+2007,Sweden,CBPF,oPt,Member State,0.0,1469495.63,SE,PS
+2007,United Kingdom,CBPF,Ethiopia,Member State,0.0,7632793.0600000005,GB,ET
+2007,United Kingdom,CBPF,Myanmar,Member State,0.0,801603.21,GB,MM
+2008,Ireland,CBPF,Ethiopia,Member State,0.0,4352602.22,IE,ET
+2008,Italy,CBPF,Ethiopia,Member State,0.0,857232.7,IT,ET
+2008,Netherlands,CBPF,Ethiopia,Member State,0.0,25675584.0,NL,ET
+2008,Norway,CBPF,Ethiopia,Member State,0.0,2644227.99,NO,ET
+2008,Norway,CBPF,Haiti,Member State,0.0,367060.55,NO,HT
+2008,Norway,CBPF,oPt,Member State,0.0,713840.03,NO,PS
+2008,Spain,CBPF,Ethiopia,Member State,0.0,1293661.06,ES,ET
+2008,Spain,CBPF,oPt,Member State,0.0,918635.17,ES,PS
+2008,Sweden,CBPF,Ethiopia,Member State,0.0,4090487.37,SE,ET
+2008,Sweden,CBPF,Haiti,Member State,0.0,2418250.06,SE,HT
+2008,Sweden,CBPF,oPt,Member State,0.0,893735.02,SE,PS
+2008,Switzerland,CBPF,Ethiopia,Member State,0.0,689852.77,CH,ET
+2008,United Kingdom,CBPF,Ethiopia,Member State,0.0,28489852.18,GB,ET
+2008,United Kingdom,CBPF,Haiti,Member State,0.0,921658.99,GB,HT
+2008,United Kingdom,CBPF,Myanmar,Member State,0.0,1086956.52,GB,MM
+2009,Belgium,CBPF,DRC,Member State,0.0,2158273.38,BE,CD
+2009,Denmark,CBPF,Ethiopia,Member State,0.0,4893091.82,DK,ET
+2009,Ireland,CBPF,CAR,Member State,0.0,1461072.0,IE,CF
+2009,Ireland,CBPF,DRC,Member State,0.0,738722.0,IE,CD
+2009,Ireland,CBPF,Ethiopia,Member State,0.0,2033132.53,IE,ET
+2009,Ireland,CBPF,Sudan,Member State,0.0,1480372.0,IE,SD
+2009,Ireland,CBPF,oPt,Member State,0.0,661375.66,IE,PS
+2009,Italy,CBPF,Ethiopia,Member State,0.0,1010101.0,IT,ET
+2009,Luxembourg,CBPF,DRC,Member State,0.0,658761.53,LU,CD
+2009,Netherlands,CBPF,CAR,Member State,0.0,2941176.0,NL,CF
+2009,Netherlands,CBPF,DRC,Member State,0.0,16999970.0,NL,CD
+2009,Netherlands,CBPF,Ethiopia,Member State,0.0,15441176.0,NL,ET
+2009,Netherlands,CBPF,Sudan,Member State,0.0,23823529.0,NL,SD
+2009,Netherlands,CBPF,oPt,Member State,0.0,1102941.0,NL,PS
+2009,Norway,CBPF,Colombia,Member State,0.0,993484.22,NO,CO
+2009,Norway,CBPF,DRC,Member State,0.0,3091160.11,NO,CD
+2009,Norway,CBPF,Ethiopia,Member State,0.0,2232764.14,NO,ET
+2009,Norway,CBPF,Sudan,Member State,0.0,15866005.709999999,NO,SD
+2009,Norway,CBPF,oPt,Member State,0.0,778258.57,NO,PS
+2009,Spain,CBPF,Ethiopia,Member State,0.0,1443001.44,ES,ET
+2009,Sweden,CBPF,CAR,Member State,0.0,2104324.94,SE,CF
+2009,Sweden,CBPF,Colombia,Member State,0.0,431790.0,SE,CO
+2009,Sweden,CBPF,DRC,Member State,0.0,19836812.7,SE,CD
+2009,Sweden,CBPF,Ethiopia,Member State,0.0,6476849.86,SE,ET
+2009,Sweden,CBPF,Myanmar,Member State,0.0,1563540.07,SE,MM
+2009,Sweden,CBPF,Sudan,Member State,0.0,14742024.34,SE,SD
+2009,Sweden,CBPF,oPt,Member State,0.0,3072520.04,SE,PS
+2009,Switzerland,CBPF,Ethiopia,Member State,0.0,699300.7,CH,ET
+2009,Switzerland,CBPF,oPt,Member State,0.0,499500.5,CH,PS
+2009,United Kingdom,CBPF,CAR,Member State,0.0,1220000.0,GB,CF
+2009,United Kingdom,CBPF,DRC,Member State,0.0,25057500.0,GB,CD
+2009,United Kingdom,CBPF,Ethiopia,Member State,0.0,11173248.41,GB,ET
+2009,United Kingdom,CBPF,Myanmar,Member State,0.0,414593.7,GB,MM
+2009,United Kingdom,CBPF,Sudan,Member State,0.0,60100166.94,GB,SD
+2009,United Kingdom,CBPF,oPt,Member State,0.0,1436781.61,GB,PS
+2010,Afghanistan,CBPF,Haiti,Member State,0.0,200000.0,AF,HT
+2010,Algeria,CBPF,Haiti,Member State,0.0,500000.0,DZ,HT
+2010,Andorra,CBPF,Haiti,Member State,0.0,69920.17,AD,HT
+2010,Armenia,CBPF,Haiti,Member State,0.0,100000.0,AM,HT
+2010,Australia,CBPF,Pakistan,Member State,0.0,1803000.0,AU,PK
+2010,Azerbaijan,CBPF,Haiti,Member State,0.0,499978.0,AZ,HT
+2010,Azerbaijan,CBPF,Pakistan,Member State,0.0,1999956.0,AZ,PK
+2010,Belgium,CBPF,DRC,Member State,0.0,4789721.65,BE,CD
+2010,Benin,CBPF,Haiti,Member State,0.0,86000.0,BJ,HT
+2010,Botswana,CBPF,Haiti,Member State,0.0,128100.0,BW,HT
+2010,Botswana,CBPF,Pakistan,Member State,0.0,103040.0,BW,PK
+2010,Brazil,CBPF,Haiti,Member State,0.0,7012539.37,BR,HT
+2010,Brunei Darussalam,CBPF,Haiti,Member State,0.0,52543.83,BN,HT
+2010,Burundi,CBPF,Haiti,Member State,0.0,161186.14,BI,HT
+2010,Cambodia,CBPF,Haiti,Member State,0.0,60000.0,KH,HT
+2010,Chile,CBPF,Pakistan,Member State,0.0,5000.0,CL,PK
+2010,"Congo, Republic of",CBPF,Haiti,Member State,0.0,950000.0,CD,HT
+2010,Denmark,CBPF,Haiti,Member State,0.0,5308352.609999999,DK,HT
+2010,Denmark,CBPF,Somalia,Member State,0.0,4317416.46,DK,SO
+2010,Denmark,CBPF,Sudan,Member State,0.0,4854368.93,DK,SD
+2010,Denmark,CBPF,Yemen,Member State,0.0,876650.23,DK,YE
+2010,Equatorial Guinea,CBPF,Haiti,Member State,0.0,1999977.0,GQ,HT
+2010,Finland,CBPF,Somalia,Member State,0.0,2617200.0,FI,SO
+2010,France,CBPF,Haiti,Member State,0.0,6747638.33,FR,HT
+2010,Gabon,CBPF,Haiti,Member State,0.0,1000000.0,GA,HT
+2010,India,CBPF,Pakistan,Member State,0.0,20000000.0,IN,PK
+2010,Indonesia,CBPF,Haiti,Member State,0.0,50000.0,ID,HT
+2010,Ireland,CBPF,CAR,Member State,0.0,3052382.67,IE,CF
+2010,Ireland,CBPF,DRC,Member State,0.0,4372682.67,IE,CD
+2010,Ireland,CBPF,Haiti,Member State,0.0,127064.8,IE,HT
+2010,Ireland,CBPF,Somalia,Member State,0.0,1291672.01,IE,SO
+2010,Ireland,CBPF,Sudan,Member State,0.0,5032832.67,IE,SD
+2010,Italy,CBPF,Somalia,Member State,0.0,2618000.0,IT,SO
+2010,Kazakhstan,CBPF,Haiti,Member State,0.0,99959.0,KZ,HT
+2010,Kazakhstan,CBPF,Pakistan,Member State,0.0,99959.0,KZ,PK
+2010,Kenya,CBPF,Haiti,Member State,0.0,1987.33,KE,HT
+2010,Luxembourg,CBPF,DRC,Member State,0.0,610500.61,LU,CD
+2010,Madagascar,CBPF,Haiti,Member State,0.0,5000.0,MG,HT
+2010,Malta,CBPF,Haiti,Member State,0.0,70028.01,MT,HT
+2010,Malta,CBPF,Pakistan,Member State,0.0,12706.48,MT,PK
+2010,Moldova,CBPF,Haiti,Member State,0.0,90000.0,MD,HT
+2010,Mongolia,CBPF,Haiti,Member State,0.0,20000.0,MN,HT
+2010,Netherlands,CBPF,CAR,Member State,0.0,2097902.0,NL,CF
+2010,Netherlands,CBPF,DRC,Member State,0.0,7097902.0,NL,CD
+2010,Netherlands,CBPF,Ethiopia,Member State,0.0,9790210.0,NL,ET
+2010,Netherlands,CBPF,Somalia,Member State,0.0,9042657.0,NL,SO
+2010,Netherlands,CBPF,Sudan,Member State,0.0,10209785.0,NL,SD
+2010,New Zealand,CBPF,Pakistan,Member State,0.0,1454880.0,NZ,PK
+2010,Nigeria,CBPF,Haiti,Member State,0.0,2501000.0,NG,HT
+2010,North Macedonia,CBPF,Haiti,Member State,0.0,90000.0,MK,HT
+2010,Norway,CBPF,Colombia,Member State,0.0,1005111.66,NO,CO
+2010,Norway,CBPF,DRC,Member State,0.0,3365273.72,NO,CD
+2010,Norway,CBPF,Ethiopia,Member State,0.0,747030.74,NO,ET
+2010,Norway,CBPF,Pakistan,Member State,0.0,3211035.9,NO,PK
+2010,Norway,CBPF,Somalia,Member State,0.0,1700000.0,NO,SO
+2010,Norway,CBPF,Sudan,Member State,0.0,19888824.62,NO,SD
+2010,Norway,CBPF,oPt,Member State,0.0,760184.96,NO,PS
+2010,Saudi Arabia,CBPF,Haiti,Member State,0.0,50000000.0,SA,HT
+2010,Sierra Leone,CBPF,Haiti,Member State,0.0,100000.0,SL,HT
+2010,Slovenia,CBPF,Haiti,Member State,0.0,277777.78,SI,HT
+2010,Spain,CBPF,Colombia,Member State,0.0,674763.83,ES,CO
+2010,Spain,CBPF,DRC,Member State,0.0,12517040.0,ES,CD
+2010,Spain,CBPF,Ethiopia,Member State,0.0,1221001.22,ES,ET
+2010,Spain,CBPF,Sudan,Member State,0.0,17132700.0,ES,SD
+2010,Spain,CBPF,oPt,Member State,0.0,1622398.62,ES,PS
+2010,Sweden,CBPF,CAR,Member State,0.0,3998789.94,SE,CF
+2010,Sweden,CBPF,Colombia,Member State,0.0,437849.97,SE,CO
+2010,Sweden,CBPF,DRC,Member State,0.0,15510049.51,SE,CD
+2010,Sweden,CBPF,Ethiopia,Member State,0.0,3696599.84,SE,ET
+2010,Sweden,CBPF,Haiti,Member State,0.0,817559.99,SE,HT
+2010,Sweden,CBPF,Somalia,Member State,0.0,2558475.0,SE,SO
+2010,Sweden,CBPF,Sudan,Member State,0.0,13907975.8,SE,SD
+2010,Sweden,CBPF,Yemen,Member State,0.0,951859.95,SE,YE
+2010,Switzerland,CBPF,Somalia,Member State,0.0,936182.09,CH,SO
+2010,Tunisia,CBPF,Haiti,Member State,0.0,1000000.0,TN,HT
+2010,UNF,CBPF,Haiti,Member State,0.0,187768.06000000003,,HT
+2010,UNF,CBPF,Pakistan,Member State,0.0,121054.18000000001,,PK
+2010,Uganda,CBPF,Haiti,Member State,0.0,100000.0,UG,HT
+2010,United Kingdom,CBPF,CAR,Member State,0.0,2293577.98,GB,CF
+2010,United Kingdom,CBPF,DRC,Member State,0.0,78399500.0,GB,CD
+2010,United Kingdom,CBPF,Pakistan,Member State,0.0,7824726.13,GB,PK
+2010,United Kingdom,CBPF,Somalia,Member State,0.0,6100000.0,GB,SO
+2010,United Kingdom,CBPF,Yemen,Member State,0.0,792393.03,GB,YE
+2010,United Kingdom,CBPF,oPt,Member State,0.0,1600000.0,GB,PS
+2010,Vietnam,CBPF,Haiti,Member State,0.0,130000.0,VN,HT
+2011,Australia,CBPF,DRC,Member State,0.0,4268000.0,AU,CD
+2011,Australia,CBPF,Somalia,Member State,0.0,3098400.0,AU,SO
+2011,Australia,CBPF,Sudan,Member State,0.0,4062400.0,AU,SD
+2011,Australia,CBPF,Yemen,Member State,0.0,1036272.73,AU,YE
+2011,Azerbaijan,CBPF,Somalia,Member State,0.0,100000.0,AZ,SO
+2011,Brunei Darussalam,CBPF,Haiti,Member State,0.0,61337.58,BN,HT
+2011,"Congo, Republic of",CBPF,Haiti,Member State,0.0,400000.0,CD,HT
+2011,Denmark,CBPF,Ethiopia,Member State,0.0,5536274.0,DK,ET
+2011,Denmark,CBPF,Somalia,Member State,0.0,11201376.56,DK,SO
+2011,Denmark,CBPF,Sudan,Member State,0.0,2995594.71,DK,SD
+2011,Finland,CBPF,Somalia,Member State,0.0,2811000.0,FI,SO
+2011,Guyana,CBPF,Somalia,Member State,0.0,75000.0,GY,SO
+2011,Ireland,CBPF,CAR,Member State,0.0,3351745.0,IE,CF
+2011,Ireland,CBPF,DRC,Member State,0.0,4723355.11,IE,CD
+2011,Ireland,CBPF,Ethiopia,Member State,0.0,962128.24,IE,ET
+2011,Ireland,CBPF,Somalia,Member State,0.0,3403842.89,IE,SO
+2011,Ireland,CBPF,Sudan,Member State,0.0,4014009.0,IE,SD
+2011,Ireland,CBPF,Yemen,Member State,0.0,273597.81,IE,YE
+2011,Italy,CBPF,Ethiopia,Member State,0.0,709610.19,IT,ET
+2011,Luxembourg,CBPF,DRC,Member State,0.0,652200.0,LU,CD
+2011,Moldova,CBPF,Haiti,Member State,0.0,10308.64,MD,HT
+2011,Montenegro,CBPF,Pakistan,Member State,0.0,70316.9,ME,PK
+2011,Netherlands,CBPF,DRC,Member State,0.0,5000000.0,NL,CD
+2011,Netherlands,CBPF,Ethiopia,Member State,0.0,6875000.0,NL,ET
+2011,Netherlands,CBPF,Somalia,Member State,0.0,18700000.0,NL,SO
+2011,Netherlands,CBPF,Sudan,Member State,0.0,14375000.0,NL,SD
+2011,Norway,CBPF,Colombia,Member State,0.0,1011518.51,NO,CO
+2011,Norway,CBPF,DRC,Member State,0.0,6945282.42,NO,CD
+2011,Norway,CBPF,Ethiopia,Member State,0.0,2120038.3200000003,NO,ET
+2011,Norway,CBPF,Pakistan,Member State,0.0,1863078.48,NO,PK
+2011,Norway,CBPF,Somalia,Member State,0.0,15659747.91,NO,SO
+2011,Norway,CBPF,Sudan,Member State,0.0,22753441.25,NO,SD
+2011,Norway,CBPF,oPt,Member State,0.0,1701438.98,NO,PS
+2011,PRIVATE SECTOR,CBPF,Somalia,Member State,0.0,10000.0,,SO
+2011,Poland,CBPF,Somalia,Member State,0.0,297920.51,PL,SO
+2011,San Marino,CBPF,Colombia,Member State,0.0,14245.01,SM,CO
+2011,Spain,CBPF,Colombia,Member State,0.0,1368941.43,ES,CO
+2011,Spain,CBPF,DRC,Member State,0.0,6760950.0,ES,CD
+2011,Spain,CBPF,Ethiopia,Member State,0.0,682128.24,ES,ET
+2011,Spain,CBPF,Sudan,Member State,0.0,9350250.0,ES,SD
+2011,Spain,CBPF,oPt,Member State,0.0,682128.24,ES,PS
+2011,Sweden,CBPF,CAR,Member State,0.0,4874075.36,SE,CF
+2011,Sweden,CBPF,DRC,Member State,0.0,17442675.33,SE,CD
+2011,Sweden,CBPF,Ethiopia,Member State,0.0,6159600.17,SE,ET
+2011,Sweden,CBPF,Myanmar,Member State,0.0,2199674.17,SE,MM
+2011,Sweden,CBPF,Somalia,Member State,0.0,8286100.21,SE,SO
+2011,Sweden,CBPF,Sudan,Member State,0.0,28378774.59,SE,SD
+2011,Sweden,CBPF,Yemen,Member State,0.0,2232161.5300000003,SE,YE
+2011,Sweden,CBPF,oPt,Member State,0.0,1275600.1,SE,PS
+2011,Switzerland,CBPF,Ethiopia,Member State,0.0,1783534.21,CH,ET
+2011,Switzerland,CBPF,Somalia,Member State,0.0,3374374.11,CH,SO
+2011,Switzerland,CBPF,Yemen,Member State,0.0,542888.17,CH,YE
+2011,UNF,CBPF,Ethiopia,Member State,0.0,93.0,,ET
+2011,UNF,CBPF,Pakistan,Member State,0.0,26493.91,,PK
+2011,United Kingdom,CBPF,DRC,Member State,0.0,35375250.0,GB,CD
+2011,United Kingdom,CBPF,Ethiopia,Member State,0.0,17813610.4,GB,ET
+2011,United Kingdom,CBPF,Somalia,Member State,0.0,32648523.04,GB,SO
+2011,United Kingdom,CBPF,Sudan,Member State,0.0,78255000.0,GB,SD
+2011,United Kingdom,CBPF,Yemen,Member State,0.0,2438729.61,GB,YE
+2012,Australia,CBPF,Myanmar,Member State,0.0,1047200.0,AU,MM
+2012,Australia,CBPF,Somalia,Member State,0.0,9154900.0,AU,SO
+2012,Australia,CBPF,South Sudan,Member State,0.0,9345700.0,AU,SS
+2012,Australia,CBPF,Sudan,Member State,0.0,2121600.0,AU,SD
+2012,Belgium,CBPF,DRC,Member State,0.0,5222400.0,BE,CD
+2012,Denmark,CBPF,Ethiopia,Member State,0.0,902391.08,DK,ET
+2012,Denmark,CBPF,Somalia,Member State,0.0,5332480.14,DK,SO
+2012,Denmark,CBPF,South Sudan,Member State,0.0,5123825.79,DK,SS
+2012,Denmark,CBPF,Sudan,Member State,0.0,6711027.33,DK,SD
+2012,Denmark,CBPF,Yemen,Member State,0.0,1727782.99,DK,YE
+2012,Denmark,CBPF,oPt,Member State,0.0,1082836.48,DK,PS
+2012,Finland,CBPF,Somalia,Member State,0.0,3990600.0,FI,SO
+2012,Germany,CBPF,Somalia,Member State,0.0,2529700.0,DE,SO
+2012,Ireland,CBPF,CAR,Member State,0.0,2465530.4,IE,CF
+2012,Ireland,CBPF,DRC,Member State,0.0,8904494.379999999,IE,CD
+2012,Ireland,CBPF,Ethiopia,Member State,0.0,1093026.15,IE,ET
+2012,Ireland,CBPF,Somalia,Member State,0.0,4291664.4,IE,SO
+2012,Ireland,CBPF,South Sudan,Member State,0.0,2918882.4,IE,SS
+2012,Ireland,CBPF,Sudan,Member State,0.0,2918882.4,IE,SD
+2012,Ireland,CBPF,Yemen,Member State,0.0,515841.68999999994,IE,YE
+2012,Ireland,CBPF,oPt,Member State,0.0,62735.26,IE,PS
+2012,Korea,CBPF,Yemen,Member State,0.0,500000.0,KR,YE
+2012,Luxembourg,CBPF,DRC,Member State,0.0,307425.0,LU,CD
+2012,Netherlands,CBPF,Ethiopia,Member State,0.0,6428571.0,NL,ET
+2012,Netherlands,CBPF,Somalia,Member State,0.0,8500000.0,NL,SO
+2012,Netherlands,CBPF,South Sudan,Member State,0.0,20000000.0,NL,SS
+2012,Netherlands,CBPF,Sudan,Member State,0.0,5000000.0,NL,SD
+2012,Norway,CBPF,Colombia,Member State,0.0,533789.5,NO,CO
+2012,Norway,CBPF,DRC,Member State,0.0,8462089.49,NO,CD
+2012,Norway,CBPF,Ethiopia,Member State,0.0,820417.37,NO,ET
+2012,Norway,CBPF,Pakistan,Member State,0.0,874283.76,NO,PK
+2012,Norway,CBPF,Somalia,Member State,0.0,3474001.61,NO,SO
+2012,Norway,CBPF,South Sudan,Member State,0.0,12106629.98,NO,SS
+2012,Norway,CBPF,Sudan,Member State,0.0,10735343.05,NO,SD
+2012,Spain,CBPF,Colombia,Member State,0.0,649350.65,ES,CO
+2012,Spain,CBPF,DRC,Member State,0.0,3833100.0,ES,CD
+2012,Spain,CBPF,Ethiopia,Member State,0.0,649350.65,ES,ET
+2012,Spain,CBPF,Sudan,Member State,0.0,3833100.0,ES,SD
+2012,Spain,CBPF,oPt,Member State,0.0,649350.65,ES,PS
+2012,Sweden,CBPF,CAR,Member State,0.0,2918650.02,SE,CF
+2012,Sweden,CBPF,DRC,Member State,0.0,18752449.31,SE,CD
+2012,Sweden,CBPF,Ethiopia,Member State,0.0,4486132.26,SE,ET
+2012,Sweden,CBPF,Somalia,Member State,0.0,6852934.61,SE,SO
+2012,Sweden,CBPF,South Sudan,Member State,0.0,19082324.3,SE,SS
+2012,Sweden,CBPF,Sudan,Member State,0.0,15106524.99,SE,SD
+2012,Sweden,CBPF,Yemen,Member State,0.0,1498231.49,SE,YE
+2012,Sweden,CBPF,oPt,Member State,0.0,1131120.0,SE,PS
+2012,Switzerland,CBPF,Ethiopia,Member State,0.0,619973.56,CH,ET
+2012,Switzerland,CBPF,Somalia,Member State,0.0,1801451.7,CH,SO
+2012,Switzerland,CBPF,Yemen,Member State,0.0,969599.8500000001,CH,YE
+2012,Switzerland,CBPF,oPt,Member State,0.0,539956.8,CH,PS
+2012,UNF,CBPF,Haiti,Member State,0.0,302.04,,HT
+2012,United Kingdom,CBPF,DRC,Member State,0.0,44896950.0,GB,CD
+2012,United Kingdom,CBPF,Ethiopia,Member State,0.0,12558869.7,GB,ET
+2012,United Kingdom,CBPF,Pakistan,Member State,0.0,4846526.66,GB,PK
+2012,United Kingdom,CBPF,Somalia,Member State,0.0,25086400.0,GB,SO
+2012,United Kingdom,CBPF,South Sudan,Member State,0.0,49695300.0,GB,SS
+2012,United Kingdom,CBPF,Sudan,Member State,0.0,33469275.0,GB,SD
+2012,United Kingdom,CBPF,Yemen,Member State,0.0,3466108.94,GB,YE
+2013,African Union,CBPF,Somalia,Member State,0.0,1999978.0,,SO
+2013,Australia,CBPF,DRC,Member State,0.0,2049400.0,AU,CD
+2013,Australia,CBPF,Somalia,Member State,0.0,3689200.0,AU,SO
+2013,Australia,CBPF,South Sudan,Member State,0.0,4816300.0,AU,SS
+2013,Belgium,CBPF,DRC,Member State,0.0,9306400.0,BE,CD
+2013,Denmark,CBPF,Somalia,Member State,0.0,3553218.33,DK,SO
+2013,Denmark,CBPF,South Sudan,Member State,0.0,7054289.98,DK,SS
+2013,Denmark,CBPF,Sudan,Member State,0.0,3575898.44,DK,SD
+2013,Denmark,CBPF,Yemen,Member State,0.0,3624619.9400000004,DK,YE
+2013,Finland,CBPF,Somalia,Member State,0.0,3895200.0,FI,SO
+2013,Germany,CBPF,Somalia,Member State,0.0,1320150.0,DE,SO
+2013,Germany,CBPF,oPt,Member State,0.0,402178.71,DE,PS
+2013,Iceland,CBPF,oPt,Member State,0.0,200000.0,IS,PS
+2013,Indonesia,CBPF,Syria,Member State,0.0,499111.38,ID,SY
+2013,Ireland,CBPF,CAR,Member State,0.0,2603140.0,IE,CF
+2013,Ireland,CBPF,DRC,Member State,0.0,4987440.0,IE,CD
+2013,Ireland,CBPF,Ethiopia,Member State,0.0,663129.97,IE,ET
+2013,Ireland,CBPF,Somalia,Member State,0.0,4580190.0,IE,SO
+2013,Ireland,CBPF,South Sudan,Member State,0.0,3213040.0,IE,SS
+2013,Ireland,CBPF,Sudan,Member State,0.0,3213040.0,IE,SD
+2013,Ireland,CBPF,Yemen,Member State,0.0,261780.1,IE,YE
+2013,Ireland,CBPF,oPt,Member State,0.0,137741.05,IE,PS
+2013,Luxembourg,CBPF,DRC,Member State,0.0,327350.0,LU,CD
+2013,Netherlands,CBPF,CAR,Member State,0.0,2500000.0,NL,CF
+2013,Netherlands,CBPF,DRC,Member State,0.0,1875000.0,NL,CD
+2013,Netherlands,CBPF,Ethiopia,Member State,0.0,1250000.0,NL,ET
+2013,Netherlands,CBPF,Somalia,Member State,0.0,1562500.0,NL,SO
+2013,Netherlands,CBPF,South Sudan,Member State,0.0,5000000.0,NL,SS
+2013,Netherlands,CBPF,Sudan,Member State,0.0,2250000.0,NL,SD
+2013,Norway,CBPF,Colombia,Member State,0.0,497993.17,NO,CO
+2013,Norway,CBPF,DRC,Member State,0.0,6842006.85,NO,CD
+2013,Norway,CBPF,Ethiopia,Member State,0.0,829988.62,NO,ET
+2013,Norway,CBPF,Pakistan,Member State,0.0,1681908.97,NO,PK
+2013,Norway,CBPF,South Sudan,Member State,0.0,8547008.55,NO,SS
+2013,Norway,CBPF,Sudan,Member State,0.0,10328266.74,NO,SD
+2013,Norway,CBPF,Yemen,Member State,0.0,1614481.51,NO,YE
+2013,Norway,CBPF,oPt,Member State,0.0,1614481.51,NO,PS
+2013,Spain,CBPF,Colombia,Member State,0.0,662251.66,ES,CO
+2013,Spain,CBPF,Haiti,Member State,0.0,331125.83,ES,HT
+2013,Spain,CBPF,oPt,Member State,0.0,397350.99,ES,PS
+2013,Sweden,CBPF,CAR,Member State,0.0,4495547.91,SE,CF
+2013,Sweden,CBPF,Colombia,Member State,0.0,611192.69,SE,CO
+2013,Sweden,CBPF,DRC,Member State,0.0,12335973.58,SE,CD
+2013,Sweden,CBPF,Ethiopia,Member State,0.0,1515399.95,SE,ET
+2013,Sweden,CBPF,Haiti,Member State,0.0,757699.97,SE,HT
+2013,Sweden,CBPF,Myanmar,Member State,0.0,757699.97,SE,MM
+2013,Sweden,CBPF,Pakistan,Member State,0.0,3807372.5300000003,SE,PK
+2013,Sweden,CBPF,Somalia,Member State,0.0,9805303.09,SE,SO
+2013,Sweden,CBPF,South Sudan,Member State,0.0,13997672.4,SE,SS
+2013,Sweden,CBPF,Sudan,Member State,0.0,14516297.42,SE,SD
+2013,Sweden,CBPF,Yemen,Member State,0.0,2291972.58,SE,YE
+2013,Sweden,CBPF,oPt,Member State,0.0,458394.52,SE,PS
+2013,Switzerland,CBPF,Ethiopia,Member State,0.0,1294787.63,CH,ET
+2013,Switzerland,CBPF,Somalia,Member State,0.0,532708.29,CH,SO
+2013,Switzerland,CBPF,oPt,Member State,0.0,2375422.77,CH,PS
+2013,UNF,CBPF,Haiti,Member State,0.0,200.0,,HT
+2013,United Kingdom,CBPF,DRC,Member State,0.0,33292000.0,GB,CD
+2013,United Kingdom,CBPF,Ethiopia,Member State,0.0,9463722.4,GB,ET
+2013,United Kingdom,CBPF,Haiti,Member State,0.0,1908396.95,GB,HT
+2013,United Kingdom,CBPF,Pakistan,Member State,0.0,4651162.79,GB,PK
+2013,United Kingdom,CBPF,Somalia,Member State,0.0,28977300.0,GB,SO
+2013,United Kingdom,CBPF,South Sudan,Member State,0.0,77014064.18,GB,SS
+2013,United Kingdom,CBPF,Sudan,Member State,0.0,37239200.0,GB,SD
+2013,United Kingdom,CBPF,Yemen,Member State,0.0,3826632.31,GB,YE
+2014,Australia,CBPF,Afghanistan,Member State,0.0,371040.0,AU,AF
+2014,Australia,CBPF,Myanmar,Member State,0.0,1881400.0,AU,MM
+2014,Australia,CBPF,Somalia,Member State,0.0,4383984.65,AU,SO
+2014,Australia,CBPF,South Sudan,Member State,0.0,7009884.66,AU,SS
+2014,Belgium,CBPF,DRC,Member State,0.0,6255700.0,BE,CD
+2014,Belgium,CBPF,South Sudan,Member State,0.0,6276525.01,BE,SS
+2014,Canada,CBPF,Syria Cross border,Member State,0.0,4175016.7,CA,XX
+2014,Denmark,CBPF,CAR,Member State,0.0,5549167.15,DK,CF
+2014,Denmark,CBPF,Lebanon,Member State,0.0,1004049.67,DK,LB
+2014,Denmark,CBPF,Somalia,Member State,0.0,5602588.9399999995,DK,SO
+2014,Denmark,CBPF,South Sudan,Member State,0.0,8316944.220000001,DK,SS
+2014,Denmark,CBPF,Sudan,Member State,0.0,1868600.04,DK,SD
+2014,Denmark,CBPF,Syria Cross border,Member State,0.0,2342782.56,DK,XX
+2014,Denmark,CBPF,Yemen,Member State,0.0,3425896.2800000003,DK,YE
+2014,Denmark,CBPF,oPt,Member State,0.0,982912.98,DK,PS
+2014,Finland,CBPF,Somalia,Member State,0.0,1860600.0,FI,SO
+2014,France,CBPF,Syria Cross border,Member State,0.0,622665.01,FR,XX
+2014,Germany,CBPF,Jordan,Member State,0.0,1239157.37,DE,JO
+2014,Germany,CBPF,Lebanon,Member State,0.0,2478314.75,DE,LB
+2014,Germany,CBPF,Somalia,Member State,0.0,1255980.0,DE,SO
+2014,Germany,CBPF,South Sudan,Member State,0.0,1957850.0,DE,SS
+2014,Germany,CBPF,Syria,Member State,0.0,2478314.75,DE,SY
+2014,Germany,CBPF,Syria Cross border,Member State,0.0,7456637.37,DE,XX
+2014,Germany,CBPF,Yemen,Member State,0.0,2504600.0,DE,YE
+2014,Germany,CBPF,oPt,Member State,0.0,627500.0,DE,PS
+2014,Iceland,CBPF,oPt,Member State,0.0,130000.0,IS,PS
+2014,India,CBPF,Jordan,Member State,0.0,500000.0,IN,JO
+2014,India,CBPF,Lebanon,Member State,0.0,500000.0,IN,LB
+2014,India,CBPF,Syria,Member State,0.0,1000000.0,IN,SY
+2014,Ireland,CBPF,CAR,Member State,0.0,3988740.0,IE,CF
+2014,Ireland,CBPF,DRC,Member State,0.0,4573990.0,IE,CD
+2014,Ireland,CBPF,Ethiopia,Member State,0.0,679347.83,IE,ET
+2014,Ireland,CBPF,Somalia,Member State,0.0,4042340.0,IE,SO
+2014,Ireland,CBPF,South Sudan,Member State,0.0,4020240.0,IE,SS
+2014,Ireland,CBPF,Sudan,Member State,0.0,3211790.0,IE,SD
+2014,Ireland,CBPF,oPt,Member State,0.0,133689.84,IE,PS
+2014,Korea,CBPF,Afghanistan,Member State,0.0,6000000.0,KR,AF
+2014,Korea,CBPF,Yemen,Member State,0.0,300000.0,KR,YE
+2014,Luxembourg,CBPF,CAR,Member State,0.0,341525.0,LU,CF
+2014,Luxembourg,CBPF,DRC,Member State,0.0,344025.01,LU,CD
+2014,Luxembourg,CBPF,Syria,Member State,0.0,317662.01,LU,SY
+2014,Netherlands,CBPF,CAR,Member State,0.0,16688500.0,NL,CF
+2014,Netherlands,CBPF,DRC,Member State,0.0,4605263.0,NL,CD
+2014,Netherlands,CBPF,Somalia,Member State,0.0,1268400.0,NL,SO
+2014,Netherlands,CBPF,South Sudan,Member State,0.0,15665100.0,NL,SS
+2014,Netherlands,CBPF,Sudan,Member State,0.0,3154750.0,NL,SD
+2014,Netherlands,CBPF,Yemen,Member State,0.0,2717391.3,NL,YE
+2014,Norway,CBPF,Afghanistan,Member State,0.0,1340450.57,NO,AF
+2014,Norway,CBPF,CAR,Member State,0.0,4912782.42,NO,CF
+2014,Norway,CBPF,Colombia,Member State,0.0,483932.24,NO,CO
+2014,Norway,CBPF,DRC,Member State,0.0,4640483.58,NO,CD
+2014,Norway,CBPF,Ethiopia,Member State,0.0,688136.53,NO,ET
+2014,Norway,CBPF,South Sudan,Member State,0.0,11378413.040000001,NO,SS
+2014,Norway,CBPF,Sudan,Member State,0.0,9861371.39,NO,SD
+2014,Norway,CBPF,Syria Cross border,Member State,0.0,2064409.58,NO,XX
+2014,Qatar,CBPF,Syria Cross border,Member State,0.0,19999960.0,QA,XX
+2014,Spain,CBPF,Colombia,Member State,0.0,317525.0,ES,CO
+2014,Spain,CBPF,Syria,Member State,0.0,1169786.09,ES,SY
+2014,Spain,CBPF,Syria Cross border,Member State,0.0,501336.9,ES,XX
+2014,Spain,CBPF,oPt,Member State,0.0,317662.01,ES,PS
+2014,Sweden,CBPF,Afghanistan,Member State,0.0,11970374.6,SE,AF
+2014,Sweden,CBPF,CAR,Member State,0.0,3667225.15,SE,CF
+2014,Sweden,CBPF,Colombia,Member State,0.0,583000.04,SE,CO
+2014,Sweden,CBPF,DRC,Member State,0.0,7933175.34,SE,CD
+2014,Sweden,CBPF,Ethiopia,Member State,0.0,3450492.92,SE,ET
+2014,Sweden,CBPF,Haiti,Member State,0.0,1457500.1,SE,HT
+2014,Sweden,CBPF,Jordan,Member State,0.0,660796.39,SE,JO
+2014,Sweden,CBPF,Lebanon,Member State,0.0,660796.39,SE,LB
+2014,Sweden,CBPF,Myanmar,Member State,0.0,728750.05,SE,MM
+2014,Sweden,CBPF,Pakistan,Member State,0.0,8665802.83,SE,PK
+2014,Sweden,CBPF,Somalia,Member State,0.0,10660600.649999999,SE,SO
+2014,Sweden,CBPF,South Sudan,Member State,0.0,33224824.35,SE,SS
+2014,Sweden,CBPF,Sudan,Member State,0.0,10559474.61,SE,SD
+2014,Sweden,CBPF,Syria,Member State,0.0,1321592.78,SE,SY
+2014,Sweden,CBPF,Syria Cross border,Member State,0.0,1982389.18,SE,XX
+2014,Sweden,CBPF,Yemen,Member State,0.0,4372500.3,SE,YE
+2014,Sweden,CBPF,oPt,Member State,0.0,2845150.14,SE,PS
+2014,Switzerland,CBPF,CAR,Member State,0.0,1614797.6400000001,CH,CF
+2014,Switzerland,CBPF,Colombia,Member State,0.0,368421.0,CH,CO
+2014,Switzerland,CBPF,Ethiopia,Member State,0.0,989010.99,CH,ET
+2014,Switzerland,CBPF,Somalia,Member State,0.0,2039941.04,CH,SO
+2014,Switzerland,CBPF,South Sudan,Member State,0.0,2049511.15,CH,SS
+2014,Switzerland,CBPF,Sudan,Member State,0.0,1087686.8599999999,CH,SD
+2014,Switzerland,CBPF,Syria Cross border,Member State,0.0,1828456.84,CH,XX
+2014,Switzerland,CBPF,Yemen,Member State,0.0,1013171.23,CH,YE
+2014,Switzerland,CBPF,oPt,Member State,0.0,2711434.72,CH,PS
+2014,UNF,CBPF,Ethiopia,Member State,0.0,4108.11,,ET
+2014,UNOCHA,CBPF,Afghanistan,Member State,0.0,1087230.72,,AF
+2014,United Kingdom,CBPF,Afghanistan,Member State,0.0,25881600.0,GB,AF
+2014,United Kingdom,CBPF,CAR,Member State,0.0,1671681.71,GB,CF
+2014,United Kingdom,CBPF,DRC,Member State,0.0,30622300.0,GB,CD
+2014,United Kingdom,CBPF,Ethiopia,Member State,0.0,14598519.05,GB,ET
+2014,United Kingdom,CBPF,Haiti,Member State,0.0,1659000.0,GB,HT
+2014,United Kingdom,CBPF,Myanmar,Member State,0.0,1658503.4,GB,MM
+2014,United Kingdom,CBPF,Somalia,Member State,0.0,10975300.0,GB,SO
+2014,United Kingdom,CBPF,South Sudan,Member State,0.0,42510000.0,GB,SS
+2014,United Kingdom,CBPF,Sudan,Member State,0.0,22346951.73,GB,SD
+2014,United Kingdom,CBPF,Syria Cross border,Member State,0.0,5329153.6,GB,XX
+2014,United Kingdom,CBPF,Yemen,Member State,0.0,7913520.18,GB,YE
+2015,Australia,CBPF,Afghanistan,Member State,0.0,6143578.23,AU,AF
+2015,Australia,CBPF,Myanmar,Member State,0.0,1127385.05,AU,MM
+2015,Australia,CBPF,Somalia,Member State,0.0,3594485.62,AU,SO
+2015,Australia,CBPF,South Sudan,Member State,0.0,7395964.49,AU,SS
+2015,Belgium,CBPF,Jordan,Member State,0.0,5745097.470000001,BE,JO
+2015,Belgium,CBPF,Lebanon,Member State,0.0,6304381.58,BE,LB
+2015,Belgium,CBPF,South Sudan,Member State,0.0,2205832.0,BE,SS
+2015,Belgium,CBPF,Syria,Member State,0.0,6304381.58,BE,SY
+2015,Belgium,CBPF,Syria Cross border,Member State,0.0,5558568.33,BE,XX
+2015,Belgium,CBPF,oPt,Member State,0.0,2796420.58,BE,PS
+2015,Denmark,CBPF,Afghanistan,Member State,0.0,3116235.59,DK,AF
+2015,Denmark,CBPF,CAR,Member State,0.0,1494985.3,DK,CF
+2015,Denmark,CBPF,Ethiopia,Member State,0.0,2928684.34,DK,ET
+2015,Denmark,CBPF,Lebanon,Member State,0.0,741179.96,DK,LB
+2015,Denmark,CBPF,Somalia,Member State,0.0,6948397.58,DK,SO
+2015,Denmark,CBPF,South Sudan,Member State,0.0,2985306.32,DK,SS
+2015,Denmark,CBPF,Sudan,Member State,0.0,5271674.720000001,DK,SD
+2015,Denmark,CBPF,Yemen,Member State,0.0,3009905.62,DK,YE
+2015,France,CBPF,Syria Cross border,Member State,0.0,552486.19,FR,XX
+2015,Germany,CBPF,Afghanistan,Member State,0.0,1070300.0,DE,AF
+2015,Germany,CBPF,Iraq,Member State,0.0,5538076.58,DE,IQ
+2015,Germany,CBPF,Somalia,Member State,0.0,1091580.0,DE,SO
+2015,Germany,CBPF,South Sudan,Member State,0.0,1091580.0,DE,SS
+2015,Germany,CBPF,Sudan,Member State,0.0,1091580.0,DE,SD
+2015,Germany,CBPF,Syria,Member State,0.0,1096491.23,DE,SY
+2015,Germany,CBPF,Yemen,Member State,0.0,1118568.23,DE,YE
+2015,Germany,CBPF,oPt,Member State,0.0,1639344.26,DE,PS
+2015,Iceland,CBPF,Lebanon,Member State,0.0,750000.0,IS,LB
+2015,India,CBPF,Syria,Member State,0.0,1000000.0,IN,SY
+2015,Ireland,CBPF,CAR,Member State,0.0,3255570.0,IE,CF
+2015,Ireland,CBPF,DRC,Member State,0.0,3258270.0,IE,CD
+2015,Ireland,CBPF,Ethiopia,Member State,0.0,4088302.73,IE,ET
+2015,Ireland,CBPF,Iraq,Member State,0.0,1096491.23,IE,IQ
+2015,Ireland,CBPF,Somalia,Member State,0.0,3274140.0,IE,SO
+2015,Ireland,CBPF,South Sudan,Member State,0.0,3255570.0,IE,SS
+2015,Ireland,CBPF,Sudan,Member State,0.0,2712840.0,IE,SD
+2015,Ireland,CBPF,Syria Cross border,Member State,0.0,1096491.23,IE,XX
+2015,Ireland,CBPF,Yemen,Member State,0.0,1710741.05,IE,YE
+2015,Ireland,CBPF,oPt,Member State,0.0,221238.94,IE,PS
+2015,Italy,CBPF,South Sudan,Member State,0.0,550665.01,IT,SS
+2015,Korea,CBPF,Afghanistan,Member State,0.0,200000.0,KR,AF
+2015,Korea,CBPF,Syria,Member State,0.0,500000.0,KR,SY
+2015,Korea,CBPF,Yemen,Member State,0.0,200000.0,KR,YE
+2015,Kuwait,CBPF,Syria,Member State,0.0,2500000.0,KW,SY
+2015,Luxembourg,CBPF,CAR,Member State,0.0,281452.75,LU,CF
+2015,Luxembourg,CBPF,DRC,Member State,0.0,264450.0,LU,CD
+2015,Luxembourg,CBPF,Syria,Member State,0.0,281375.0,LU,SY
+2015,Malaysia,CBPF,Syria,Member State,0.0,500000.0,MY,SY
+2015,Netherlands,CBPF,CAR,Member State,0.0,4429852.0,NL,CF
+2015,Netherlands,CBPF,DRC,Member State,0.0,2232000.0,NL,CD
+2015,Netherlands,CBPF,Ethiopia,Member State,0.0,5291005.29,NL,ET
+2015,Netherlands,CBPF,Iraq,Member State,0.0,20672683.18,NL,IQ
+2015,Netherlands,CBPF,Jordan,Member State,0.0,3174603.17,NL,JO
+2015,Netherlands,CBPF,Lebanon,Member State,0.0,10317460.32,NL,LB
+2015,Netherlands,CBPF,South Sudan,Member State,0.0,5346500.0,NL,SS
+2015,Netherlands,CBPF,Sudan,Member State,0.0,2218734.0,NL,SD
+2015,Netherlands,CBPF,Syria,Member State,0.0,10553728.07,NL,SY
+2015,Netherlands,CBPF,Syria Cross border,Member State,0.0,31661184.21,NL,XX
+2015,Netherlands,CBPF,Yemen,Member State,0.0,13202048.75,NL,YE
+2015,Norway,CBPF,Afghanistan,Member State,0.0,1147927.18,NO,AF
+2015,Norway,CBPF,CAR,Member State,0.0,742746.11,NO,CF
+2015,Norway,CBPF,DRC,Member State,0.0,1237910.18,NO,CD
+2015,Norway,CBPF,South Sudan,Member State,0.0,9074470.1,NO,SS
+2015,Norway,CBPF,Sudan,Member State,0.0,6622430.6,NO,SD
+2015,Norway,CBPF,Syria,Member State,0.0,2895537.03,NO,SY
+2015,Norway,CBPF,Syria Cross border,Member State,0.0,1477428.58,NO,XX
+2015,Norway,CBPF,oPt,Member State,0.0,593264.61,NO,PS
+2015,Spain,CBPF,Colombia,Member State,0.0,655737.7,ES,CO
+2015,Spain,CBPF,Syria,Member State,0.0,546448.09,ES,SY
+2015,Spain,CBPF,Syria Cross border,Member State,0.0,546448.09,ES,XX
+2015,Spain,CBPF,oPt,Member State,0.0,546448.09,ES,PS
+2015,Sweden,CBPF,Afghanistan,Member State,0.0,8073705.23,SE,AF
+2015,Sweden,CBPF,CAR,Member State,0.0,2421115.14,SE,CF
+2015,Sweden,CBPF,Colombia,Member State,0.0,477042.34,SE,CO
+2015,Sweden,CBPF,DRC,Member State,0.0,9912246.17,SE,CD
+2015,Sweden,CBPF,Ethiopia,Member State,0.0,706687.99,SE,ET
+2015,Sweden,CBPF,Haiti,Member State,0.0,596302.92,SE,HT
+2015,Sweden,CBPF,Iraq,Member State,0.0,943600.59,SE,IQ
+2015,Sweden,CBPF,Jordan,Member State,0.0,1713153.06,SE,JO
+2015,Sweden,CBPF,Lebanon,Member State,0.0,1142102.04,SE,LB
+2015,Sweden,CBPF,Myanmar,Member State,0.0,589750.37,SE,MM
+2015,Sweden,CBPF,Pakistan,Member State,0.0,2020877.38,SE,PK
+2015,Sweden,CBPF,Somalia,Member State,0.0,7055405.169999999,SE,SO
+2015,Sweden,CBPF,South Sudan,Member State,0.0,12854447.59,SE,SS
+2015,Sweden,CBPF,Sudan,Member State,0.0,6336249.86,SE,SD
+2015,Sweden,CBPF,Syria,Member State,0.0,2372106.58,SE,SY
+2015,Sweden,CBPF,Yemen,Member State,0.0,6875816.84,SE,YE
+2015,Sweden,CBPF,oPt,Member State,0.0,1185209.57,SE,PS
+2015,Switzerland,CBPF,CAR,Member State,0.0,1003540.73,CH,CF
+2015,Switzerland,CBPF,Colombia,Member State,0.0,613520.03,CH,CO
+2015,Switzerland,CBPF,Ethiopia,Member State,0.0,3073942.8,CH,ET
+2015,Switzerland,CBPF,Somalia,Member State,0.0,1343028.33,CH,SO
+2015,Switzerland,CBPF,South Sudan,Member State,0.0,1770696.85,CH,SS
+2015,Switzerland,CBPF,Sudan,Member State,0.0,1047778.71,CH,SD
+2015,Switzerland,CBPF,Syria,Member State,0.0,3566237.92,CH,SY
+2015,Switzerland,CBPF,Syria Cross border,Member State,0.0,711382.11,CH,XX
+2015,Switzerland,CBPF,Yemen,Member State,0.0,3159882.8800000004,CH,YE
+2015,Switzerland,CBPF,oPt,Member State,0.0,505050.51,CH,PS
+2015,United Kingdom,CBPF,Afghanistan,Member State,0.0,18222600.0,GB,AF
+2015,United Kingdom,CBPF,CAR,Member State,0.0,9132207.27,GB,CF
+2015,United Kingdom,CBPF,DRC,Member State,0.0,21159621.58,GB,CD
+2015,United Kingdom,CBPF,Ethiopia,Member State,0.0,43381925.71,GB,ET
+2015,United Kingdom,CBPF,Iraq,Member State,0.0,29353019.880000003,GB,IQ
+2015,United Kingdom,CBPF,Myanmar,Member State,0.0,1626162.3900000001,GB,MM
+2015,United Kingdom,CBPF,Pakistan,Member State,0.0,3076923.08,GB,PK
+2015,United Kingdom,CBPF,Somalia,Member State,0.0,7460500.0,GB,SO
+2015,United Kingdom,CBPF,South Sudan,Member State,0.0,52844750.0,GB,SS
+2015,United Kingdom,CBPF,Sudan,Member State,0.0,17299900.0,GB,SD
+2015,United Kingdom,CBPF,Syria Cross border,Member State,0.0,10132204.19,GB,XX
+2015,United Kingdom,CBPF,Yemen,Member State,0.0,27952636.28,GB,YE
+2016,Australia,CBPF,Afghanistan,Member State,0.0,5848785.38,AU,AF
+2016,Australia,CBPF,Ethiopia,Member State,0.0,3160012.13,AU,ET
+2016,Australia,CBPF,Iraq,Member State,0.0,1518213.43,AU,IQ
+2016,Australia,CBPF,Myanmar,Member State,0.0,1101920.11,AU,MM
+2016,Australia,CBPF,Somalia,Member State,0.0,1491997.61,AU,SO
+2016,Australia,CBPF,South Sudan,Member State,0.0,2237996.42,AU,SS
+2016,Belgium,CBPF,CAR,Member State,0.0,4435023.43,BE,CF
+2016,Belgium,CBPF,DRC,Member State,0.0,5543779.29,BE,CD
+2016,Belgium,CBPF,Iraq,Member State,0.0,3311258.28,BE,IQ
+2016,Belgium,CBPF,Jordan,Member State,0.0,5918827.510000001,BE,JO
+2016,Belgium,CBPF,Lebanon,Member State,0.0,6482525.370000001,BE,LB
+2016,Belgium,CBPF,South Sudan,Member State,0.0,2261200.0,BE,SS
+2016,Belgium,CBPF,Syria,Member State,0.0,6482525.370000001,BE,SY
+2016,Belgium,CBPF,Syria Cross border,Member State,0.0,5777903.04,BE,XX
+2016,Belgium,CBPF,oPt,Member State,0.0,2818489.29,BE,PS
+2016,Canada,CBPF,CAR,Member State,0.0,390228.67,CA,CF
+2016,Canada,CBPF,Iraq,Member State,0.0,374930.35,CA,IQ
+2016,Canada,CBPF,South Sudan,Member State,0.0,782350.18,CA,SS
+2016,Canada,CBPF,Yemen,Member State,0.0,3810104.4,CA,YE
+2016,Cyprus,CBPF,Iraq,Member State,0.0,10615.71,CY,IQ
+2016,Denmark,CBPF,Afghanistan,Member State,0.0,4291119.9,DK,AF
+2016,Denmark,CBPF,CAR,Member State,0.0,2869852.2,DK,CF
+2016,Denmark,CBPF,Ethiopia,Member State,0.0,1493988.76,DK,ET
+2016,Denmark,CBPF,Iraq,Member State,0.0,3553457.72,DK,IQ
+2016,Denmark,CBPF,Myanmar,Member State,0.0,1421326.93,DK,MM
+2016,Denmark,CBPF,Somalia,Member State,0.0,6785323.51,DK,SO
+2016,Denmark,CBPF,South Sudan,Member State,0.0,2896787.46,DK,SS
+2016,Denmark,CBPF,Sudan,Member State,0.0,5264415.529999999,DK,SD
+2016,Denmark,CBPF,Syria,Member State,0.0,2987977.53,DK,SY
+2016,Denmark,CBPF,Syria Cross border,Member State,0.0,3716153.98,DK,XX
+2016,Denmark,CBPF,Yemen,Member State,0.0,2842896.29,DK,YE
+2016,France,CBPF,Syria Cross border,Member State,0.0,2234636.87,FR,XX
+2016,Germany,CBPF,Afghanistan,Member State,0.0,9066875.0,DE,AF
+2016,Germany,CBPF,CAR,Member State,0.0,4278900.0,DE,CF
+2016,Germany,CBPF,Ethiopia,Member State,0.0,2254791.43,DE,ET
+2016,Germany,CBPF,Iraq,Member State,0.0,15984809.350000001,DE,IQ
+2016,Germany,CBPF,Lebanon,Member State,0.0,1691093.57,DE,LB
+2016,Germany,CBPF,Somalia,Member State,0.0,2245800.0,DE,SO
+2016,Germany,CBPF,South Sudan,Member State,0.0,2245800.0,DE,SS
+2016,Germany,CBPF,Sudan,Member State,0.0,1122900.0,DE,SD
+2016,Germany,CBPF,Syria,Member State,0.0,3865006.6100000003,DE,SY
+2016,Germany,CBPF,Syria Cross border,Member State,0.0,8649603.58,DE,XX
+2016,Germany,CBPF,Yemen,Member State,0.0,14866831.48,DE,YE
+2016,Germany,CBPF,oPt,Member State,0.0,1698754.25,DE,PS
+2016,Iceland,CBPF,Syria,Member State,0.0,300000.0,IS,SY
+2016,Ireland,CBPF,CAR,Member State,0.0,3278970.0,IE,CF
+2016,Ireland,CBPF,DRC,Member State,0.0,3278970.0,IE,CD
+2016,Ireland,CBPF,Ethiopia,Member State,0.0,1932059.45,IE,ET
+2016,Ireland,CBPF,Iraq,Member State,0.0,2733811.9299999997,IE,IQ
+2016,Ireland,CBPF,Jordan,Member State,0.0,1592356.69,IE,JO
+2016,Ireland,CBPF,Lebanon,Member State,0.0,1061571.13,IE,LB
+2016,Ireland,CBPF,Somalia,Member State,0.0,3278970.0,IE,SO
+2016,Ireland,CBPF,South Sudan,Member State,0.0,3278970.0,IE,SS
+2016,Ireland,CBPF,Sudan,Member State,0.0,3278970.0,IE,SD
+2016,Ireland,CBPF,Syria Cross border,Member State,0.0,2188966.8499999996,IE,XX
+2016,Ireland,CBPF,Yemen,Member State,0.0,4377933.68,IE,YE
+2016,Ireland,CBPF,oPt,Member State,0.0,212314.23,IE,PS
+2016,Jersey,CBPF,Syria,Member State,0.0,603658.54,JE,SY
+2016,Korea,CBPF,Ethiopia,Member State,0.0,500000.0,KR,ET
+2016,Korea,CBPF,South Sudan,Member State,0.0,1000000.0,KR,SS
+2016,Korea,CBPF,Syria,Member State,0.0,500000.0,KR,SY
+2016,Korea,CBPF,Yemen,Member State,0.0,300000.0,KR,YE
+2016,Luxembourg,CBPF,CAR,Member State,0.0,279475.0,LU,CF
+2016,Luxembourg,CBPF,DRC,Member State,0.0,285550.0,LU,CD
+2016,Luxembourg,CBPF,South Sudan,Member State,0.0,678360.05,LU,SS
+2016,Luxembourg,CBPF,Syria,Member State,0.0,284250.0,LU,SY
+2016,Malaysia,CBPF,Syria,Member State,0.0,50000.0,MY,SY
+2016,Netherlands,CBPF,Afghanistan,Member State,0.0,6810000.0,NL,AF
+2016,Netherlands,CBPF,CAR,Member State,0.0,4451200.0,NL,CF
+2016,Netherlands,CBPF,DRC,Member State,0.0,6625200.0,NL,CD
+2016,Netherlands,CBPF,Iraq,Member State,0.0,11476634.129999999,NL,IQ
+2016,Netherlands,CBPF,Jordan,Member State,0.0,1109877.91,NL,JO
+2016,Netherlands,CBPF,Lebanon,Member State,0.0,2219755.83,NL,LB
+2016,Netherlands,CBPF,Somalia,Member State,0.0,1115200.0,NL,SO
+2016,Netherlands,CBPF,South Sudan,Member State,0.0,6795600.0,NL,SS
+2016,Netherlands,CBPF,Sudan,Member State,0.0,6825000.0,NL,SD
+2016,Netherlands,CBPF,Syria,Member State,0.0,9100881.07,NL,SY
+2016,Netherlands,CBPF,Syria Cross border,Member State,0.0,11098779.14,NL,XX
+2016,Netherlands,CBPF,Yemen,Member State,0.0,11273957.16,NL,YE
+2016,Norway,CBPF,Afghanistan,Member State,0.0,3571966.1100000003,NO,AF
+2016,Norway,CBPF,Iraq,Member State,0.0,4338306.74,NO,IQ
+2016,Norway,CBPF,South Sudan,Member State,0.0,8131707.43,NO,SS
+2016,Norway,CBPF,Sudan,Member State,0.0,2405002.41,NO,SD
+2016,Norway,CBPF,Syria,Member State,0.0,5606254.58,NO,SY
+2016,Norway,CBPF,Syria Cross border,Member State,0.0,4678983.88,NO,XX
+2016,Norway,CBPF,oPt,Member State,0.0,706515.99,NO,PS
+2016,Qatar,CBPF,Syria Cross border,Member State,0.0,5000000.0,QA,XX
+2016,Saudi Arabia,CBPF,Yemen,Member State,0.0,5000000.0,SA,YE
+2016,Spain,CBPF,Colombia,Member State,0.0,560538.12,ES,CO
+2016,Spain,CBPF,Syria,Member State,0.0,1121076.23,ES,SY
+2016,Spain,CBPF,Syria Cross border,Member State,0.0,560538.12,ES,XX
+2016,Spain,CBPF,Yemen,Member State,0.0,560538.12,ES,YE
+2016,Spain,CBPF,oPt,Member State,0.0,560538.12,ES,PS
+2016,Sweden,CBPF,Afghanistan,Member State,0.0,10471920.0,SE,AF
+2016,Sweden,CBPF,CAR,Member State,0.0,4528146.03,SE,CF
+2016,Sweden,CBPF,Colombia,Member State,0.0,484384.0,SE,CO
+2016,Sweden,CBPF,DRC,Member State,0.0,12187288.69,SE,CD
+2016,Sweden,CBPF,Ethiopia,Member State,0.0,968768.01,SE,ET
+2016,Sweden,CBPF,Iraq,Member State,0.0,3791365.7800000003,SE,IQ
+2016,Sweden,CBPF,Jordan,Member State,0.0,1210960.01,SE,JO
+2016,Sweden,CBPF,Lebanon,Member State,0.0,1210960.01,SE,LB
+2016,Sweden,CBPF,Myanmar,Member State,0.0,1210960.02,SE,MM
+2016,Sweden,CBPF,Pakistan,Member State,0.0,4480552.04,SE,PK
+2016,Sweden,CBPF,Somalia,Member State,0.0,7506157.99,SE,SO
+2016,Sweden,CBPF,South Sudan,Member State,0.0,7322433.010000001,SE,SS
+2016,Sweden,CBPF,Sudan,Member State,0.0,9323778.09,SE,SD
+2016,Sweden,CBPF,Syria,Member State,0.0,3577687.4699999997,SE,SY
+2016,Sweden,CBPF,Syria Cross border,Member State,0.0,3925684.9800000004,SE,XX
+2016,Sweden,CBPF,Yemen,Member State,0.0,8055810.7299999995,SE,YE
+2016,Sweden,CBPF,oPt,Member State,0.0,2171779.98,SE,PS
+2016,Switzerland,CBPF,Afghanistan,Member State,0.0,399965.0,CH,AF
+2016,Switzerland,CBPF,CAR,Member State,0.0,616332.82,CH,CF
+2016,Switzerland,CBPF,Colombia,Member State,0.0,306435.14,CH,CO
+2016,Switzerland,CBPF,Ethiopia,Member State,0.0,1656254.07,CH,ET
+2016,Switzerland,CBPF,Myanmar,Member State,0.0,493096.65,CH,MM
+2016,Switzerland,CBPF,Somalia,Member State,0.0,1509813.79,CH,SO
+2016,Switzerland,CBPF,South Sudan,Member State,0.0,1024380.26,CH,SS
+2016,Switzerland,CBPF,Sudan,Member State,0.0,496228.66,CH,SD
+2016,Switzerland,CBPF,Syria,Member State,0.0,1521298.17,CH,SY
+2016,Switzerland,CBPF,Syria Cross border,Member State,0.0,1014198.78,CH,XX
+2016,Switzerland,CBPF,Yemen,Member State,0.0,2999901.26,CH,YE
+2016,Switzerland,CBPF,oPt,Member State,0.0,1910917.68,CH,PS
+2016,United Kingdom,CBPF,Afghanistan,Member State,0.0,21632400.0,GB,AF
+2016,United Kingdom,CBPF,CAR,Member State,0.0,5246200.0,GB,CF
+2016,United Kingdom,CBPF,DRC,Member State,0.0,20214340.0,GB,CD
+2016,United Kingdom,CBPF,Ethiopia,Member State,0.0,40540879.43,GB,ET
+2016,United Kingdom,CBPF,Iraq,Member State,0.0,50071434.78,GB,IQ
+2016,United Kingdom,CBPF,Jordan,Member State,0.0,2857142.86,GB,JO
+2016,United Kingdom,CBPF,Myanmar,Member State,0.0,4133928.57,GB,MM
+2016,United Kingdom,CBPF,Pakistan,Member State,0.0,2840909.09,GB,PK
+2016,United Kingdom,CBPF,Somalia,Member State,0.0,6321500.0,GB,SO
+2016,United Kingdom,CBPF,South Sudan,Member State,0.0,19528500.0,GB,SS
+2016,United Kingdom,CBPF,Sudan,Member State,0.0,19633300.0,GB,SD
+2016,United Kingdom,CBPF,Syria,Member State,0.0,8571428.57,GB,SY
+2016,United Kingdom,CBPF,Syria Cross border,Member State,0.0,17185917.32,GB,XX
+2016,United Kingdom,CBPF,Yemen,Member State,0.0,53137051.12,GB,YE
+2016,United States of America,CBPF,Ethiopia,Member State,0.0,6700000.0,US,ET
+2016,United States of America,CBPF,Iraq,Member State,0.0,5000000.0,US,IQ
+2017,AGFUND,CBPF,Nigeria,Member State,0.0,24982.5,,NG
+2017,AGFUND,CBPF,Somalia,Member State,0.0,25000.0,,SO
+2017,AGFUND,CBPF,South Sudan,Member State,0.0,24965.0,,SS
+2017,AGFUND,CBPF,Yemen,Member State,0.0,24982.5,,YE
+2017,Australia,CBPF,Afghanistan,Member State,0.0,6103184.74,AU,AF
+2017,Australia,CBPF,Myanmar,Member State,0.0,2258696.44,AU,MM
+2017,Australia,CBPF,Somalia,Member State,0.0,7355825.28,AU,SO
+2017,Australia,CBPF,South Sudan,Member State,0.0,7684563.2700000005,AU,SS
+2017,Azerbaijan,CBPF,Nigeria,Member State,0.0,12500.0,AZ,NG
+2017,Azerbaijan,CBPF,Somalia,Member State,0.0,12500.0,AZ,SO
+2017,Azerbaijan,CBPF,South Sudan,Member State,0.0,12500.0,AZ,SS
+2017,Azerbaijan,CBPF,Yemen,Member State,0.0,12500.0,AZ,YE
+2017,Belgium,CBPF,CAR,Member State,0.0,1796400.0,BE,CF
+2017,Belgium,CBPF,DRC,Member State,0.0,3592800.0,BE,CD
+2017,Belgium,CBPF,Iraq,Member State,0.0,6739443.43,BE,IQ
+2017,Belgium,CBPF,Jordan,Member State,0.0,1768867.92,BE,JO
+2017,Belgium,CBPF,Lebanon,Member State,0.0,1768867.92,BE,LB
+2017,Belgium,CBPF,Nigeria,Member State,0.0,2358490.57,BE,NG
+2017,Belgium,CBPF,South Sudan,Member State,0.0,4790400.0,BE,SS
+2017,Belgium,CBPF,Syria,Member State,0.0,8549528.3,BE,SY
+2017,Belgium,CBPF,Syria Cross border,Member State,0.0,8549528.3,BE,XX
+2017,Belgium,CBPF,Yemen,Member State,0.0,4716981.13,BE,YE
+2017,Belgium,CBPF,oPt,Member State,0.0,2830188.68,BE,PS
+2017,Canada,CBPF,CAR,Member State,0.0,377674.6,CA,CF
+2017,Canada,CBPF,Iraq,Member State,0.0,369691.51,CA,IQ
+2017,Canada,CBPF,Myanmar,Member State,0.0,374939.09,CA,MM
+2017,Canada,CBPF,Nigeria,Member State,0.0,775088.05,CA,NG
+2017,Canada,CBPF,Somalia,Member State,0.0,857326.6399999999,CA,SO
+2017,Canada,CBPF,South Sudan,Member State,0.0,934629.1,CA,SS
+2017,Canada,CBPF,Yemen,Member State,0.0,4670969.01,CA,YE
+2017,Cyprus,CBPF,Iraq,Member State,0.0,11848.34,CY,IQ
+2017,Cyprus,CBPF,Yemen,Member State,0.0,11200.0,CY,YE
+2017,Denmark,CBPF,Lebanon,Member State,0.0,3207530.77,DK,LB
+2017,Denmark,CBPF,Nigeria,Member State,0.0,4768187.96,DK,NG
+2017,Denmark,CBPF,Somalia,Member State,0.0,3171582.62,DK,SO
+2017,Denmark,CBPF,South Sudan,Member State,0.0,4757373.93,DK,SS
+2017,Denmark,CBPF,Syria,Member State,0.0,4811137.12,DK,SY
+2017,Denmark,CBPF,Syria Cross border,Member State,0.0,1603765.38,DK,XX
+2017,Denmark,CBPF,Yemen,Member State,0.0,9601027.100000001,DK,YE
+2017,France,CBPF,Lebanon,Member State,0.0,592417.06,FR,LB
+2017,France,CBPF,Syria Cross border,Member State,0.0,5509398.970000001,FR,XX
+2017,Germany,CBPF,CAR,Member State,0.0,5772800.0,DE,CF
+2017,Germany,CBPF,DRC,Member State,0.0,8220700.0,DE,CD
+2017,Germany,CBPF,Ethiopia,Member State,0.0,18851992.52,DE,ET
+2017,Germany,CBPF,Iraq,Member State,0.0,46345497.43,DE,IQ
+2017,Germany,CBPF,Jordan,Member State,0.0,2369668.25,DE,JO
+2017,Germany,CBPF,Lebanon,Member State,0.0,3554502.37,DE,LB
+2017,Germany,CBPF,Nigeria,Member State,0.0,10168218.14,DE,NG
+2017,Germany,CBPF,Somalia,Member State,0.0,12686285.01,DE,SO
+2017,Germany,CBPF,South Sudan,Member State,0.0,13147250.0,DE,SS
+2017,Germany,CBPF,Sudan,Member State,0.0,1082100.0,DE,SD
+2017,Germany,CBPF,Syria,Member State,0.0,2171552.66,DE,SY
+2017,Germany,CBPF,Syria Cross border,Member State,0.0,11848341.23,DE,XX
+2017,Germany,CBPF,Yemen,Member State,0.0,66868336.760000005,DE,YE
+2017,Germany,CBPF,oPt,Member State,0.0,2209384.59,DE,PS
+2017,Iceland,CBPF,Lebanon,Member State,0.0,200000.0,IS,LB
+2017,Iceland,CBPF,Syria,Member State,0.0,220000.0,IS,SY
+2017,Iceland,CBPF,oPt,Member State,0.0,150000.0,IS,PS
+2017,Ireland,CBPF,CAR,Member State,0.0,3588770.0,IE,CF
+2017,Ireland,CBPF,DRC,Member State,0.0,3881464.0,IE,CD
+2017,Ireland,CBPF,Ethiopia,Member State,0.0,3678371.13,IE,ET
+2017,Ireland,CBPF,Iraq,Member State,0.0,2171552.66,IE,IQ
+2017,Ireland,CBPF,Jordan,Member State,0.0,1600853.79,IE,JO
+2017,Ireland,CBPF,Lebanon,Member State,0.0,1600853.79,IE,LB
+2017,Ireland,CBPF,Nigeria,Member State,0.0,2275312.86,IE,NG
+2017,Ireland,CBPF,Somalia,Member State,0.0,3194392.0,IE,SO
+2017,Ireland,CBPF,South Sudan,Member State,0.0,3194392.0,IE,SS
+2017,Ireland,CBPF,Sudan,Member State,0.0,3487086.0,IE,SD
+2017,Ireland,CBPF,Syria Cross border,Member State,0.0,1764705.88,IE,XX
+2017,Ireland,CBPF,Yemen,Member State,0.0,5824147.970000001,IE,YE
+2017,Ireland,CBPF,oPt,Member State,0.0,355450.24,IE,PS
+2017,Italy,CBPF,oPt,Member State,0.0,589622.64,IT,PS
+2017,Jersey,CBPF,Syria,Member State,0.0,646830.53,JE,SY
+2017,Korea,CBPF,Afghanistan,Member State,0.0,5899513.0,KR,AF
+2017,Korea,CBPF,Ethiopia,Member State,0.0,500000.0,KR,ET
+2017,Korea,CBPF,Nigeria,Member State,0.0,1000000.0,KR,NG
+2017,Korea,CBPF,Somalia,Member State,0.0,300000.0,KR,SO
+2017,Korea,CBPF,South Sudan,Member State,0.0,1000000.0,KR,SS
+2017,Korea,CBPF,Sudan,Member State,0.0,700000.0,KR,SD
+2017,Korea,CBPF,Syria Cross border,Member State,0.0,1000000.0,KR,XX
+2017,Korea,CBPF,Yemen,Member State,0.0,1500000.0,KR,YE
+2017,Lithuania,CBPF,Yemen,Member State,0.0,21715.53,LT,YE
+2017,Luxembourg,CBPF,CAR,Member State,0.0,266125.01,LU,CF
+2017,Luxembourg,CBPF,DRC,Member State,0.0,266125.01,LU,CD
+2017,Luxembourg,CBPF,Myanmar,Member State,0.0,265392.78,LU,MM
+2017,Luxembourg,CBPF,Nigeria,Member State,0.0,284414.11,LU,NG
+2017,Luxembourg,CBPF,South Sudan,Member State,0.0,266125.01,LU,SS
+2017,Luxembourg,CBPF,Syria,Member State,0.0,265392.78,LU,SY
+2017,Malta,CBPF,Nigeria,Member State,0.0,21482.28,MT,NG
+2017,Malta,CBPF,Yemen,Member State,0.0,117647.06,MT,YE
+2017,Malta,CBPF,oPt,Member State,0.0,35294.12,MT,PS
+2017,Netherlands,CBPF,CAR,Member State,0.0,2954500.0,NL,CF
+2017,Netherlands,CBPF,DRC,Member State,0.0,3519900.0,NL,CD
+2017,Netherlands,CBPF,Iraq,Member State,0.0,6538102.38,NL,IQ
+2017,Netherlands,CBPF,Nigeria,Member State,0.0,4807692.31,NL,NG
+2017,Netherlands,CBPF,Somalia,Member State,0.0,5429600.0,NL,SO
+2017,Netherlands,CBPF,Syria,Member State,0.0,5336179.3,NL,SY
+2017,Netherlands,CBPF,Syria Cross border,Member State,0.0,5937140.84,NL,XX
+2017,Netherlands,CBPF,Yemen,Member State,0.0,8239779.76,NL,YE
+2017,Norway,CBPF,Afghanistan,Member State,0.0,2109293.8,NO,AF
+2017,Norway,CBPF,DRC,Member State,0.0,2782622.85,NO,CD
+2017,Norway,CBPF,Ethiopia,Member State,0.0,1197036.48,NO,ET
+2017,Norway,CBPF,Nigeria,Member State,0.0,2967426.1500000004,NO,NG
+2017,Norway,CBPF,Somalia,Member State,0.0,4497184.28,NO,SO
+2017,Norway,CBPF,South Sudan,Member State,0.0,9984876.36,NO,SS
+2017,Norway,CBPF,Sudan,Member State,0.0,1254657.92,NO,SD
+2017,Norway,CBPF,Syria,Member State,0.0,5806198.1899999995,NO,SY
+2017,Norway,CBPF,Syria Cross border,Member State,0.0,4728738.42,NO,XX
+2017,Norway,CBPF,Yemen,Member State,0.0,5096822.2,NO,YE
+2017,Norway,CBPF,oPt,Member State,0.0,511064.37,NO,PS
+2017,Spain,CBPF,Colombia,Member State,0.0,588235.29,ES,CO
+2017,Spain,CBPF,Nigeria,Member State,0.0,597371.56,ES,NG
+2017,Spain,CBPF,Syria,Member State,0.0,1176470.59,ES,SY
+2017,Spain,CBPF,Yemen,Member State,0.0,716845.88,ES,YE
+2017,Spain,CBPF,oPt,Member State,0.0,823529.41,ES,PS
+2017,Sri Lanka,CBPF,Nigeria,Member State,0.0,1250.0,LK,NG
+2017,Sri Lanka,CBPF,Somalia,Member State,0.0,1250.0,LK,SO
+2017,Sri Lanka,CBPF,South Sudan,Member State,0.0,1250.0,LK,SS
+2017,Sri Lanka,CBPF,Yemen,Member State,0.0,1250.0,LK,YE
+2017,Sweden,CBPF,Afghanistan,Member State,0.0,8363695.149999999,SE,AF
+2017,Sweden,CBPF,CAR,Member State,0.0,2891590.85,SE,CF
+2017,Sweden,CBPF,Colombia,Member State,0.0,560594.99,SE,CO
+2017,Sweden,CBPF,DRC,Member State,0.0,17014352.830000002,SE,CD
+2017,Sweden,CBPF,Ethiopia,Member State,0.0,5260130.96,SE,ET
+2017,Sweden,CBPF,Iraq,Member State,0.0,2018141.98,SE,IQ
+2017,Sweden,CBPF,Jordan,Member State,0.0,1717580.99,SE,JO
+2017,Sweden,CBPF,Lebanon,Member State,0.0,1717580.99,SE,LB
+2017,Sweden,CBPF,Myanmar,Member State,0.0,1233308.98,SE,MM
+2017,Sweden,CBPF,Nigeria,Member State,0.0,11911831.75,SE,NG
+2017,Sweden,CBPF,Pakistan,Member State,0.0,4484759.94,SE,PK
+2017,Sweden,CBPF,Somalia,Member State,0.0,8400333.459999999,SE,SO
+2017,Sweden,CBPF,South Sudan,Member State,0.0,8284457.9,SE,SS
+2017,Sweden,CBPF,Sudan,Member State,0.0,7705915.959999999,SE,SD
+2017,Sweden,CBPF,Syria,Member State,0.0,4190625.2800000003,SE,SY
+2017,Sweden,CBPF,Syria Cross border,Member State,0.0,4190625.2800000003,SE,XX
+2017,Sweden,CBPF,Yemen,Member State,0.0,8598542.23,SE,YE
+2017,Sweden,CBPF,oPt,Member State,0.0,1761114.25,SE,PS
+2017,Switzerland,CBPF,Afghanistan,Member State,0.0,199965.0,CH,AF
+2017,Switzerland,CBPF,CAR,Member State,0.0,1558616.98,CH,CF
+2017,Switzerland,CBPF,Colombia,Member State,0.0,205761.32,CH,CO
+2017,Switzerland,CBPF,Ethiopia,Member State,0.0,2099093.43,CH,ET
+2017,Switzerland,CBPF,Myanmar,Member State,0.0,205761.32,CH,MM
+2017,Switzerland,CBPF,Nigeria,Member State,0.0,1712383.1099999999,CH,NG
+2017,Switzerland,CBPF,Somalia,Member State,0.0,2773231.84,CH,SO
+2017,Switzerland,CBPF,South Sudan,Member State,0.0,1734705.63,CH,SS
+2017,Switzerland,CBPF,Sudan,Member State,0.0,1166182.3,CH,SD
+2017,Switzerland,CBPF,Syria,Member State,0.0,993048.66,CH,SY
+2017,Switzerland,CBPF,Syria Cross border,Member State,0.0,993048.66,CH,XX
+2017,Switzerland,CBPF,Yemen,Member State,0.0,3476152.3200000003,CH,YE
+2017,Turkey,CBPF,oPt,Member State,0.0,500000.0,TR,PS
+2017,UNF,CBPF,Colombia,Member State,0.0,470.93,,CO
+2017,UNF,CBPF,Ethiopia,Member State,0.0,950.63,,ET
+2017,UNF,CBPF,Iraq,Member State,0.0,258.38,,IQ
+2017,UNF,CBPF,Lebanon,Member State,0.0,78.0,,LB
+2017,UNF,CBPF,Myanmar,Member State,0.0,2213.25,,MM
+2017,UNF,CBPF,Nigeria,Member State,0.0,7751.75,,NG
+2017,UNF,CBPF,Pakistan,Member State,0.0,887.25,,PK
+2017,UNF,CBPF,Syria,Member State,0.0,98421.69,,SY
+2017,UNF,CBPF,Yemen,Member State,0.0,86532.45,,YE
+2017,UNF,CBPF,oPt,Member State,0.0,4287.08,,PS
+2017,United Kingdom,CBPF,Afghanistan,Member State,0.0,16076280.0,GB,AF
+2017,United Kingdom,CBPF,CAR,Member State,0.0,7134625.01,GB,CF
+2017,United Kingdom,CBPF,DRC,Member State,0.0,30731350.0,GB,CD
+2017,United Kingdom,CBPF,Ethiopia,Member State,0.0,21561440.86,GB,ET
+2017,United Kingdom,CBPF,Iraq,Member State,0.0,21222168.41,GB,IQ
+2017,United Kingdom,CBPF,Jordan,Member State,0.0,2587322.12,GB,JO
+2017,United Kingdom,CBPF,Myanmar,Member State,0.0,3221649.48,GB,MM
+2017,United Kingdom,CBPF,Pakistan,Member State,0.0,2490660.02,GB,PK
+2017,United Kingdom,CBPF,Somalia,Member State,0.0,4026000.0,GB,SO
+2017,United Kingdom,CBPF,South Sudan,Member State,0.0,22383300.0,GB,SS
+2017,United Kingdom,CBPF,Sudan,Member State,0.0,20858450.0,GB,SD
+2017,United Kingdom,CBPF,Syria,Member State,0.0,1293661.06,GB,SY
+2017,United Kingdom,CBPF,Syria Cross border,Member State,0.0,12911604.279999997,GB,XX
+2017,United Kingdom,CBPF,Yemen,Member State,0.0,51087368.79,GB,YE
+2017,United States of America,CBPF,Ethiopia,Member State,0.0,29500000.0,US,ET
+2017,United States of America,CBPF,Yemen,Member State,0.0,5000000.0,US,YE
+2018,Andorra,CBPF,Yemen,Member State,0.0,5636.98,AD,YE
+2018,Australia,CBPF,Afghanistan,Member State,0.0,764291.95,AU,AF
+2018,Australia,CBPF,Myanmar,Member State,0.0,2287436.87,AU,MM
+2018,Australia,CBPF,Somalia,Member State,0.0,3026521.3400000003,AU,SO
+2018,Australia,CBPF,South Sudan,Member State,0.0,2580188.41,AU,SS
+2018,Australia,CBPF,oPt,Member State,0.0,7466117.5,AU,PS
+2018,Belgium,CBPF,CAR,Member State,0.0,1848900.0,BE,CF
+2018,Belgium,CBPF,DRC,Member State,0.0,5450550.0,BE,CD
+2018,Belgium,CBPF,Iraq,Member State,0.0,3703703.7,BE,IQ
+2018,Belgium,CBPF,Jordan,Member State,0.0,1851851.85,BE,JO
+2018,Belgium,CBPF,Lebanon,Member State,0.0,1851851.85,BE,LB
+2018,Belgium,CBPF,Nigeria,Member State,0.0,2469135.8,BE,NG
+2018,Belgium,CBPF,South Sudan,Member State,0.0,4930400.0,BE,SS
+2018,Belgium,CBPF,Syria,Member State,0.0,8950617.29,BE,SY
+2018,Belgium,CBPF,Syria Cross border,Member State,0.0,8950617.29,BE,XX
+2018,Belgium,CBPF,Yemen,Member State,0.0,4938271.61,BE,YE
+2018,Belgium,CBPF,oPt,Member State,0.0,2962962.96,BE,PS
+2018,Canada,CBPF,CAR,Member State,0.0,771724.03,CA,CF
+2018,Canada,CBPF,DRC,Member State,0.0,1592737.12,CA,CD
+2018,Canada,CBPF,Iraq,Member State,0.0,381401.92,CA,IQ
+2018,Canada,CBPF,Myanmar,Member State,0.0,773961.8300000001,CA,MM
+2018,Canada,CBPF,Nigeria,Member State,0.0,77454.9,CA,NG
+2018,Canada,CBPF,Pakistan,Member State,0.0,388289.2,CA,PK
+2018,Canada,CBPF,Somalia,Member State,0.0,1566968.87,CA,SO
+2018,Canada,CBPF,South Sudan,Member State,0.0,622261.85,CA,SS
+2018,Canada,CBPF,Syria,Member State,0.0,3090379.35,CA,SY
+2018,Canada,CBPF,Syria Cross border,Member State,0.0,772594.84,CA,XX
+2018,Canada,CBPF,Yemen,Member State,0.0,4839775.83,CA,YE
+2018,Colombia,CBPF,Yemen,Member State,0.0,50000.0,CO,YE
+2018,Cyprus,CBPF,Iraq,Member State,0.0,11376.56,CY,IQ
+2018,Cyprus,CBPF,Yemen,Member State,0.0,35377.36,CY,YE
+2018,Denmark,CBPF,Afghanistan,Member State,0.0,3032002.79,DK,AF
+2018,Denmark,CBPF,CAR,Member State,0.0,3230495.88,DK,CF
+2018,Denmark,CBPF,Ethiopia,Member State,0.0,3053860.52,DK,ET
+2018,Denmark,CBPF,Iraq,Member State,0.0,2306940.95,DK,IQ
+2018,Denmark,CBPF,Somalia,Member State,0.0,4120041.53,DK,SO
+2018,Denmark,CBPF,South Sudan,Member State,0.0,3043769.4,DK,SS
+2018,Denmark,CBPF,Sudan,Member State,0.0,4038119.85,DK,SD
+2018,Denmark,CBPF,Syria,Member State,0.0,4040857.22,DK,SY
+2018,Denmark,CBPF,Syria Cross border,Member State,0.0,4040857.22,DK,XX
+2018,Denmark,CBPF,Yemen,Member State,0.0,9663250.71,DK,YE
+2018,France,CBPF,Lebanon,Member State,0.0,364050.06,FR,LB
+2018,France,CBPF,Syria Cross border,Member State,0.0,5867262.5,FR,XX
+2018,France,CBPF,Yemen,Member State,0.0,455062.57,FR,YE
+2018,Germany,CBPF,Afghanistan,Member State,0.0,568106.0,DE,AF
+2018,Germany,CBPF,CAR,Member State,0.0,6223800.0,DE,CF
+2018,Germany,CBPF,DRC,Member State,0.0,19536077.310000002,DE,CD
+2018,Germany,CBPF,Ethiopia,Member State,0.0,14883567.3,DE,ET
+2018,Germany,CBPF,Iraq,Member State,0.0,9318181.82,DE,IQ
+2018,Germany,CBPF,Jordan,Member State,0.0,2844141.07,DE,JO
+2018,Germany,CBPF,Lebanon,Member State,0.0,2844141.07,DE,LB
+2018,Germany,CBPF,Myanmar,Member State,0.0,1136363.64,DE,MM
+2018,Germany,CBPF,Nigeria,Member State,0.0,6590909.09,DE,NG
+2018,Germany,CBPF,Somalia,Member State,0.0,13635600.0,DE,SO
+2018,Germany,CBPF,South Sudan,Member State,0.0,21095700.0,DE,SS
+2018,Germany,CBPF,Sudan,Member State,0.0,4557200.0,DE,SD
+2018,Germany,CBPF,Syria Cross border,Member State,0.0,22574636.98,DE,XX
+2018,Germany,CBPF,Yemen,Member State,0.0,43846578.91,DE,YE
+2018,Germany,CBPF,oPt,Member State,0.0,5925095.4399999995,DE,PS
+2018,Iceland,CBPF,Lebanon,Member State,0.0,251990.73,IS,LB
+2018,Iceland,CBPF,Nigeria,Member State,0.0,239165.79,IS,NG
+2018,Iceland,CBPF,Syria,Member State,0.0,251990.73,IS,SY
+2018,Iceland,CBPF,oPt,Member State,0.0,239165.79,IS,PS
+2018,Ireland,CBPF,CAR,Member State,0.0,3580776.0,IE,CF
+2018,Ireland,CBPF,DRC,Member State,0.0,3675576.0,IE,CD
+2018,Ireland,CBPF,Ethiopia,Member State,0.0,8970117.84,IE,ET
+2018,Ireland,CBPF,Iraq,Member State,0.0,2469135.8,IE,IQ
+2018,Ireland,CBPF,Jordan,Member State,0.0,1851851.85,IE,JO
+2018,Ireland,CBPF,Lebanon,Member State,0.0,2415458.94,IE,LB
+2018,Ireland,CBPF,Nigeria,Member State,0.0,2285714.29,IE,NG
+2018,Ireland,CBPF,Somalia,Member State,0.0,3635376.0,IE,SO
+2018,Ireland,CBPF,South Sudan,Member State,0.0,4802852.0,IE,SS
+2018,Ireland,CBPF,Sudan,Member State,0.0,3635376.0,IE,SD
+2018,Ireland,CBPF,Syria Cross border,Member State,0.0,3086419.75,IE,XX
+2018,Ireland,CBPF,Yemen,Member State,0.0,6075928.029999999,IE,YE
+2018,Ireland,CBPF,oPt,Member State,0.0,341296.93,IE,PS
+2018,Italy,CBPF,Jordan,Member State,0.0,585480.09,IT,JO
+2018,Italy,CBPF,Syria Cross border,Member State,0.0,1706484.64,IT,XX
+2018,Italy,CBPF,oPt,Member State,0.0,568181.82,IT,PS
+2018,Jersey,CBPF,Syria,Member State,0.0,705218.62,JE,SY
+2018,Korea,CBPF,Afghanistan,Member State,0.0,1000000.0,KR,AF
+2018,Korea,CBPF,CAR,Member State,0.0,200000.0,KR,CF
+2018,Korea,CBPF,DRC,Member State,0.0,500000.0,KR,CD
+2018,Korea,CBPF,Ethiopia,Member State,0.0,300000.0,KR,ET
+2018,Korea,CBPF,Nigeria,Member State,0.0,1000000.0,KR,NG
+2018,Korea,CBPF,Somalia,Member State,0.0,500000.0,KR,SO
+2018,Korea,CBPF,South Sudan,Member State,0.0,800000.0,KR,SS
+2018,Korea,CBPF,Yemen,Member State,0.0,1000000.0,KR,YE
+2018,Kuwait,CBPF,Syria,Member State,0.0,100000.0,KW,SY
+2018,Kuwait,CBPF,Yemen,Member State,0.0,5000000.0,KW,YE
+2018,Lithuania,CBPF,Yemen,Member State,0.0,24691.36,LT,YE
+2018,Luxembourg,CBPF,CAR,Member State,0.0,370535.1,LU,CF
+2018,Luxembourg,CBPF,DRC,Member State,0.0,370535.1,LU,CD
+2018,Luxembourg,CBPF,Iraq,Member State,0.0,370370.37,LU,IQ
+2018,Luxembourg,CBPF,Myanmar,Member State,0.0,370370.37,LU,MM
+2018,Luxembourg,CBPF,Nigeria,Member State,0.0,370370.37,LU,NG
+2018,Luxembourg,CBPF,South Sudan,Member State,0.0,370535.1,LU,SS
+2018,Luxembourg,CBPF,Syria,Member State,0.0,370370.37,LU,SY
+2018,Luxembourg,CBPF,Yemen,Member State,0.0,370370.37,LU,YE
+2018,Malaysia,CBPF,Iraq,Member State,0.0,100000.0,MY,IQ
+2018,Malta,CBPF,Myanmar,Member State,0.0,31055.9,MT,MM
+2018,Malta,CBPF,Yemen,Member State,0.0,34722.22,MT,YE
+2018,Montenegro,CBPF,Yemen,Member State,0.0,12345.68,ME,YE
+2018,Netherlands,CBPF,DRC,Member State,0.0,8250200.0,NL,CD
+2018,Netherlands,CBPF,Iraq,Member State,0.0,8254716.98,NL,IQ
+2018,Netherlands,CBPF,Nigeria,Member State,0.0,8254716.98,NL,NG
+2018,Netherlands,CBPF,Somalia,Member State,0.0,4697600.0,NL,SO
+2018,Netherlands,CBPF,South Sudan,Member State,0.0,12472100.0,NL,SS
+2018,Netherlands,CBPF,Syria,Member State,0.0,6038647.34,NL,SY
+2018,Netherlands,CBPF,Syria Cross border,Member State,0.0,14302059.5,NL,XX
+2018,Netherlands,CBPF,Yemen,Member State,0.0,18966842.33,NL,YE
+2018,New Zealand,CBPF,Myanmar,Member State,0.0,686598.98,NZ,MM
+2018,Norway,CBPF,Afghanistan,Member State,0.0,2163811.66,NO,AF
+2018,Norway,CBPF,DRC,Member State,0.0,2088085.04,NO,CD
+2018,Norway,CBPF,Nigeria,Member State,0.0,2790962.28,NO,NG
+2018,Norway,CBPF,Somalia,Member State,0.0,5230808.42,NO,SO
+2018,Norway,CBPF,South Sudan,Member State,0.0,9918121.530000001,NO,SS
+2018,Norway,CBPF,Sudan,Member State,0.0,1234680.34,NO,SD
+2018,Norway,CBPF,Syria,Member State,0.0,5173465.14,NO,SY
+2018,Norway,CBPF,Syria Cross border,Member State,0.0,5876509.52,NO,XX
+2018,Norway,CBPF,Yemen,Member State,0.0,4320200.43,NO,YE
+2018,Norway,CBPF,oPt,Member State,0.0,7174971.93,NO,PS
+2018,Philippines,CBPF,Yemen,Member State,0.0,10000.0,PH,YE
+2018,Portugal,CBPF,Yemen,Member State,0.0,165136.41,PT,YE
+2018,Qatar,CBPF,Afghanistan,Member State,0.0,999960.0,QA,AF
+2018,Qatar,CBPF,Iraq,Member State,0.0,999991.1,QA,IQ
+2018,Qatar,CBPF,Lebanon,Member State,0.0,499995.55,QA,LB
+2018,Qatar,CBPF,Syria,Member State,0.0,499995.55,QA,SY
+2018,Qatar,CBPF,Yemen,Member State,0.0,472899.79,QA,YE
+2018,Saudi Arabia,CBPF,Yemen,Member State,0.0,25000000.0,SA,YE
+2018,Spain,CBPF,Syria,Member State,0.0,1179245.28,ES,SY
+2018,Spain,CBPF,Yemen,Member State,0.0,589622.64,ES,YE
+2018,Spain,CBPF,oPt,Member State,0.0,707547.17,ES,PS
+2018,Sweden,CBPF,Afghanistan,Member State,0.0,12196080.57,SE,AF
+2018,Sweden,CBPF,CAR,Member State,0.0,1482102.37,SE,CF
+2018,Sweden,CBPF,DRC,Member State,0.0,12160621.2,SE,CD
+2018,Sweden,CBPF,Ethiopia,Member State,0.0,6674819.02,SE,ET
+2018,Sweden,CBPF,Iraq,Member State,0.0,1893890.96,SE,IQ
+2018,Sweden,CBPF,Jordan,Member State,0.0,3314696.99,SE,JO
+2018,Sweden,CBPF,Lebanon,Member State,0.0,1893890.96,SE,LB
+2018,Sweden,CBPF,Myanmar,Member State,0.0,1262593.98,SE,MM
+2018,Sweden,CBPF,Nigeria,Member State,0.0,2525187.95,SE,NG
+2018,Sweden,CBPF,Pakistan,Member State,0.0,2903966.14,SE,PK
+2018,Sweden,CBPF,Somalia,Member State,0.0,9782771.47,SE,SO
+2018,Sweden,CBPF,South Sudan,Member State,0.0,9487464.129999999,SE,SS
+2018,Sweden,CBPF,Sudan,Member State,0.0,7039986.24,SE,SD
+2018,Sweden,CBPF,Syria,Member State,0.0,3201909.9800000004,SE,SY
+2018,Sweden,CBPF,Syria Cross border,Member State,0.0,3945993.98,SE,XX
+2018,Sweden,CBPF,Yemen,Member State,0.0,10118652.11,SE,YE
+2018,Sweden,CBPF,oPt,Member State,0.0,3576133.06,SE,PS
+2018,Switzerland,CBPF,Afghanistan,Member State,0.0,1119930.0,CH,AF
+2018,Switzerland,CBPF,CAR,Member State,0.0,1511182.75,CH,CF
+2018,Switzerland,CBPF,Ethiopia,Member State,0.0,1511597.39,CH,ET
+2018,Switzerland,CBPF,Lebanon,Member State,0.0,501504.51,CH,LB
+2018,Switzerland,CBPF,Myanmar,Member State,0.0,202020.2,CH,MM
+2018,Switzerland,CBPF,Nigeria,Member State,0.0,1518218.62,CH,NG
+2018,Switzerland,CBPF,Somalia,Member State,0.0,1529473.23,CH,SO
+2018,Switzerland,CBPF,South Sudan,Member State,0.0,1810736.13,CH,SS
+2018,Switzerland,CBPF,Sudan,Member State,0.0,994332.31,CH,SD
+2018,Switzerland,CBPF,Syria,Member State,0.0,1015228.43,CH,SY
+2018,Switzerland,CBPF,Syria Cross border,Member State,0.0,2526858.7,CH,XX
+2018,Switzerland,CBPF,Yemen,Member State,0.0,3544189.7699999996,CH,YE
+2018,Switzerland,CBPF,oPt,Member State,0.0,3014111.04,CH,PS
+2018,UNF,CBPF,Afghanistan,Member State,0.0,2339.03,,AF
+2018,UNF,CBPF,CAR,Member State,0.0,10823.48,,CF
+2018,UNF,CBPF,DRC,Member State,0.0,887.25,,CD
+2018,UNF,CBPF,Somalia,Member State,0.0,100158.68,,SO
+2018,UNF,CBPF,South Sudan,Member State,0.0,142709.94,,SS
+2018,UNF,CBPF,Sudan,Member State,0.0,3491.24,,SD
+2018,United Arab Emirates,CBPF,Yemen,Member State,0.0,25000000.0,AE,YE
+2018,United Kingdom,CBPF,Afghanistan,Member State,0.0,24011950.0,GB,AF
+2018,United Kingdom,CBPF,CAR,Member State,0.0,8354890.0,GB,CF
+2018,United Kingdom,CBPF,DRC,Member State,0.0,36518818.5,GB,CD
+2018,United Kingdom,CBPF,Ethiopia,Member State,0.0,25512640.01,GB,ET
+2018,United Kingdom,CBPF,Iraq,Member State,0.0,17170379.45,GB,IQ
+2018,United Kingdom,CBPF,Myanmar,Member State,0.0,3342245.99,GB,MM
+2018,United Kingdom,CBPF,Pakistan,Member State,0.0,4078167.9,GB,PK
+2018,United Kingdom,CBPF,Somalia,Member State,0.0,6441980.0,GB,SO
+2018,United Kingdom,CBPF,South Sudan,Member State,0.0,16846050.0,GB,SS
+2018,United Kingdom,CBPF,Sudan,Member State,0.0,23319400.0,GB,SD
+2018,United Kingdom,CBPF,Syria,Member State,0.0,1278772.38,GB,SY
+2018,United Kingdom,CBPF,Syria Cross border,Member State,0.0,44771663.96,GB,XX
+2018,United Kingdom,CBPF,Yemen,Member State,0.0,39186129.0,GB,YE
+2018,United States of America,CBPF,Ethiopia,Member State,0.0,14750000.0,US,ET
+2018,United States of America,CBPF,Iraq,Member State,0.0,10000000.0,US,IQ
+2018,United States of America,CBPF,Myanmar,Member State,0.0,4250000.0,US,MM
+2018,United States of America,CBPF,Yemen,Member State,0.0,5000000.0,US,YE
+2019,Australia,CBPF,Afghanistan,Member State,0.0,3593985.62,AU,AF
+2019,Australia,CBPF,Myanmar,Member State,0.0,3538018.69,AU,MM
+2019,Australia,CBPF,Somalia,Member State,0.0,5289228.98,AU,SO
+2019,Australia,CBPF,South Sudan,Member State,0.0,2839592.9,AU,SS
+2019,Azerbaijan,CBPF,Yemen,Member State,0.0,20000.0,AZ,YE
+2019,Belgium,CBPF,CAR,Member State,0.0,2251000.0,BE,CF
+2019,Belgium,CBPF,DRC,Member State,0.0,6168071.0,BE,CD
+2019,Belgium,CBPF,Iraq,Member State,0.0,4545454.54,BE,IQ
+2019,Belgium,CBPF,Jordan,Member State,0.0,1136363.64,BE,JO
+2019,Belgium,CBPF,Lebanon,Member State,0.0,1704545.45,BE,LB
+2019,Belgium,CBPF,Nigeria,Member State,0.0,3409090.91,BE,NG
+2019,Belgium,CBPF,South Sudan,Member State,0.0,3376500.0,BE,SS
+2019,Belgium,CBPF,Syria,Member State,0.0,7954545.45,BE,SY
+2019,Belgium,CBPF,Syria Cross border,Member State,0.0,7954545.45,BE,XX
+2019,Belgium,CBPF,Yemen,Member State,0.0,5681818.18,BE,YE
+2019,Belgium,CBPF,oPt,Member State,0.0,3977272.73,BE,PS
+2019,Canada,CBPF,Afghanistan,Member State,0.0,757182.27,CA,AF
+2019,Canada,CBPF,CAR,Member State,0.0,762266.0,CA,CF
+2019,Canada,CBPF,DRC,Member State,0.0,2850712.68,CA,CD
+2019,Canada,CBPF,Ethiopia,Member State,0.0,745291.44,CA,ET
+2019,Canada,CBPF,Iraq,Member State,0.0,377210.45,CA,IQ
+2019,Canada,CBPF,Myanmar,Member State,0.0,743658.08,CA,MM
+2019,Canada,CBPF,Pakistan,Member State,0.0,453733.55,CA,PK
+2019,Canada,CBPF,Somalia,Member State,0.0,1442460.26,CA,SO
+2019,Canada,CBPF,South Sudan,Member State,0.0,764906.11,CA,SS
+2019,Canada,CBPF,Syria,Member State,0.0,3752924.38,CA,SY
+2019,Canada,CBPF,Syria Cross border,Member State,0.0,1879910.3399999999,CA,XX
+2019,Canada,CBPF,Yemen,Member State,0.0,5250119.36,CA,YE
+2019,Cyprus,CBPF,Yemen,Member State,0.0,56818.18,CY,YE
+2019,Czech Republic,CBPF,Ethiopia,Member State,0.0,430607.59,CZ,ET
+2019,Denmark,CBPF,Afghanistan,Member State,0.0,5224094.24,DK,AF
+2019,Denmark,CBPF,CAR,Member State,0.0,3043167.33,DK,CF
+2019,Denmark,CBPF,Ethiopia,Member State,0.0,4143635.32,DK,ET
+2019,Denmark,CBPF,Lebanon,Member State,0.0,1517344.8,DK,LB
+2019,Denmark,CBPF,Somalia,Member State,0.0,7191743.859999999,DK,SO
+2019,Denmark,CBPF,South Sudan,Member State,0.0,3815570.58,DK,SS
+2019,Denmark,CBPF,Syria,Member State,0.0,5310669.27,DK,SY
+2019,Denmark,CBPF,Syria Cross border,Member State,0.0,3744245.99,DK,XX
+2019,Denmark,CBPF,Yemen,Member State,0.0,9746209.42,DK,YE
+2019,Denmark,CBPF,oPt,Member State,0.0,2204320.14,DK,PS
+2019,Estonia,CBPF,Ukraine,Member State,0.0,56882.82,EE,UA
+2019,France,CBPF,Syria Cross border,Member State,0.0,11479397.94,FR,XX
+2019,Germany,CBPF,Afghanistan,Member State,0.0,3222746.1,DE,AF
+2019,Germany,CBPF,CAR,Member State,0.0,5599500.0,DE,CF
+2019,Germany,CBPF,DRC,Member State,0.0,11217000.0,DE,CD
+2019,Germany,CBPF,Ethiopia,Member State,0.0,11273957.16,DE,ET
+2019,Germany,CBPF,Iraq,Member State,0.0,1137656.43,DE,IQ
+2019,Germany,CBPF,Jordan,Member State,0.0,2200220.02,DE,JO
+2019,Germany,CBPF,Lebanon,Member State,0.0,2750275.03,DE,LB
+2019,Germany,CBPF,Myanmar,Member State,0.0,1668524.71,DE,MM
+2019,Germany,CBPF,Nigeria,Member State,0.0,6825938.57,DE,NG
+2019,Germany,CBPF,Somalia,Member State,0.0,13460552.0,DE,SO
+2019,Germany,CBPF,South Sudan,Member State,0.0,14618350.0,DE,SS
+2019,Germany,CBPF,Sudan,Member State,0.0,3337905.0,DE,SD
+2019,Germany,CBPF,Syria,Member State,0.0,2229654.4,DE,SY
+2019,Germany,CBPF,Syria Cross border,Member State,0.0,29754608.189999998,DE,XX
+2019,Germany,CBPF,Ukraine,Member State,0.0,2779709.41,DE,UA
+2019,Germany,CBPF,Yemen,Member State,0.0,42142876.5,DE,YE
+2019,Germany,CBPF,oPt,Member State,0.0,12471409.54,DE,PS
+2019,Iceland,CBPF,Lebanon,Member State,0.0,198838.78,IS,LB
+2019,Iceland,CBPF,Syria,Member State,0.0,198838.78,IS,SY
+2019,Ireland,CBPF,CAR,Member State,0.0,3366576.0,IE,CF
+2019,Ireland,CBPF,DRC,Member State,0.0,3381876.0,IE,CD
+2019,Ireland,CBPF,Ethiopia,Member State,0.0,3373511.27,IE,ET
+2019,Ireland,CBPF,Iraq,Member State,0.0,1137656.43,IE,IQ
+2019,Ireland,CBPF,Jordan,Member State,0.0,561167.23,IE,JO
+2019,Ireland,CBPF,Lebanon,Member State,0.0,2244668.91,IE,LB
+2019,Ireland,CBPF,Nigeria,Member State,0.0,1136363.64,IE,NG
+2019,Ireland,CBPF,Somalia,Member State,0.0,3378576.0,IE,SO
+2019,Ireland,CBPF,South Sudan,Member State,0.0,4504776.0,IE,SS
+2019,Ireland,CBPF,Sudan,Member State,0.0,3439221.0,IE,SD
+2019,Ireland,CBPF,Syria Cross border,Member State,0.0,2805836.14,IE,XX
+2019,Ireland,CBPF,Yemen,Member State,0.0,5688282.14,IE,YE
+2019,Ireland,CBPF,oPt,Member State,0.0,330033.0,IE,PS
+2019,Italy,CBPF,Ethiopia,Member State,0.0,551267.92,IT,ET
+2019,Italy,CBPF,Iraq,Member State,0.0,550055.01,IT,IQ
+2019,Italy,CBPF,Jordan,Member State,0.0,550055.01,IT,JO
+2019,Italy,CBPF,Lebanon,Member State,0.0,1100110.01,IT,LB
+2019,Italy,CBPF,Syria,Member State,0.0,2197802.2,IT,SY
+2019,Italy,CBPF,oPt,Member State,0.0,550055.01,IT,PS
+2019,Japan,CBPF,Syria,Member State,0.0,400000.0,JP,SY
+2019,Jersey,CBPF,CAR,Member State,0.0,578006.8,JE,CF
+2019,Jersey,CBPF,Syria,Member State,0.0,451280.78,JE,SY
+2019,Jersey,CBPF,Yemen,Member State,0.0,515630.84,JE,YE
+2019,Korea,CBPF,Afghanistan,Member State,0.0,1000000.0,KR,AF
+2019,Korea,CBPF,CAR,Member State,0.0,200000.0,KR,CF
+2019,Korea,CBPF,Ethiopia,Member State,0.0,200000.0,KR,ET
+2019,Korea,CBPF,Nigeria,Member State,0.0,500000.0,KR,NG
+2019,Korea,CBPF,Somalia,Member State,0.0,200000.0,KR,SO
+2019,Korea,CBPF,South Sudan,Member State,0.0,500000.0,KR,SS
+2019,Korea,CBPF,Sudan,Member State,0.0,800000.0,KR,SD
+2019,Korea,CBPF,Syria,Member State,0.0,1000000.0,KR,SY
+2019,Korea,CBPF,Syria Cross border,Member State,0.0,1000000.0,KR,XX
+2019,Korea,CBPF,Ukraine,Member State,0.0,400000.0,KR,UA
+2019,Korea,CBPF,Yemen,Member State,0.0,2000000.0,KR,YE
+2019,Kuwait,CBPF,Yemen,Member State,0.0,2000000.0,KW,YE
+2019,Lithuania,CBPF,Ukraine,Member State,0.0,109409.19,LT,UA
+2019,Lithuania,CBPF,Yemen,Member State,0.0,22753.13,LT,YE
+2019,Luxembourg,CBPF,CAR,Member State,0.0,397727.27,LU,CF
+2019,Luxembourg,CBPF,DRC,Member State,0.0,397727.27,LU,CD
+2019,Luxembourg,CBPF,Iraq,Member State,0.0,397727.27,LU,IQ
+2019,Luxembourg,CBPF,Myanmar,Member State,0.0,397727.27,LU,MM
+2019,Luxembourg,CBPF,Nigeria,Member State,0.0,397727.27,LU,NG
+2019,Luxembourg,CBPF,South Sudan,Member State,0.0,397727.27,LU,SS
+2019,Luxembourg,CBPF,Syria,Member State,0.0,397727.27,LU,SY
+2019,Luxembourg,CBPF,Ukraine,Member State,0.0,388888.89,LU,UA
+2019,Luxembourg,CBPF,Yemen,Member State,0.0,397727.27,LU,YE
+2019,Malaysia,CBPF,Ethiopia,Member State,0.0,10000.0,MY,ET
+2019,Malaysia,CBPF,Iraq,Member State,0.0,100000.0,MY,IQ
+2019,Malaysia,CBPF,Nigeria,Member State,0.0,10000.0,MY,NG
+2019,Malaysia,CBPF,Yemen,Member State,0.0,100000.0,MY,YE
+2019,Malta,CBPF,Yemen,Member State,0.0,54945.05,MT,YE
+2019,Monaco,CBPF,Yemen,Member State,0.0,113765.64,MC,YE
+2019,Netherlands,CBPF,DRC,Member State,0.0,7793443.0,NL,CD
+2019,Netherlands,CBPF,Iraq,Member State,0.0,5574136.01,NL,IQ
+2019,Netherlands,CBPF,Nigeria,Member State,0.0,5574136.01,NL,NG
+2019,Netherlands,CBPF,Somalia,Member State,0.0,6786000.0,NL,SO
+2019,Netherlands,CBPF,South Sudan,Member State,0.0,7793443.0,NL,SS
+2019,Netherlands,CBPF,Sudan,Member State,0.0,2226698.0,NL,SD
+2019,Netherlands,CBPF,Syria,Member State,0.0,5406911.93,NL,SY
+2019,Netherlands,CBPF,Syria Cross border,Member State,0.0,8593037.4,NL,XX
+2019,Netherlands,CBPF,Yemen,Member State,0.0,12922333.700000001,NL,YE
+2019,New Zealand,CBPF,Ethiopia,Member State,0.0,1283250.74,NZ,ET
+2019,New Zealand,CBPF,Myanmar,Member State,0.0,962438.06,NZ,MM
+2019,Norway,CBPF,Afghanistan,Member State,0.0,1539570.21,NO,AF
+2019,Norway,CBPF,DRC,Member State,0.0,1009709.3,NO,CD
+2019,Norway,CBPF,Nigeria,Member State,0.0,3917101.96,NO,NG
+2019,Norway,CBPF,Somalia,Member State,0.0,5569084.6,NO,SO
+2019,Norway,CBPF,South Sudan,Member State,0.0,7939619.6899999995,NO,SS
+2019,Norway,CBPF,Sudan,Member State,0.0,575996.87,NO,SD
+2019,Norway,CBPF,Syria,Member State,0.0,9796758.42,NO,SY
+2019,Norway,CBPF,Syria Cross border,Member State,0.0,8652901.22,NO,XX
+2019,Norway,CBPF,Ukraine,Member State,0.0,722156.8400000001,NO,UA
+2019,Norway,CBPF,Yemen,Member State,0.0,3685037.6799999997,NO,YE
+2019,Norway,CBPF,oPt,Member State,0.0,1086524.16,NO,PS
+2019,Philippines,CBPF,Yemen,Member State,0.0,10000.0,PH,YE
+2019,Poland,CBPF,Ukraine,Member State,0.0,516184.88,PL,UA
+2019,Qatar,CBPF,Afghanistan,Member State,0.0,999960.0,QA,AF
+2019,Qatar,CBPF,Iraq,Member State,0.0,999994.0,QA,IQ
+2019,Qatar,CBPF,Lebanon,Member State,0.0,499997.0,QA,LB
+2019,Qatar,CBPF,Syria,Member State,0.0,999994.0,QA,SY
+2019,Spain,CBPF,Nigeria,Member State,0.0,287026.41,ES,NG
+2019,Spain,CBPF,Syria,Member State,0.0,1659292.03,ES,SY
+2019,Spain,CBPF,Yemen,Member State,0.0,553097.34,ES,YE
+2019,Spain,CBPF,oPt,Member State,0.0,663716.81,ES,PS
+2019,Sweden,CBPF,Afghanistan,Member State,0.0,9345093.06,SE,AF
+2019,Sweden,CBPF,CAR,Member State,0.0,1631568.77,SE,CF
+2019,Sweden,CBPF,DRC,Member State,0.0,10811473.78,SE,CD
+2019,Sweden,CBPF,Ethiopia,Member State,0.0,7725706.75,SE,ET
+2019,Sweden,CBPF,Iraq,Member State,0.0,1514069.52,SE,IQ
+2019,Sweden,CBPF,Jordan,Member State,0.0,1081478.23,SE,JO
+2019,Sweden,CBPF,Lebanon,Member State,0.0,2664373.39,SE,LB
+2019,Sweden,CBPF,Myanmar,Member State,0.0,865182.59,SE,MM
+2019,Sweden,CBPF,Nigeria,Member State,0.0,3802685.82,SE,NG
+2019,Sweden,CBPF,Pakistan,Member State,0.0,2487399.93,SE,PK
+2019,Sweden,CBPF,Somalia,Member State,0.0,8618021.64,SE,SO
+2019,Sweden,CBPF,South Sudan,Member State,0.0,6481529.380000001,SE,SS
+2019,Sweden,CBPF,Sudan,Member State,0.0,7555437.55,SE,SD
+2019,Sweden,CBPF,Syria,Member State,0.0,6891651.28,SE,SY
+2019,Sweden,CBPF,Syria Cross border,Member State,0.0,6363099.47,SE,XX
+2019,Sweden,CBPF,Ukraine,Member State,0.0,1077483.32,SE,UA
+2019,Sweden,CBPF,Yemen,Member State,0.0,8111086.74,SE,YE
+2019,Sweden,CBPF,oPt,Member State,0.0,2162956.46,SE,PS
+2019,Switzerland,CBPF,Afghanistan,Member State,0.0,599965.0,CH,AF
+2019,Switzerland,CBPF,CAR,Member State,0.0,653225.63,CH,CF
+2019,Switzerland,CBPF,Ethiopia,Member State,0.0,1028806.58,CH,ET
+2019,Switzerland,CBPF,Lebanon,Member State,0.0,495540.14,CH,LB
+2019,Switzerland,CBPF,Myanmar,Member State,0.0,813008.13,CH,MM
+2019,Switzerland,CBPF,Nigeria,Member State,0.0,792864.22,CH,NG
+2019,Switzerland,CBPF,Somalia,Member State,0.0,2084285.46,CH,SO
+2019,Switzerland,CBPF,South Sudan,Member State,0.0,1997203.91,CH,SS
+2019,Switzerland,CBPF,Sudan,Member State,0.0,3037796.42,CH,SD
+2019,Switzerland,CBPF,Syria,Member State,0.0,3290195.1900000004,CH,SY
+2019,Switzerland,CBPF,Syria Cross border,Member State,0.0,1510068.48,CH,XX
+2019,Switzerland,CBPF,Yemen,Member State,0.0,4335377.26,CH,YE
+2019,Switzerland,CBPF,oPt,Member State,0.0,2981433.93,CH,PS
+2019,Ukraine,CBPF,Yemen,Member State,0.0,381463.98,UA,YE
+2019,United Kingdom,CBPF,Afghanistan,Member State,0.0,67140220.0,GB,AF
+2019,United Kingdom,CBPF,CAR,Member State,0.0,7263060.0,GB,CF
+2019,United Kingdom,CBPF,DRC,Member State,0.0,30133044.9,GB,CD
+2019,United Kingdom,CBPF,Ethiopia,Member State,0.0,22928290.32,GB,ET
+2019,United Kingdom,CBPF,Iraq,Member State,0.0,7907542.58,GB,IQ
+2019,United Kingdom,CBPF,Myanmar,Member State,0.0,3152585.12,GB,MM
+2019,United Kingdom,CBPF,Pakistan,Member State,0.0,2617801.05,GB,PK
+2019,United Kingdom,CBPF,Somalia,Member State,0.0,4910080.0,GB,SO
+2019,United Kingdom,CBPF,South Sudan,Member State,0.0,13849160.01,GB,SS
+2019,United Kingdom,CBPF,Sudan,Member State,0.0,29021440.0,GB,SD
+2019,United Kingdom,CBPF,Syria,Member State,0.0,19937526.48,GB,SY
+2019,United Kingdom,CBPF,Syria Cross border,Member State,0.0,51001903.349999994,GB,XX
+2019,United Kingdom,CBPF,Yemen,Member State,0.0,59831417.440000005,GB,YE
+2019,United States of America,CBPF,CAR,Member State,0.0,3000000.0,US,CF
+2019,United States of America,CBPF,Ethiopia,Member State,0.0,9750000.0,US,ET
+2019,United States of America,CBPF,Myanmar,Member State,0.0,4500000.0,US,MM
+2019,United States of America,CBPF,Sudan,Member State,0.0,8000000.0,US,SD
+2019,United States of America,CBPF,Ukraine,Member State,0.0,1000000.0,US,UA
+2019,United States of America,CBPF,Yemen,Member State,0.0,5000000.0,US,YE
+2020,Australia,CBPF,Afghanistan,Member State,0.0,5864836.66,AU,AF
+2020,Australia,CBPF,Myanmar,Member State,0.0,4234529.29,AU,MM
+2020,Australia,CBPF,Somalia,Member State,0.0,1306308.94,AU,SO
+2020,Australia,CBPF,South Sudan,Member State,0.0,2522590.58,AU,SS
+2020,Azerbaijan,CBPF,Yemen,Member State,0.0,25000.0,AZ,YE
+2020,Belgium,CBPF,DRC,Member State,0.0,10031470.51,BE,CD
+2020,Belgium,CBPF,Iraq,Member State,0.0,4343105.32,BE,IQ
+2020,Belgium,CBPF,Lebanon,Member State,0.0,2171552.66,BE,LB
+2020,Belgium,CBPF,Nigeria,Member State,0.0,5428881.65,BE,NG
+2020,Belgium,CBPF,South Sudan,Member State,0.0,2360346.0,BE,SS
+2020,Belgium,CBPF,Syria,Member State,0.0,7600434.31,BE,SY
+2020,Belgium,CBPF,Syria Cross border,Member State,0.0,7600434.31,BE,XX
+2020,Belgium,CBPF,Yemen,Member State,0.0,5428881.65,BE,YE
+2020,Belgium,CBPF,oPt,Member State,0.0,4343105.32,BE,PS
+2020,Bulgaria,CBPF,Ukraine,Member State,0.0,54288.82,BG,UA
+2020,Bulgaria,CBPF,Yemen,Member State,0.0,54288.82,BG,YE
+2020,Canada,CBPF,Afghanistan,Member State,0.0,2743088.93,CA,AF
+2020,Canada,CBPF,CAR,Member State,0.0,1445082.6,CA,CF
+2020,Canada,CBPF,DRC,Member State,0.0,363410.65,CA,CD
+2020,Canada,CBPF,Ethiopia,Member State,0.0,1718443.37,CA,ET
+2020,Canada,CBPF,Iraq,Member State,0.0,746580.8700000001,CA,IQ
+2020,Canada,CBPF,Jordan,Member State,0.0,734873.73,CA,JO
+2020,Canada,CBPF,Myanmar,Member State,0.0,1503930.97,CA,MM
+2020,Canada,CBPF,Nigeria,Member State,0.0,644281.67,CA,NG
+2020,Canada,CBPF,Pakistan,Member State,0.0,712877.56,CA,PK
+2020,Canada,CBPF,Somalia,Member State,0.0,2507032.01,CA,SO
+2020,Canada,CBPF,South Sudan,Member State,0.0,1444226.59,CA,SS
+2020,Canada,CBPF,Sudan,Member State,0.0,1731531.1099999999,CA,SD
+2020,Canada,CBPF,Syria,Member State,0.0,5181460.529999999,CA,SY
+2020,Canada,CBPF,Syria Cross border,Member State,0.0,2612314.49,CA,XX
+2020,Canada,CBPF,Ukraine,Member State,0.0,996524.99,CA,UA
+2020,Canada,CBPF,Yemen,Member State,0.0,4979937.96,CA,YE
+2020,Cyprus,CBPF,Jordan,Member State,0.0,12500.0,CY,JO
+2020,Cyprus,CBPF,Lebanon,Member State,0.0,12500.0,CY,LB
+2020,Cyprus,CBPF,Syria,Member State,0.0,12500.0,CY,SY
+2020,Cyprus,CBPF,Yemen,Member State,0.0,28441.41,CY,YE
+2020,Cyprus,CBPF,oPt,Member State,0.0,12500.0,CY,PS
+2020,Denmark,CBPF,Lebanon,Member State,0.0,2280211.06,DK,LB
+2020,Denmark,CBPF,Somalia,Member State,0.0,2979554.45,DK,SO
+2020,Denmark,CBPF,South Sudan,Member State,0.0,4462703.18,DK,SS
+2020,Denmark,CBPF,Sudan,Member State,0.0,2172063.64,DK,SD
+2020,Denmark,CBPF,Syria,Member State,0.0,4560302.06,DK,SY
+2020,Denmark,CBPF,Syria Cross border,Member State,0.0,9085481.219999999,DK,XX
+2020,Estonia,CBPF,Sudan,Member State,0.0,59154.8,EE,SD
+2020,Estonia,CBPF,Ukraine,Member State,0.0,54585.15,EE,UA
+2020,European Commission,CBPF,South Sudan,Member State,0.0,3301500.0,,SS
+2020,European Commission,CBPF,Ukraine,Member State,0.0,1118900.0,,UA
+2020,France,CBPF,Syria Cross border,Member State,0.0,10147829.94,FR,XX
+2020,Germany,CBPF,Afghanistan,Member State,0.0,3852722.0,DE,AF
+2020,Germany,CBPF,CAR,Member State,0.0,6051024.5,DE,CF
+2020,Germany,CBPF,DRC,Member State,0.0,7131281.5,DE,CD
+2020,Germany,CBPF,Ethiopia,Member State,2239641.66,11185734.68,DE,ET
+2020,Germany,CBPF,Iraq,Member State,0.0,9563069.63,DE,IQ
+2020,Germany,CBPF,Jordan,Member State,1176470.59,2207505.52,DE,JO
+2020,Germany,CBPF,Lebanon,Member State,1764705.88,2759381.9,DE,LB
+2020,Germany,CBPF,Myanmar,Member State,0.0,1671934.58,DE,MM
+2020,Germany,CBPF,Nigeria,Member State,2941176.47,9393195.629999999,DE,NG
+2020,Germany,CBPF,Pakistan,Member State,0.0,3459465.3600000003,DE,PK
+2020,Germany,CBPF,Somalia,Member State,0.0,8469117.5,DE,SO
+2020,Germany,CBPF,South Sudan,Member State,0.0,8212762.51,DE,SS
+2020,Germany,CBPF,Sudan,Member State,0.0,6008526.5,DE,SD
+2020,Germany,CBPF,Syria,Member State,1176470.59,1655629.14,DE,SY
+2020,Germany,CBPF,Syria Cross border,Member State,0.0,33106498.15,DE,XX
+2020,Germany,CBPF,Ukraine,Member State,0.0,4499201.71,DE,UA
+2020,Germany,CBPF,Yemen,Member State,0.0,26658767.77,DE,YE
+2020,Germany,CBPF,oPt,Member State,0.0,13822511.1,DE,PS
+2020,Iceland,CBPF,Lebanon,Member State,148389.97,202183.58,IS,LB
+2020,Iceland,CBPF,Syria,Member State,0.0,202183.58,IS,SY
+2020,Iceland,CBPF,oPt,Member State,0.0,169998.64,IS,PS
+2020,Ireland,CBPF,Afghanistan,Member State,0.0,531776.0,IE,AF
+2020,Ireland,CBPF,CAR,Member State,0.0,3230376.0,IE,CF
+2020,Ireland,CBPF,DRC,Member State,0.0,3190776.0,IE,CD
+2020,Ireland,CBPF,Ethiopia,Member State,0.0,3013245.03,IE,ET
+2020,Ireland,CBPF,Iraq,Member State,0.0,1102535.83,IE,IQ
+2020,Ireland,CBPF,Lebanon,Member State,0.0,1637554.59,IE,LB
+2020,Ireland,CBPF,Nigeria,Member State,0.0,1091703.06,IE,NG
+2020,Ireland,CBPF,Somalia,Member State,0.0,3204276.0,IE,SO
+2020,Ireland,CBPF,South Sudan,Member State,0.0,2136176.0,IE,SS
+2020,Ireland,CBPF,Sudan,Member State,0.0,3190776.0,IE,SD
+2020,Ireland,CBPF,Syria Cross border,Member State,0.0,2729257.64,IE,XX
+2020,Ireland,CBPF,Yemen,Member State,0.0,5494505.49,IE,YE
+2020,Ireland,CBPF,oPt,Member State,0.0,327510.92,IE,PS
+2020,Italy,CBPF,CAR,Member State,0.0,579344.53,IT,CF
+2020,Italy,CBPF,Sudan,Member State,0.0,579344.53,IT,SD
+2020,Italy,CBPF,Syria Cross border,Member State,0.0,2239641.66,IT,XX
+2020,Jersey,CBPF,CAR,Member State,0.0,244982.2,JE,CF
+2020,Jersey,CBPF,Syria,Member State,0.0,258732.21,JE,SY
+2020,Jersey,CBPF,Yemen,Member State,0.0,323415.27,JE,YE
+2020,Kazakhstan,CBPF,Afghanistan,Member State,0.0,50000.0,KZ,AF
+2020,Korea,CBPF,CAR,Member State,0.0,200000.0,KR,CF
+2020,Korea,CBPF,DRC,Member State,0.0,500000.0,KR,CD
+2020,Korea,CBPF,Ethiopia,Member State,0.0,200000.0,KR,ET
+2020,Korea,CBPF,Myanmar,Member State,0.0,300000.0,KR,MM
+2020,Korea,CBPF,Nigeria,Member State,0.0,500000.0,KR,NG
+2020,Korea,CBPF,Somalia,Member State,0.0,300000.0,KR,SO
+2020,Korea,CBPF,South Sudan,Member State,0.0,500000.0,KR,SS
+2020,Korea,CBPF,Sudan,Member State,0.0,300000.0,KR,SD
+2020,Korea,CBPF,Syria,Member State,0.0,1000000.0,KR,SY
+2020,Korea,CBPF,Syria Cross border,Member State,0.0,1000000.0,KR,XX
+2020,Korea,CBPF,Ukraine,Member State,0.0,400000.0,KR,UA
+2020,Korea,CBPF,Yemen,Member State,0.0,2000000.0,KR,YE
+2020,Korea,CBPF,oPt,Member State,0.0,300000.0,KR,PS
+2020,Lithuania,CBPF,Yemen,Member State,0.0,115711.0,LT,YE
+2020,Luxembourg,CBPF,Afghanistan,Member State,0.0,414332.8,LU,AF
+2020,Luxembourg,CBPF,CAR,Member State,0.0,414332.8,LU,CF
+2020,Luxembourg,CBPF,DRC,Member State,0.0,414332.8,LU,CD
+2020,Luxembourg,CBPF,Iraq,Member State,0.0,411764.71,LU,IQ
+2020,Luxembourg,CBPF,Myanmar,Member State,0.0,411764.71,LU,MM
+2020,Luxembourg,CBPF,Nigeria,Member State,0.0,411764.71,LU,NG
+2020,Luxembourg,CBPF,South Sudan,Member State,0.0,414332.8,LU,SS
+2020,Luxembourg,CBPF,Syria,Member State,0.0,411764.71,LU,SY
+2020,Luxembourg,CBPF,Ukraine,Member State,0.0,411764.71,LU,UA
+2020,Luxembourg,CBPF,Yemen,Member State,0.0,411764.71,LU,YE
+2020,Malaysia,CBPF,Yemen,Member State,0.0,100000.0,MY,YE
+2020,Malta,CBPF,Yemen,Member State,0.0,33594.62,MT,YE
+2020,Netherlands,CBPF,Afghanistan,Member State,0.0,4311804.0,NL,AF
+2020,Netherlands,CBPF,CAR,Member State,0.0,1847735.1,NL,CF
+2020,Netherlands,CBPF,DRC,Member State,0.0,10256650.0,NL,CD
+2020,Netherlands,CBPF,Nigeria,Member State,0.0,4912663.76,NL,NG
+2020,Netherlands,CBPF,Somalia,Member State,0.0,6050848.8,NL,SO
+2020,Netherlands,CBPF,South Sudan,Member State,0.0,11210196.1,NL,SS
+2020,Netherlands,CBPF,Sudan,Member State,0.0,4311804.0,NL,SD
+2020,Netherlands,CBPF,Syria,Member State,0.0,3711790.39,NL,SY
+2020,Netherlands,CBPF,Syria Cross border,Member State,0.0,13138562.57,NL,XX
+2020,New Zealand,CBPF,Ethiopia,Member State,0.0,1129100.0,NZ,ET
+2020,New Zealand,CBPF,Myanmar,Member State,0.0,1120350.0,NZ,MM
+2020,New Zealand,CBPF,Syria Cross border,Member State,0.0,1213200.0,NZ,XX
+2020,Norway,CBPF,Afghanistan,Member State,0.0,1038951.84,NO,AF
+2020,Norway,CBPF,Ethiopia,Member State,0.0,477628.84,NO,ET
+2020,Norway,CBPF,Nigeria,Member State,0.0,1432886.52,NO,NG
+2020,Norway,CBPF,Somalia,Member State,0.0,3011229.21,NO,SO
+2020,Norway,CBPF,South Sudan,Member State,0.0,6438316.88,NO,SS
+2020,Norway,CBPF,Sudan,Member State,0.0,2105047.8499999996,NO,SD
+2020,Norway,CBPF,Syria,Member State,0.0,7499230.6,NO,SY
+2020,Norway,CBPF,Syria Cross border,Member State,0.0,7990917.34,NO,XX
+2020,Norway,CBPF,Ukraine,Member State,0.0,791346.26,NO,UA
+2020,Norway,CBPF,Yemen,Member State,0.0,2956240.09,NO,YE
+2020,Norway,CBPF,oPt,Member State,0.0,955257.68,NO,PS
+2020,Philippines,CBPF,Yemen,Member State,0.0,10000.0,PH,YE
+2020,Qatar,CBPF,Jordan,Member State,0.0,1000000.0,QA,JO
+2020,Qatar,CBPF,Lebanon,Member State,0.0,1000000.0,QA,LB
+2020,Qatar,CBPF,Nigeria,Member State,0.0,200000.0,QA,NG
+2020,Qatar,CBPF,Syria Cross border,Member State,0.0,2999985.0,QA,XX
+2020,Slovakia,CBPF,Lebanon,Member State,0.0,117647.06,SK,LB
+2020,Sweden,CBPF,Afghanistan,Member State,0.0,5905469.88,SE,AF
+2020,Sweden,CBPF,CAR,Member State,0.0,1527276.69,SE,CF
+2020,Sweden,CBPF,DRC,Member State,0.0,7127291.23,SE,CD
+2020,Sweden,CBPF,Ethiopia,Member State,0.0,5010845.84,SE,ET
+2020,Sweden,CBPF,Iraq,Member State,0.0,1066137.41,SE,IQ
+2020,Sweden,CBPF,Jordan,Member State,0.0,1599206.12,SE,JO
+2020,Sweden,CBPF,Lebanon,Member State,0.0,1599206.12,SE,LB
+2020,Sweden,CBPF,Myanmar,Member State,0.0,852909.93,SE,MM
+2020,Sweden,CBPF,Nigeria,Member State,0.0,1992469.39,SE,NG
+2020,Sweden,CBPF,Somalia,Member State,0.0,3563645.62,SE,SO
+2020,Sweden,CBPF,South Sudan,Member State,0.0,5040013.08,SE,SS
+2020,Sweden,CBPF,Sudan,Member State,0.0,5600014.54,SE,SD
+2020,Sweden,CBPF,Syria,Member State,0.0,4264549.65,SE,SY
+2020,Sweden,CBPF,Syria Cross border,Member State,0.0,9665771.05,SE,XX
+2020,Sweden,CBPF,Ukraine,Member State,0.0,533068.71,SE,UA
+2020,Sweden,CBPF,Yemen,Member State,0.0,9001198.76,SE,YE
+2020,Sweden,CBPF,oPt,Member State,0.0,2132274.83,SE,PS
+2020,Switzerland,CBPF,Afghanistan,Member State,0.0,1099950.0,CH,AF
+2020,Switzerland,CBPF,CAR,Member State,0.0,1911853.88,CH,CF
+2020,Switzerland,CBPF,Ethiopia,Member State,0.0,1631882.87,CH,ET
+2020,Switzerland,CBPF,Iraq,Member State,0.0,1062699.26,CH,IQ
+2020,Switzerland,CBPF,Lebanon,Member State,501504.51,0.0,CH,LB
+2020,Switzerland,CBPF,Myanmar,Member State,0.0,1635102.3900000001,CH,MM
+2020,Switzerland,CBPF,Nigeria,Member State,0.0,2129686.58,CH,NG
+2020,Switzerland,CBPF,Somalia,Member State,0.0,1526230.0,CH,SO
+2020,Switzerland,CBPF,South Sudan,Member State,0.0,1049315.74,CH,SS
+2020,Switzerland,CBPF,Sudan,Member State,0.0,1064991.08,CH,SD
+2020,Switzerland,CBPF,Syria,Member State,0.0,2125398.51,CH,SY
+2020,Switzerland,CBPF,Syria Cross border,Member State,0.0,2063983.49,CH,XX
+2020,Switzerland,CBPF,Yemen,Member State,0.0,2585315.41,CH,YE
+2020,Switzerland,CBPF,oPt,Member State,0.0,2068252.32,CH,PS
+2020,UN and Other Agencies,CBPF,Myanmar,Member State,0.0,1000000.0,,MM
+2020,UNF,CBPF,Afghanistan,Member State,3090.75,0.0,,AF
+2020,UNF,CBPF,CAR,Member State,3332.55,0.0,,CF
+2020,UNF,CBPF,DRC,Member State,20813.5,0.0,,CD
+2020,UNF,CBPF,Somalia,Member State,23134.81,0.0,,SO
+2020,UNF,CBPF,South Sudan,Member State,17899.05,0.0,,SS
+2020,UNF,CBPF,Sudan,Member State,2913.3,0.0,,SD
+2020,UNF,CBPF,Yemen,Member State,0.0,500.0,,YE
+2020,United Kingdom,CBPF,Afghanistan,Member State,12360939.43,16130400.0,GB,AF
+2020,United Kingdom,CBPF,CAR,Member State,0.0,6134500.04,GB,CF
+2020,United Kingdom,CBPF,Ethiopia,Member State,0.0,7453416.15,GB,ET
+2020,United Kingdom,CBPF,Iraq,Member State,0.0,4675901.75,GB,IQ
+2020,United Kingdom,CBPF,Jordan,Member State,0.0,2472187.89,GB,JO
+2020,United Kingdom,CBPF,Pakistan,Member State,0.0,3129176.8200000003,GB,PK
+2020,United Kingdom,CBPF,South Sudan,Member State,0.0,8962450.0,GB,SS
+2020,United Kingdom,CBPF,Sudan,Member State,0.0,33511280.0,GB,SD
+2020,United Kingdom,CBPF,Syria,Member State,0.0,10000000.0,GB,SY
+2020,United Kingdom,CBPF,Syria Cross border,Member State,0.0,29633507.860000003,GB,XX
+2020,United Kingdom,CBPF,Yemen,Member State,0.0,13037809.65,GB,YE
+2020,United States of America,CBPF,Myanmar,Member State,2000000.0,0.0,US,MM
+2021,Australia,CBPF,Myanmar,Member State,3075030.75,0.0,AU,MM
+2021,Germany,CBPF,DRC,Member State,2171552.66,0.0,DE,CD
+2021,Germany,CBPF,Ethiopia,Member State,1103752.76,0.0,DE,ET
+2021,Germany,CBPF,Myanmar,Member State,542888.17,0.0,DE,MM
+2021,Germany,CBPF,Nigeria,Member State,1085776.33,0.0,DE,NG
+2021,Germany,CBPF,Somalia,Member State,1103752.76,0.0,DE,SO
+2021,Germany,CBPF,Ukraine,Member State,2171552.66,0.0,DE,UA
+2021,Switzerland,CBPF,Afghanistan,Member State,1000000.0,0.0,CH,AF
+2021,Switzerland,CBPF,CAR,Member State,822199.38,0.0,CH,CF
+2021,Switzerland,CBPF,Ethiopia,Member State,504032.26,0.0,CH,ET
+2021,Switzerland,CBPF,Lebanon,Member State,501504.51,0.0,CH,LB
+2021,Switzerland,CBPF,Myanmar,Member State,508130.08,0.0,CH,MM
+2021,Switzerland,CBPF,Nigeria,Member State,1031991.74,0.0,CH,NG
+2021,Switzerland,CBPF,Somalia,Member State,489715.96,0.0,CH,SO
+2021,United Kingdom,CBPF,Afghanistan,Member State,16497461.93,0.0,GB,AF
+2021,United Kingdom,CBPF,CAR,Member State,3807106.6,0.0,GB,CF
+2021,United Kingdom,CBPF,Ethiopia,Member State,6887052.34,0.0,GB,ET
+2021,United Kingdom,CBPF,Yemen,Member State,44642857.14,0.0,GB,YE
+2022,Australia,CBPF,Myanmar,Member State,2675276.75,0.0,AU,MM
+2022,Germany,CBPF,DRC,Member State,2171552.66,0.0,DE,CD
+2022,Germany,CBPF,Nigeria,Member State,1085776.33,0.0,DE,NG
+2022,Switzerland,CBPF,Afghanistan,Member State,1000000.0,0.0,CH,AF
+2022,Switzerland,CBPF,CAR,Member State,822199.38,0.0,CH,CF
+2022,Switzerland,CBPF,Ethiopia,Member State,504032.26,0.0,CH,ET
+2022,Switzerland,CBPF,Nigeria,Member State,1031991.74,0.0,CH,NG
+2022,United Kingdom,CBPF,Afghanistan,Member State,16497461.93,0.0,GB,AF
+2022,United Kingdom,CBPF,CAR,Member State,3807106.6,0.0,GB,CF
+2023,Germany,CBPF,Nigeria,Member State,1085776.33,0.0,DE,NG
+2023,United Kingdom,CBPF,Afghanistan,Member State,15228426.4,0.0,GB,AF
+2006,Andorra,CERF,CERF,Member State,0.0,25440.0,AD,
+2006,Antigua and Barbuda,CERF,CERF,Member State,0.0,5000.0,AG,
+2006,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2006,Australia,CERF,CERF,Member State,0.0,7600000.0,AU,
+2006,Azerbaijan,CERF,CERF,Member State,0.0,20000.0,AZ,
+2006,Bangladesh,CERF,CERF,Member State,0.0,5000.0,BD,
+2006,Belgium,CERF,CERF,Member State,0.0,2666194.01,BE,
+2006,Canada,CERF,CERF,Member State,0.0,21941309.26,CA,
+2006,Croatia,CERF,CERF,Member State,0.0,5000.0,HR,
+2006,Czech Republic,CERF,CERF,Member State,0.0,113301.61,CZ,
+2006,Denmark,CERF,CERF,Member State,0.0,8401243.38,DK,
+2006,Disaster Resource Network,CERF,CERF,Private,0.0,10000.0,,
+2006,Djibouti,CERF,CERF,Member State,0.0,2000.0,DJ,
+2006,Ecuador,CERF,CERF,Member State,0.0,20000.0,EC,
+2006,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2006,Estonia,CERF,CERF,Member State,0.0,52102.0,EE,
+2006,Finland,CERF,CERF,Member State,0.0,5154000.0,FI,
+2006,France,CERF,CERF,Member State,0.0,1263800.0,FR,
+2006,Greece,CERF,CERF,Member State,0.0,100000.0,GR,
+2006,Grenada,CERF,CERF,Member State,0.0,10000.0,GD,
+2006,Hyogo Prefecture (Japan),CERF,CERF,Regional Local Authority,0.0,424989.38,,
+2006,Iceland,CERF,CERF,Member State,0.0,150000.0,IS,
+2006,India,CERF,CERF,Member State,0.0,1000000.0,IN,
+2006,Indonesia,CERF,CERF,Member State,0.0,50000.0,ID,
+2006,Ireland,CERF,CERF,Member State,0.0,12601974.0,IE,
+2006,Japan,CERF,CERF,Member State,0.0,7500000.0,JP,
+2006,Kazakhstan,CERF,CERF,Member State,0.0,25000.0,KZ,
+2006,Korea,CERF,CERF,Member State,0.0,5000000.0,KR,
+2006,Kuwait,CERF,CERF,Member State,0.0,200000.0,KW,
+2006,Liechtenstein,CERF,CERF,Member State,0.0,100000.0,LI,
+2006,Luxembourg,CERF,CERF,Member State,0.0,4000000.0,LU,
+2006,Malaysia,CERF,CERF,Member State,0.0,50000.0,MY,
+2006,Mexico,CERF,CERF,Member State,0.0,50000.0,MX,
+2006,Monaco,CERF,CERF,Member State,0.0,25000.0,MC,
+2006,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2006,Netherlands,CERF,CERF,Member State,0.0,51860000.0,NL,
+2006,Nigeria,CERF,CERF,Member State,0.0,2452.0,NG,
+2006,Norway,CERF,CERF,Member State,0.0,29993971.19,NO,
+2006,Pakistan,CERF,CERF,Member State,0.0,20000.0,PK,
+2006,Poland,CERF,CERF,Member State,0.0,250000.0,PL,
+2006,Portugal,CERF,CERF,Member State,0.0,254220.0,PT,
+2006,Qatar,CERF,CERF,Member State,0.0,2000000.0,QA,
+2006,Saudi Arabia,CERF,CERF,Member State,0.0,50000.0,SA,
+2006,Slovenia,CERF,CERF,Member State,0.0,10000.0,SI,
+2006,South Africa,CERF,CERF,Member State,0.0,288577.15,ZA,
+2006,Spain,CERF,CERF,Member State,0.0,9999984.0,ES,
+2006,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2006,Sweden,CERF,CERF,Member State,0.0,41093249.8,SE,
+2006,Switzerland,CERF,CERF,Member State,0.0,3928097.01,CH,
+2006,Thailand,CERF,CERF,Member State,0.0,10000.0,TH,
+2006,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2006,Turkey,CERF,CERF,Member State,0.0,300000.0,TR,
+2006,United Kingdom,CERF,CERF,Member State,0.0,69928000.0,GB,
+2006,United States of America,CERF,CERF,Member State,0.0,10000000.0,US,
+2007,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2007,Andorra,CERF,CERF,Member State,0.0,29735.2,AD,
+2007,Antigua and Barbuda,CERF,CERF,Member State,0.0,5000.0,AG,
+2007,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2007,Australia,CERF,CERF,Member State,0.0,8760000.0,AU,
+2007,Austria,CERF,CERF,Member State,0.0,401430.0,AT,
+2007,Azerbaijan,CERF,CERF,Member State,0.0,20000.0,AZ,
+2007,Bahamas,CERF,CERF,Member State,0.0,50000.0,BS,
+2007,Belgium,CERF,CERF,Member State,0.0,2988913.9,BE,
+2007,Brazil,CERF,CERF,Member State,0.0,30000.0,BR,
+2007,Brunei Darussalam,CERF,CERF,Member State,0.0,50000.0,BN,
+2007,Bulgaria,CERF,CERF,Member State,0.0,10000.0,BG,
+2007,Canada,CERF,CERF,Member State,0.0,35116374.03,CA,
+2007,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2007,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2007,Colombia,CERF,CERF,Member State,0.0,20000.0,CO,
+2007,Croatia,CERF,CERF,Member State,0.0,20000.0,HR,
+2007,Cyprus,CERF,CERF,Member State,0.0,30000.0,CY,
+2007,Czech Republic,CERF,CERF,Member State,0.0,121353.33,CZ,
+2007,Denmark,CERF,CERF,Member State,0.0,8742383.64,DK,
+2007,Disaster Resource Network,CERF,CERF,Private,0.0,9978.0,,
+2007,Djibouti,CERF,CERF,Member State,0.0,2000.0,DJ,
+2007,Ecuador,CERF,CERF,Member State,0.0,20000.0,EC,
+2007,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2007,El Salvador,CERF,CERF,Member State,0.0,2000.0,SV,
+2007,Estonia,CERF,CERF,Member State,0.0,39739.0,EE,
+2007,Finland,CERF,CERF,Member State,0.0,6726000.0,FI,
+2007,France,CERF,CERF,Member State,0.0,1312100.0,FR,
+2007,Germany,CERF,CERF,Member State,0.0,6597500.0,DE,
+2007,Humanity First USA,CERF,CERF,Private,0.0,10000.0,,
+2007,Hungary,CERF,CERF,Member State,0.0,10000.0,HU,
+2007,Hyogo Prefecture (Japan),CERF,CERF,Regional Local Authority,0.0,435578.01,,
+2007,Iceland,CERF,CERF,Member State,0.0,558618.1599999999,IS,
+2007,India,CERF,CERF,Member State,0.0,1000000.0,IN,
+2007,Indonesia,CERF,CERF,Member State,0.0,100000.0,ID,
+2007,Ireland,CERF,CERF,Member State,0.0,26273974.0,IE,
+2007,Israel,CERF,CERF,Member State,0.0,30000.0,IL,
+2007,Italy,CERF,CERF,Member State,0.0,2670400.23,IT,
+2007,Jamaica,CERF,CERF,Member State,0.0,5000.0,JM,
+2007,Jan Egeland,CERF,CERF,Private,0.0,17240.19,,
+2007,Kazakhstan,CERF,CERF,Member State,0.0,10000.0,KZ,
+2007,Korea,CERF,CERF,Member State,0.0,1500000.0,KR,
+2007,Lebanon,CERF,CERF,Member State,0.0,3000.0,LB,
+2007,Liechtenstein,CERF,CERF,Member State,0.0,123243.78,LI,
+2007,Luxembourg,CERF,CERF,Member State,0.0,5610800.0,LU,
+2007,Malaysia,CERF,CERF,Member State,0.0,100000.0,MY,
+2007,Maldives,CERF,CERF,Member State,0.0,1000.0,MV,
+2007,Malta,CERF,CERF,Member State,0.0,10000.0,MT,
+2007,Mexico,CERF,CERF,Member State,0.0,50000.0,MX,
+2007,Monaco,CERF,CERF,Member State,0.0,35000.0,MC,
+2007,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2007,Netherlands,CERF,CERF,Member State,0.0,53400000.0,NL,
+2007,New Zealand,CERF,CERF,Member State,0.0,762700.0,NZ,
+2007,Norway,CERF,CERF,Member State,0.0,55066049.29,NO,
+2007,Pakistan,CERF,CERF,Member State,0.0,20000.0,PK,
+2007,Peru,CERF,CERF,Member State,0.0,5000.0,PE,
+2007,Philippines,CERF,CERF,Member State,0.0,5000.0,PH,
+2007,Poland,CERF,CERF,Member State,0.0,510000.0,PL,
+2007,Portugal,CERF,CERF,Member State,0.0,268540.0,PT,
+2007,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,8107.05,,
+2007,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,117959.0,,
+2007,Romania,CERF,CERF,Member State,0.0,359625.0,RO,
+2007,Saudi Arabia,CERF,CERF,Member State,0.0,50000.0,SA,
+2007,Slovenia,CERF,CERF,Member State,0.0,50000.0,SI,
+2007,South Africa,CERF,CERF,Member State,0.0,240000.0,ZA,
+2007,Spain,CERF,CERF,Member State,0.0,20692484.0,ES,
+2007,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2007,Sweden,CERF,CERF,Member State,0.0,51045497.83,SE,
+2007,Switzerland,CERF,CERF,Member State,0.0,8194982.250000001,CH,
+2007,Thailand,CERF,CERF,Member State,0.0,10000.0,TH,
+2007,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2007,Turkey,CERF,CERF,Member State,0.0,300000.0,TR,
+2007,United Kingdom,CERF,CERF,Member State,0.0,83726040.0,GB,
+2008,Albania,CERF,CERF,Member State,0.0,3000.0,AL,
+2008,Alexander Bodini Foundation,CERF,CERF,Private,0.0,10000.0,,
+2008,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2008,Andorra,CERF,CERF,Member State,0.0,33494.9,AD,
+2008,Antigua and Barbuda,CERF,CERF,Member State,0.0,5000.0,AG,
+2008,Argentina,CERF,CERF,Member State,0.0,30000.0,AR,
+2008,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2008,Australia,CERF,CERF,Member State,0.0,9517000.0,AU,
+2008,Austria,CERF,CERF,Member State,0.0,1030055.0,AT,
+2008,Bangladesh,CERF,CERF,Member State,0.0,5000.0,BD,
+2008,Belgium,CERF,CERF,Member State,0.0,2539594.3,BE,
+2008,Bhutan,CERF,CERF,Member State,0.0,1480.0,BT,
+2008,Bosnia and Herzegovina,CERF,CERF,Member State,0.0,5000.0,BA,
+2008,Botswana,CERF,CERF,Member State,0.0,5000.0,BW,
+2008,Brazil,CERF,CERF,Member State,0.0,50000.0,BR,
+2008,Bulgaria,CERF,CERF,Member State,0.0,10000.0,BG,
+2008,Canada,CERF,CERF,Member State,0.0,39037522.760000005,CA,
+2008,Chile,CERF,CERF,Member State,0.0,100000.0,CL,
+2008,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2008,Croatia,CERF,CERF,Member State,0.0,34000.0,HR,
+2008,Czech Republic,CERF,CERF,Member State,0.0,153874.56,CZ,
+2008,Denmark,CERF,CERF,Member State,0.0,9931472.84,DK,
+2008,Disaster Resource Network,CERF,CERF,Private,0.0,5000.0,,
+2008,Ecuador,CERF,CERF,Member State,0.0,20000.0,EC,
+2008,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2008,Estonia,CERF,CERF,Member State,0.0,91200.0,EE,
+2008,Finland,CERF,CERF,Member State,0.0,7791000.0,FI,
+2008,France,CERF,CERF,Member State,0.0,2223046.38,FR,
+2008,Germany,CERF,CERF,Member State,0.0,14790000.0,DE,
+2008,Ghana,CERF,CERF,Member State,0.0,5000.0,GH,
+2008,Greece,CERF,CERF,Member State,0.0,300000.0,GR,
+2008,Guatemala,CERF,CERF,Member State,0.0,10000.0,GT,
+2008,Guyana,CERF,CERF,Member State,0.0,4912.84,GY,
+2008,Holy See (Vatican City State),CERF,CERF,Observer,0.0,5000.0,,
+2008,Humanity First USA,CERF,CERF,Private,0.0,2500.0,,
+2008,Hungary,CERF,CERF,Member State,0.0,20000.0,HU,
+2008,Iceland,CERF,CERF,Member State,0.0,611243.27,IS,
+2008,Indonesia,CERF,CERF,Member State,0.0,100000.0,ID,
+2008,Ireland,CERF,CERF,Member State,0.0,33301074.0,IE,
+2008,Israel,CERF,CERF,Member State,0.0,15000.0,IL,
+2008,Italy,CERF,CERF,Member State,0.0,2935400.0,IT,
+2008,Japan,CERF,CERF,Member State,0.0,2169083.1799999997,JP,
+2008,Kazakhstan,CERF,CERF,Member State,0.0,50000.0,KZ,
+2008,Korea,CERF,CERF,Member State,0.0,2000000.0,KR,
+2008,Kuwait,CERF,CERF,Member State,0.0,50000.0,KW,
+2008,Latvia,CERF,CERF,Member State,0.0,20000.0,LV,
+2008,Liechtenstein,CERF,CERF,Member State,0.0,196136.12,LI,
+2008,Lithuania,CERF,CERF,Member State,0.0,20844.62,LT,
+2008,Luxembourg,CERF,CERF,Member State,0.0,6190400.0,LU,
+2008,Malaysia,CERF,CERF,Member State,0.0,100000.0,MY,
+2008,Maldives,CERF,CERF,Member State,0.0,1000.0,MV,
+2008,Mexico,CERF,CERF,Member State,0.0,100000.0,MX,
+2008,Monaco,CERF,CERF,Member State,0.0,139313.48,MC,
+2008,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2008,Montenegro,CERF,CERF,Member State,0.0,2500.0,ME,
+2008,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2008,Netherlands,CERF,CERF,Member State,0.0,63900000.0,NL,
+2008,New Zealand,CERF,CERF,Member State,0.0,1000000.0,NZ,
+2008,North Macedonia,CERF,CERF,Member State,0.0,2000.0,MK,
+2008,Norway,CERF,CERF,Member State,0.0,55258765.36,NO,
+2008,Pakistan,CERF,CERF,Member State,0.0,20000.0,PK,
+2008,Peru,CERF,CERF,Member State,0.0,10000.0,PE,
+2008,Philippines,CERF,CERF,Member State,0.0,5000.0,PH,
+2008,Poland,CERF,CERF,Member State,0.0,300000.0,PL,
+2008,Portugal,CERF,CERF,Member State,0.0,312400.0,PT,
+2008,PriceWaterhouseCoopers,CERF,CERF,Private Contributions through UNF,0.0,500000.0,,
+2008,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,3514.92,,
+2008,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,118201.0,,
+2008,Qatar,CERF,CERF,Member State,0.0,100000.0,QA,
+2008,SCOR,CERF,CERF,Private,0.0,200000.0,,
+2008,San Marino,CERF,CERF,Member State,0.0,4412.74,SM,
+2008,Saudi Arabia,CERF,CERF,Member State,0.0,100000.0,SA,
+2008,Slovenia,CERF,CERF,Member State,0.0,50000.0,SI,
+2008,South Africa,CERF,CERF,Member State,0.0,221538.45,ZA,
+2008,Spain,CERF,CERF,Member State,0.0,45531968.0,ES,
+2008,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2008,Sweden,CERF,CERF,Member State,0.0,56264400.17,SE,
+2008,Switzerland,CERF,CERF,Member State,0.0,7241824.57,CH,
+2008,Syria,CERF,CERF,Member State,0.0,5000.0,SY,
+2008,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2008,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2008,Tunisia,CERF,CERF,Member State,0.0,5000.0,TN,
+2008,Turkey,CERF,CERF,Member State,0.0,300000.0,TR,
+2008,United Arab Emirates,CERF,CERF,Member State,0.0,50000.0,AE,
+2008,United Kingdom,CERF,CERF,Member State,0.0,80239000.0,GB,
+2008,United States of America,CERF,CERF,Member State,0.0,5000000.0,US,
+2008,Western Union,CERF,CERF,Private Contributions through UNF,0.0,100000.0,,
+2009,"Abu Dhabi National Energy Company ""TAQA""",CERF,CERF,Private,0.0,150000.0,,
+2009,Afghanistan,CERF,CERF,Member State,0.0,1500.0,AF,
+2009,Albania,CERF,CERF,Member State,0.0,3500.0,AL,
+2009,Alexander Bodini Foundation,CERF,CERF,Private,0.0,15000.0,,
+2009,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2009,Andorra,CERF,CERF,Member State,0.0,38985.8,AD,
+2009,Antigua and Barbuda,CERF,CERF,Member State,0.0,5000.0,AG,
+2009,Argentina,CERF,CERF,Member State,0.0,30000.0,AR,
+2009,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2009,Australia,CERF,CERF,Member State,0.0,7821600.0,AU,
+2009,Austria,CERF,CERF,Member State,0.0,424740.0,AT,
+2009,Azerbaijan,CERF,CERF,Member State,0.0,10000.0,AZ,
+2009,Baha'i International Community (National Spiritual Assembly),CERF,CERF,Private,0.0,10000.0,,
+2009,Belgium,CERF,CERF,Member State,0.0,7272904.92,BE,
+2009,Benin,CERF,CERF,Member State,0.0,1500.0,BJ,
+2009,Bhutan,CERF,CERF,Member State,0.0,1480.0,BT,
+2009,Brazil,CERF,CERF,Member State,0.0,149985.0,BR,
+2009,Bulgaria,CERF,CERF,Member State,0.0,14966.2,BG,
+2009,Canada,CERF,CERF,Member State,0.0,34566876.08,CA,
+2009,Chile,CERF,CERF,Member State,0.0,20000.0,CL,
+2009,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2009,Colombia,CERF,CERF,Member State,0.0,40000.0,CO,
+2009,Croatia,CERF,CERF,Member State,0.0,24000.0,HR,
+2009,Czech Republic,CERF,CERF,Member State,0.0,143176.22,CZ,
+2009,Denmark,CERF,CERF,Member State,0.0,8544087.49,DK,
+2009,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2009,Estonia,CERF,CERF,Member State,0.0,80845.0,EE,
+2009,Finland,CERF,CERF,Member State,0.0,8198400.0,FI,
+2009,Germany,CERF,CERF,Member State,0.0,19522484.38,DE,
+2009,Ghana,CERF,CERF,Member State,0.0,10000.0,GH,
+2009,Greece,CERF,CERF,Member State,0.0,500000.0,GR,
+2009,HSBC Bank Middle East Limited,CERF,CERF,Private,0.0,100000.0,,
+2009,Haiti,CERF,CERF,Member State,0.0,1480.0,HT,
+2009,Holy See (Vatican City State),CERF,CERF,Observer,0.0,5000.0,,
+2009,Hungary,CERF,CERF,Member State,0.0,54088.0,HU,
+2009,Iceland,CERF,CERF,Member State,0.0,200000.0,IS,
+2009,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2009,Indonesia,CERF,CERF,Member State,0.0,125000.0,ID,
+2009,Ireland,CERF,CERF,Member State,0.0,27179610.0,IE,
+2009,Israel,CERF,CERF,Member State,0.0,15000.0,IL,
+2009,Italy,CERF,CERF,Member State,0.0,1358868.0,IT,
+2009,Jamaica,CERF,CERF,Member State,0.0,5000.0,JM,
+2009,Japan,CERF,CERF,Member State,0.0,1000000.0,JP,
+2009,Kazakhstan,CERF,CERF,Member State,0.0,50000.0,KZ,
+2009,Kenya,CERF,CERF,Member State,0.0,9894.62,KE,
+2009,Korea,CERF,CERF,Member State,0.0,3000000.0,KR,
+2009,Kuwait,CERF,CERF,Member State,0.0,50000.0,KW,
+2009,Lao PDR,CERF,CERF,Member State,0.0,3000.0,LA,
+2009,Liechtenstein,CERF,CERF,Member State,0.0,230840.26,LI,
+2009,Luxembourg,CERF,CERF,Member State,0.0,5696400.0,LU,
+2009,Malaysia,CERF,CERF,Member State,0.0,100000.0,MY,
+2009,Mexico,CERF,CERF,Member State,0.0,150000.0,MX,
+2009,Moldova,CERF,CERF,Member State,0.0,10000.0,MD,
+2009,Monaco,CERF,CERF,Member State,0.0,141692.25,MC,
+2009,Montenegro,CERF,CERF,Member State,0.0,5000.0,ME,
+2009,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2009,Mozambique,CERF,CERF,Member State,0.0,2000.0,MZ,
+2009,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2009,Namibia,CERF,CERF,Member State,0.0,1000.0,NA,
+2009,Netherlands,CERF,CERF,Member State,0.0,55668000.0,NL,
+2009,New Zealand,CERF,CERF,Member State,0.0,1000000.0,NZ,
+2009,Norway,CERF,CERF,Member State,0.0,42734982.730000004,NO,
+2009,Oman,CERF,CERF,Member State,0.0,30000.0,OM,
+2009,Pakistan,CERF,CERF,Member State,0.0,15000.0,PK,
+2009,Peru,CERF,CERF,Member State,0.0,10000.0,PE,
+2009,Philippines,CERF,CERF,Member State,0.0,10000.0,PH,
+2009,Poland,CERF,CERF,Member State,0.0,300000.0,PL,
+2009,Portugal,CERF,CERF,Member State,0.0,263020.0,PT,
+2009,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,1400.0,,
+2009,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,56030.0,,
+2009,Qatar,CERF,CERF,Member State,0.0,50000.0,QA,
+2009,Republic of Congo,CERF,CERF,Member State,0.0,2256.25,CG,
+2009,Samoa,CERF,CERF,Member State,0.0,2000.0,WS,
+2009,San Marino,CERF,CERF,Member State,0.0,30000.0,SM,
+2009,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2009,Slovakia,CERF,CERF,Member State,0.0,10000.0,SK,
+2009,Slovenia,CERF,CERF,Member State,0.0,66588.0,SI,
+2009,South Africa,CERF,CERF,Member State,0.0,180000.0,ZA,
+2009,Spain,CERF,CERF,Member State,0.0,44348982.0,ES,
+2009,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2009,Sweden,CERF,CERF,Member State,0.0,49367572.36,SE,
+2009,Switzerland,CERF,CERF,Member State,0.0,4657370.02,CH,
+2009,Syria,CERF,CERF,Member State,0.0,5000.0,SY,
+2009,The Estate of George Gary,CERF,CERF,Private,0.0,10408.05,,
+2009,The Red Crescent of the UAE,CERF,CERF,Private,0.0,9981.5,,
+2009,Timor-Leste,CERF,CERF,Member State,0.0,1200.0,TL,
+2009,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2009,Turkey,CERF,CERF,Member State,0.0,200000.0,TR,
+2009,Tuvalu,CERF,CERF,Member State,0.0,1000.0,TV,
+2009,United Kingdom,CERF,CERF,Member State,0.0,64262000.0,GB,
+2009,Venezuela,CERF,CERF,Member State,0.0,5000.0,VE,
+2009,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2009,Western Union,CERF,CERF,Private Contributions through UNF,0.0,100000.0,,
+2010,"Abu Dhabi National Energy Company ""TAQA""",CERF,CERF,Private,0.0,272257.01,,
+2010,Afghanistan,CERF,CERF,Member State,0.0,1500.0,AF,
+2010,Alexander Bodini Foundation,CERF,CERF,Private,0.0,20000.0,,
+2010,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2010,Andorra,CERF,CERF,Member State,0.0,46527.0,AD,
+2010,Antigua and Barbuda,CERF,CERF,Member State,0.0,5000.0,AG,
+2010,Argentina,CERF,CERF,Member State,0.0,50000.0,AR,
+2010,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2010,Australia,CERF,CERF,Member State,0.0,10986000.0,AU,
+2010,Austria,CERF,CERF,Member State,0.0,548400.0,AT,
+2010,BASF (Germany and South East Asia),CERF,CERF,Private,0.0,761031.51,,
+2010,Baha'i International Community (National Spiritual Assembly),CERF,CERF,Private,0.0,20000.0,,
+2010,Bangladesh,CERF,CERF,Member State,0.0,5000.0,BD,
+2010,Belgium,CERF,CERF,Member State,0.0,8387538.32,BE,
+2010,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2010,Bilkent Holding AS,CERF,CERF,Private,0.0,10000.0,,
+2010,Brazil,CERF,CERF,Member State,0.0,200000.0,BR,
+2010,Canada,CERF,CERF,Member State,0.0,37328450.04,CA,
+2010,Central African Republic,CERF,CERF,Member State,0.0,197238.66,CF,
+2010,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2010,China,CERF,CERF,Member State,0.0,1500000.0,CN,
+2010,"Chung Te Buddhist Association of New York, Inc.",CERF,CERF,Private,0.0,41771.22,,
+2010,Colombia,CERF,CERF,Member State,0.0,30000.0,CO,
+2010,Costa Rica,CERF,CERF,Member State,0.0,9642.91,CR,
+2010,Croatia,CERF,CERF,Member State,0.0,25000.0,HR,
+2010,Cyprus,CERF,CERF,Member State,0.0,30000.0,CY,
+2010,Daystar Christian Centre,CERF,CERF,Private,0.0,20000.0,,
+2010,Denmark,CERF,CERF,Member State,0.0,11135477.69,DK,
+2010,Djibouti,CERF,CERF,Member State,0.0,4000.0,DJ,
+2010,ENDESA Peru,CERF,CERF,Private,0.0,12947.9,,
+2010,ENDESA Spain,CERF,CERF,Private,0.0,55192.79,,
+2010,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2010,Estonia,CERF,CERF,Member State,0.0,74057.0,EE,
+2010,Finland,CERF,CERF,Member State,0.0,8079000.0,FI,
+2010,France,CERF,CERF,Member State,0.0,657250.0,FR,
+2010,GMC Services,CERF,CERF,Private,0.0,20000.0,,
+2010,Georgia,CERF,CERF,Member State,0.0,2000.0,GE,
+2010,Germany,CERF,CERF,Member State,0.0,21735000.0,DE,
+2010,Greece,CERF,CERF,Member State,0.0,500000.0,GR,
+2010,HSBC Bank Middle East Limited,CERF,CERF,Private,0.0,16825.35,,
+2010,Holy See (Vatican City State),CERF,CERF,Observer,0.0,5000.0,,
+2010,Iceland,CERF,CERF,Member State,0.0,100000.0,IS,
+2010,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2010,Indonesia,CERF,CERF,Member State,0.0,150000.0,ID,
+2010,Ireland,CERF,CERF,Member State,0.0,5099972.0,IE,
+2010,Israel,CERF,CERF,Member State,0.0,20000.0,IL,
+2010,Italy,CERF,CERF,Member State,0.0,1502270.0,IT,
+2010,Japan,CERF,CERF,Member State,0.0,2000000.0,JP,
+2010,Jefferies and Company,CERF,CERF,Private Contributions through UNF,0.0,1000000.0,,
+2010,Kazakhstan,CERF,CERF,Member State,0.0,50000.0,KZ,
+2010,Korea,CERF,CERF,Member State,0.0,3000000.0,KR,
+2010,Korean and Overseas Fans of Kim Hyun Joong,CERF,CERF,Private,0.0,19293.0,,
+2010,Kuwait,CERF,CERF,Member State,0.0,34600.0,KW,
+2010,Latin American Benevolent Foundation,CERF,CERF,Private,0.0,25000.0,,
+2010,Latvia,CERF,CERF,Member State,0.0,20672.55,LV,
+2010,Lebanon,CERF,CERF,Member State,0.0,3000.0,LB,
+2010,Liechtenstein,CERF,CERF,Member State,0.0,235072.87,LI,
+2010,Luxembourg,CERF,CERF,Member State,0.0,5775000.0,LU,
+2010,Madagascar,CERF,CERF,Member State,0.0,2000.0,MG,
+2010,Mexico,CERF,CERF,Member State,0.0,150000.0,MX,
+2010,Moldova,CERF,CERF,Member State,0.0,10000.0,MD,
+2010,Monaco,CERF,CERF,Member State,0.0,134778.33,MC,
+2010,Montenegro,CERF,CERF,Member State,0.0,5000.0,ME,
+2010,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2010,Mozambique,CERF,CERF,Member State,0.0,4000.0,MZ,
+2010,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2010,Namibia,CERF,CERF,Member State,0.0,2000.0,NA,
+2010,Netherlands,CERF,CERF,Member State,0.0,54984000.0,NL,
+2010,New Zealand,CERF,CERF,Member State,0.0,1000000.0,NZ,
+2010,North Macedonia,CERF,CERF,Member State,0.0,5000.0,MK,
+2010,Norway,CERF,CERF,Member State,0.0,65483534.81,NO,
+2010,Pakistan,CERF,CERF,Member State,0.0,19170.67,PK,
+2010,Panama,CERF,CERF,Member State,0.0,5000.0,PA,
+2010,Philippines,CERF,CERF,Member State,0.0,10000.0,PH,
+2010,Poland,CERF,CERF,Member State,0.0,250000.0,PL,
+2010,Portugal,CERF,CERF,Member State,0.0,286000.0,PT,
+2010,PriceWaterhouseCoopers,CERF,CERF,Private Contributions through UNF,0.0,200000.0,,
+2010,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,89756.62,,
+2010,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,1172884.0,,
+2010,Romania,CERF,CERF,Member State,0.0,136900.0,RO,
+2010,Russian Federation,CERF,CERF,Member State,0.0,2000000.0,RU,
+2010,Saint Lucia,CERF,CERF,Member State,0.0,1000.0,LC,
+2010,San Marino,CERF,CERF,Member State,0.0,100000.0,SM,
+2010,Singapore,CERF,CERF,Member State,0.0,30000.0,SG,
+2010,Skanska USA Building Inc.,CERF,CERF,Private,0.0,50000.0,,
+2010,Slovenia,CERF,CERF,Member State,0.0,13617.0,SI,
+2010,South Africa,CERF,CERF,Member State,0.0,263540.0,ZA,
+2010,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2010,Spain,CERF,CERF,Member State,0.0,39585000.0,ES,
+2010,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2010,Sweden,CERF,CERF,Member State,0.0,64369547.93,SE,
+2010,Switzerland,CERF,CERF,Member State,0.0,4568942.57,CH,
+2010,Syria,CERF,CERF,Member State,0.0,5000.0,SY,
+2010,Tajikistan,CERF,CERF,Member State,0.0,2000.0,TJ,
+2010,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2010,Turkey,CERF,CERF,Member State,0.0,200000.0,TR,
+2010,UN Foundation core fund,CERF,CERF,Private Contributions through UNF,0.0,250000.0,,
+2010,UN Spouses Bazaar,CERF,CERF,Private,0.0,35113.43,,
+2010,Ukraine,CERF,CERF,Member State,0.0,503310.34,UA,
+2010,United Arab Emirates,CERF,CERF,Member State,0.0,50000.0,AE,
+2010,United Islamic Center,CERF,CERF,Private,0.0,20000.0,,
+2010,United Kingdom,CERF,CERF,Member State,0.0,60005700.0,GB,
+2010,United States of America,CERF,CERF,Member State,0.0,10000000.0,US,
+2010,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2010,Western Union,CERF,CERF,Private Contributions through UNF,0.0,150000.0,,
+2010,World Mission Society Church of God,CERF,CERF,Private,0.0,100000.0,,
+2011,Afghanistan,CERF,CERF,Member State,0.0,500.0,AF,
+2011,Albania,CERF,CERF,Member State,0.0,4000.0,AL,
+2011,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2011,Andorra,CERF,CERF,Member State,0.0,28128.0,AD,
+2011,Argentina,CERF,CERF,Member State,0.0,58394.0,AR,
+2011,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2011,Australia,CERF,CERF,Member State,0.0,13906200.0,AU,
+2011,Austria,CERF,CERF,Member State,0.0,289180.0,AT,
+2011,Azerbaijan,CERF,CERF,Member State,0.0,10000.0,AZ,
+2011,Bangladesh,CERF,CERF,Member State,0.0,10000.0,BD,
+2011,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,421080.0,,
+2011,Belgium,CERF,CERF,Member State,0.0,17716150.0,BE,
+2011,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2011,Brazil,CERF,CERF,Member State,0.0,500000.0,BR,
+2011,Brunei Darussalam,CERF,CERF,Member State,0.0,50000.0,BN,
+2011,Canada,CERF,CERF,Member State,0.0,41188191.22,CA,
+2011,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2011,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2011,Colombia,CERF,CERF,Member State,0.0,10000.0,CO,
+2011,Cyprus,CERF,CERF,Member State,0.0,27600.0,CY,
+2011,Czech Republic,CERF,CERF,Member State,0.0,434463.98,CZ,
+2011,Côte d'Ivoire,CERF,CERF,Member State,0.0,5000.0,,
+2011,Denmark,CERF,CERF,Member State,0.0,9182230.55,DK,
+2011,Ecuador,CERF,CERF,Member State,0.0,5000.0,EC,
+2011,Estonia,CERF,CERF,Member State,0.0,92302.0,EE,
+2011,Finland,CERF,CERF,Member State,0.0,9411350.0,FI,
+2011,France,CERF,CERF,Member State,0.0,720950.0,FR,
+2011,Germany,CERF,CERF,Member State,0.0,16370000.0,DE,
+2011,Greece,CERF,CERF,Member State,0.0,500000.0,GR,
+2011,Guyana,CERF,CERF,Member State,0.0,2190.71,GY,
+2011,Holy See (Vatican City State),CERF,CERF,Observer,0.0,5000.0,,
+2011,Hungary,CERF,CERF,Member State,0.0,60000.0,HU,
+2011,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2011,Indonesia,CERF,CERF,Member State,0.0,175000.0,ID,
+2011,Ireland,CERF,CERF,Member State,0.0,5466772.0,IE,
+2011,Israel,CERF,CERF,Member State,0.0,20000.0,IL,
+2011,Italy,CERF,CERF,Member State,0.0,1308100.0,IT,
+2011,Japan,CERF,CERF,Member State,0.0,3000000.0,JP,
+2011,Kazakhstan,CERF,CERF,Member State,0.0,49964.0,KZ,
+2011,Kimse Yok Mu Association,CERF,CERF,Private,0.0,10000.0,,
+2011,Korea,CERF,CERF,Member State,0.0,3000000.0,KR,
+2011,Kuwait,CERF,CERF,Member State,0.0,675000.0,KW,
+2011,Lao PDR,CERF,CERF,Member State,0.0,3000.0,LA,
+2011,Liechtenstein,CERF,CERF,Member State,0.0,281531.53,LI,
+2011,Luxembourg,CERF,CERF,Member State,0.0,5982905.98,LU,
+2011,Malaysia,CERF,CERF,Member State,0.0,100000.0,MY,
+2011,Maldives,CERF,CERF,Member State,0.0,1000.0,MV,
+2011,Mexico,CERF,CERF,Member State,0.0,300000.0,MX,
+2011,Moldova,CERF,CERF,Member State,0.0,1000.0,MD,
+2011,Monaco,CERF,CERF,Member State,0.0,140116.25,MC,
+2011,Montenegro,CERF,CERF,Member State,0.0,5000.0,ME,
+2011,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2011,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2011,Namibia,CERF,CERF,Member State,0.0,2000.0,NA,
+2011,Netherlands,CERF,CERF,Member State,0.0,54460000.0,NL,
+2011,New Zealand,CERF,CERF,Member State,0.0,1478974.5,NZ,
+2011,Nigeria,CERF,CERF,Member State,0.0,99851.64,NG,
+2011,Norway,CERF,CERF,Member State,0.0,67966752.09,NO,
+2011,Philippines,CERF,CERF,Member State,0.0,10000.0,PH,
+2011,Poland,CERF,CERF,Member State,0.0,326051.0,PL,
+2011,Portugal,CERF,CERF,Member State,0.0,267180.0,PT,
+2011,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,7850.48,,
+2011,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,145930.0,,
+2011,Qatar,CERF,CERF,Member State,0.0,4000000.0,QA,
+2011,Romania,CERF,CERF,Member State,0.0,70900.0,RO,
+2011,Russian Federation,CERF,CERF,Member State,0.0,2000000.0,RU,
+2011,Saint Lucia,CERF,CERF,Member State,0.0,500.0,LC,
+2011,San Marino,CERF,CERF,Member State,0.0,50000.0,SM,
+2011,Serbia,CERF,CERF,Member State,0.0,2000.0,RS,
+2011,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2011,Slovenia,CERF,CERF,Member State,0.0,70990.0,SI,
+2011,South Africa,CERF,CERF,Member State,0.0,272479.56,ZA,
+2011,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2011,Spain,CERF,CERF,Member State,0.0,20091000.0,ES,
+2011,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2011,Sweden,CERF,CERF,Member State,0.0,74483670.84,SE,
+2011,Switzerland,CERF,CERF,Member State,0.0,6071999.78,CH,
+2011,Turkey,CERF,CERF,Member State,0.0,250000.0,TR,
+2011,United Arab Emirates,CERF,CERF,Member State,0.0,50000.0,AE,
+2011,United Kingdom,CERF,CERF,Member State,0.0,94280000.0,GB,
+2011,United States of America,CERF,CERF,Member State,0.0,6000000.0,US,
+2011,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2011,Western Union,CERF,CERF,Private Contributions through UNF,0.0,100000.0,,
+2012,Afghanistan,CERF,CERF,Member State,0.0,1000.0,AF,
+2012,Albania,CERF,CERF,Member State,0.0,50000.0,AL,
+2012,Andorra,CERF,CERF,Member State,0.0,26316.0,AD,
+2012,Argentina,CERF,CERF,Member State,0.0,68000.0,AR,
+2012,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2012,Australia,CERF,CERF,Member State,0.0,16272000.0,AU,
+2012,Austria,CERF,CERF,Member State,0.0,262080.0,AT,
+2012,Baha'i International Community (National Spiritual Assembly),CERF,CERF,Private,0.0,20000.0,,
+2012,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,380940.0,,
+2012,Belgium,CERF,CERF,Member State,0.0,19633125.0,BE,
+2012,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2012,Brazil,CERF,CERF,Member State,0.0,750000.0,BR,
+2012,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2012,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2012,Colombia,CERF,CERF,Member State,0.0,100000.0,CO,
+2012,Czech Republic,CERF,CERF,Member State,0.0,124371.92,CZ,
+2012,Denmark,CERF,CERF,Member State,0.0,23008540.85,DK,
+2012,Djibouti,CERF,CERF,Member State,0.0,0.0,DJ,
+2012,Egypt,CERF,CERF,Member State,0.0,15000.0,EG,
+2012,Estonia,CERF,CERF,Member State,0.0,100185.0,EE,
+2012,Finland,CERF,CERF,Member State,0.0,8517600.0,FI,
+2012,France,CERF,CERF,Member State,0.0,392670.0,FR,
+2012,Germany,CERF,CERF,Member State,0.0,19402500.0,DE,
+2012,Ghana,CERF,CERF,Member State,0.0,15000.0,GH,
+2012,Guyana,CERF,CERF,Member State,0.0,2196.08,GY,
+2012,Iceland,CERF,CERF,Member State,0.0,50000.0,IS,
+2012,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2012,Indonesia,CERF,CERF,Member State,0.0,200000.0,ID,
+2012,Ireland,CERF,CERF,Member State,0.0,5160772.0,IE,
+2012,Israel,CERF,CERF,Member State,0.0,20000.0,IL,
+2012,Italy,CERF,CERF,Member State,0.0,645900.0,IT,
+2012,Japan,CERF,CERF,Member State,0.0,2700000.0,JP,
+2012,Kazakhstan,CERF,CERF,Member State,0.0,99945.0,KZ,
+2012,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2012,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2012,Liechtenstein,CERF,CERF,Member State,0.0,272747.11,LI,
+2012,Lithuania,CERF,CERF,Member State,0.0,10000.0,LT,
+2012,Luxembourg,CERF,CERF,Member State,0.0,5577689.24,LU,
+2012,Malaysia,CERF,CERF,Member State,0.0,50000.0,MY,
+2012,Mexico,CERF,CERF,Member State,0.0,300000.0,MX,
+2012,Moldova,CERF,CERF,Member State,0.0,2000.0,MD,
+2012,Monaco,CERF,CERF,Member State,0.0,64714.5,MC,
+2012,Montenegro,CERF,CERF,Member State,0.0,5000.0,ME,
+2012,Mozambique,CERF,CERF,Member State,0.0,2000.0,MZ,
+2012,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2012,Netherlands,CERF,CERF,Member State,0.0,52484000.0,NL,
+2012,New Zealand,CERF,CERF,Member State,0.0,1679374.5,NZ,
+2012,Norway,CERF,CERF,Member State,0.0,73945027.09,NO,
+2012,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2012,Peru,CERF,CERF,Member State,0.0,5000.0,PE,
+2012,Poland,CERF,CERF,Member State,0.0,264200.0,PL,
+2012,Portugal,CERF,CERF,Member State,0.0,253520.0,PT,
+2012,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,5000.0,,
+2012,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,36586.44,,
+2012,Qatar,CERF,CERF,Member State,0.0,3000000.0,QA,
+2012,Romania,CERF,CERF,Member State,0.0,92461.32,RO,
+2012,Russian Federation,CERF,CERF,Member State,0.0,2000000.0,RU,
+2012,San Marino,CERF,CERF,Member State,0.0,27291.42,SM,
+2012,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2012,South Africa,CERF,CERF,Member State,0.0,243457.09,ZA,
+2012,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2012,Spain,CERF,CERF,Member State,0.0,2608200.0,ES,
+2012,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2012,Sweden,CERF,CERF,Member State,0.0,72132872.65,SE,
+2012,Switzerland,CERF,CERF,Member State,0.0,5951684.41,CH,
+2012,Tajikistan,CERF,CERF,Member State,0.0,2000.0,TJ,
+2012,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2012,Turkey,CERF,CERF,Member State,0.0,200000.0,TR,
+2012,United Arab Emirates,CERF,CERF,Member State,0.0,50000.0,AE,
+2012,United Kingdom,CERF,CERF,Member State,0.0,95148000.0,GB,
+2012,United States of America,CERF,CERF,Member State,0.0,5000000.0,US,
+2012,Uruguay,CERF,CERF,Member State,0.0,5000.0,UY,
+2012,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2012,Western Union,CERF,CERF,Private Contributions through UNF,0.0,150000.0,,
+2013,Afghanistan,CERF,CERF,Member State,0.0,1000.0,AF,
+2013,Andorra,CERF,CERF,Member State,0.0,19645.5,AD,
+2013,Argentina,CERF,CERF,Member State,0.0,70000.0,AR,
+2013,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2013,Australia,CERF,CERF,Member State,0.0,18566600.0,AU,
+2013,Austria,CERF,CERF,Member State,0.0,271600.0,AT,
+2013,Azerbaijan,CERF,CERF,Member State,0.0,39820.0,AZ,
+2013,Baha'i International Community (National Spiritual Assembly),CERF,CERF,Private,0.0,10000.0,,
+2013,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,401430.0,,
+2013,Belgium,CERF,CERF,Member State,0.0,19053650.0,BE,
+2013,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2013,Brazil,CERF,CERF,Member State,0.0,1000000.0,BR,
+2013,Canada,CERF,CERF,Member State,0.0,28809407.15,CA,
+2013,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2013,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2013,Colombia,CERF,CERF,Member State,0.0,100000.0,CO,
+2013,Denmark,CERF,CERF,Member State,0.0,24065367.72,DK,
+2013,Djibouti,CERF,CERF,Member State,0.0,0.0,DJ,
+2013,Estonia,CERF,CERF,Member State,0.0,102864.0,EE,
+2013,Finland,CERF,CERF,Member State,0.0,9111900.0,FI,
+2013,France,CERF,CERF,Member State,0.0,393300.0,FR,
+2013,Germany,CERF,CERF,Member State,0.0,20313000.0,DE,
+2013,Greece,CERF,CERF,Member State,0.0,50000.0,GR,
+2013,Guyana,CERF,CERF,Member State,0.0,2184.47,GY,
+2013,Hungary,CERF,CERF,Member State,0.0,20098.0,HU,
+2013,Iceland,CERF,CERF,Member State,0.0,130000.0,IS,
+2013,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2013,Indonesia,CERF,CERF,Member State,0.0,200000.0,ID,
+2013,Ireland,CERF,CERF,Member State,0.0,13009444.0,IE,
+2013,Italy,CERF,CERF,Member State,0.0,653350.0,IT,
+2013,Japan,CERF,CERF,Member State,0.0,2987013.0,JP,
+2013,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2013,Kuwait,CERF,CERF,Member State,0.0,500000.0,KW,
+2013,Latvia,CERF,CERF,Member State,0.0,41027.13,LV,
+2013,Liechtenstein,CERF,CERF,Member State,0.0,272242.19,LI,
+2013,Luxembourg,CERF,CERF,Member State,0.0,5747126.44,LU,
+2013,Mexico,CERF,CERF,Member State,0.0,350000.0,MX,
+2013,Monaco,CERF,CERF,Member State,0.0,64990.0,MC,
+2013,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2013,Montenegro,CERF,CERF,Member State,0.0,3000.0,ME,
+2013,Morocco,CERF,CERF,Member State,0.0,5000.0,MA,
+2013,Mozambique,CERF,CERF,Member State,0.0,2000.0,MZ,
+2013,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2013,Netherlands,CERF,CERF,Member State,0.0,52124000.0,NL,
+2013,New Zealand,CERF,CERF,Member State,0.0,1670425.12,NZ,
+2013,Norway,CERF,CERF,Member State,0.0,68265452.93,NO,
+2013,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2013,Peru,CERF,CERF,Member State,0.0,25000.0,PE,
+2013,Poland,CERF,CERF,Member State,0.0,248162.0,PL,
+2013,Portugal,CERF,CERF,Member State,0.0,67655.0,PT,
+2013,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,881.25,,
+2013,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,15786.67,,
+2013,Qatar,CERF,CERF,Member State,0.0,3000000.0,QA,
+2013,Romania,CERF,CERF,Member State,0.0,34347.65,RO,
+2013,Russian Federation,CERF,CERF,Member State,0.0,1000000.0,RU,
+2013,Saudi Arabia,CERF,CERF,Member State,0.0,450000.0,SA,
+2013,Serbia,CERF,CERF,Member State,0.0,7000.0,RS,
+2013,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2013,Slovenia,CERF,CERF,Member State,0.0,68725.8,SI,
+2013,South Africa,CERF,CERF,Member State,0.0,274468.9,ZA,
+2013,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2013,Spain,CERF,CERF,Member State,0.0,6617500.0,ES,
+2013,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2013,Sweden,CERF,CERF,Member State,0.0,71687729.13,SE,
+2013,Switzerland,CERF,CERF,Member State,0.0,7549267.63,CH,
+2013,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2013,Turkey,CERF,CERF,Member State,0.0,250000.0,TR,
+2013,United Arab Emirates,CERF,CERF,Member State,0.0,70000.0,AE,
+2013,United Kingdom,CERF,CERF,Member State,0.0,111230500.0,GB,
+2013,United States of America,CERF,CERF,Member State,0.0,4000000.0,US,
+2013,Uruguay,CERF,CERF,Member State,0.0,5000.0,UY,
+2013,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2013,Western Union,CERF,CERF,Private Contributions through UNF,0.0,50000.0,,
+2014,Andorra,CERF,CERF,Member State,0.0,20537.85,AD,
+2014,Argentina,CERF,CERF,Member State,0.0,57683.8,AR,
+2014,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2014,Australia,CERF,CERF,Member State,0.0,14580884.0,AU,
+2014,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,410100.0,,
+2014,Belgium,CERF,CERF,Member State,0.0,17588690.0,BE,
+2014,Brazil,CERF,CERF,Member State,0.0,1200000.0,BR,
+2014,Canada,CERF,CERF,Member State,0.0,26719985.46,CA,
+2014,Chih-Kun Chan,CERF,CERF,Private Contributions through UNF,0.0,10000.0,,
+2014,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2014,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2014,Czech Republic,CERF,CERF,Member State,0.0,116212.91,CZ,
+2014,Denmark,CERF,CERF,Member State,0.0,25993457.950000003,DK,
+2014,Estonia,CERF,CERF,Member State,0.0,135580.0,EE,
+2014,Finland,CERF,CERF,Member State,0.0,9705500.0,FI,
+2014,Germany,CERF,CERF,Member State,0.0,29819224.0,DE,
+2014,Guyana,CERF,CERF,Member State,0.0,2179.18,GY,
+2014,Hungary,CERF,CERF,Member State,0.0,48046.57,HU,
+2014,Iceland,CERF,CERF,Member State,0.0,100000.0,IS,
+2014,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2014,Indonesia,CERF,CERF,Member State,0.0,200000.0,ID,
+2014,Ireland,CERF,CERF,Member State,0.0,12183300.0,IE,
+2014,Italy,CERF,CERF,Member State,0.0,1161383.85,IT,
+2014,Japan,CERF,CERF,Member State,0.0,1590814.0,JP,
+2014,Kazakhstan,CERF,CERF,Member State,0.0,10000.0,KZ,
+2014,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2014,Kuwait,CERF,CERF,Member State,0.0,500000.0,KW,
+2014,Lenovo Next Generation Hope Fund,CERF,CERF,Private Contributions through UNF,0.0,25000.0,,
+2014,Liechtenstein,CERF,CERF,Member State,0.0,278117.7,LI,
+2014,Luxembourg,CERF,CERF,Member State,0.0,5082592.12,LU,
+2014,Mali,CERF,CERF,Member State,0.0,100000.0,ML,
+2014,Mexico,CERF,CERF,Member State,0.0,500000.0,MX,
+2014,Monaco,CERF,CERF,Member State,0.0,67920.38,MC,
+2014,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2014,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2014,Netherlands,CERF,CERF,Member State,0.0,54956000.0,NL,
+2014,New Zealand,CERF,CERF,Member State,0.0,2563200.0,NZ,
+2014,Norway,CERF,CERF,Member State,0.0,66113108.55,NO,
+2014,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2014,Peru,CERF,CERF,Member State,0.0,4674.22,PE,
+2014,Poland,CERF,CERF,Member State,0.0,212850.0,PL,
+2014,Portugal,CERF,CERF,Member State,0.0,67655.0,PT,
+2014,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,300.0,,
+2014,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,119660.94,,
+2014,Romania,CERF,CERF,Member State,0.0,53000.0,RO,
+2014,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2014,San Marino,CERF,CERF,Member State,0.0,9969.6,SM,
+2014,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2014,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2014,South Africa,CERF,CERF,Member State,0.0,243641.0,ZA,
+2014,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2014,Spain,CERF,CERF,Member State,0.0,2490000.0,ES,
+2014,State of South Australia,CERF,CERF,Regional Local Authority,0.0,308144.18,,
+2014,Sweden,CERF,CERF,Member State,0.0,72656098.8,SE,
+2014,Switzerland,CERF,CERF,Member State,0.0,7860763.15,CH,
+2014,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2014,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2014,Turkey,CERF,CERF,Member State,0.0,449630.0,TR,
+2014,UN Spouses Bazaar,CERF,CERF,Private,0.0,59967.0,,
+2014,United Arab Emirates,CERF,CERF,Member State,0.0,100000.0,AE,
+2014,United Kingdom,CERF,CERF,Member State,0.0,113185500.0,GB,
+2014,United States of America,CERF,CERF,Member State,0.0,4000000.0,US,
+2014,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2015,Andorra,CERF,CERF,Member State,0.0,44139.33,AD,
+2015,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2015,Australia,CERF,CERF,Member State,0.0,9223031.43,AU,
+2015,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,345690.0,,
+2015,Belgium,CERF,CERF,Member State,0.0,10969000.0,BE,
+2015,Bonne L. Domroe,CERF,CERF,Private,0.0,40.0,,
+2015,CIGNA,CERF,CERF,Private,0.0,50000.0,,
+2015,Canada,CERF,CERF,Member State,0.0,24418604.65,CA,
+2015,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2015,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2015,Colombia,CERF,CERF,Member State,0.0,235000.0,CO,
+2015,Coloplast,CERF,CERF,Private,0.0,15000.0,,
+2015,Cyprus,CERF,CERF,Member State,0.0,13780.0,CY,
+2015,Côte d'Ivoire,CERF,CERF,Member State,0.0,10000.0,,
+2015,Denmark,CERF,CERF,Member State,0.0,14556040.76,DK,
+2015,Djibouti,CERF,CERF,Member State,0.0,0.0,DJ,
+2015,Estonia,CERF,CERF,Member State,0.0,125100.0,EE,
+2015,Finland,CERF,CERF,Member State,0.0,7770000.0,FI,
+2015,Germany,CERF,CERF,Member State,0.0,43255180.730000004,DE,
+2015,Guyana,CERF,CERF,Member State,0.0,2179.18,GY,
+2015,Iceland,CERF,CERF,Member State,0.0,100000.0,IS,
+2015,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2015,Indonesia,CERF,CERF,Member State,0.0,200000.0,ID,
+2015,International Maritime Orgnization (IMO),CERF,CERF,Regional Local Authority,0.0,17692.49,,
+2015,Ireland,CERF,CERF,Member State,0.0,12212000.0,IE,
+2015,Italy,CERF,CERF,Member State,0.0,1104500.0,IT,
+2015,Japan,CERF,CERF,Member State,0.0,1402809.0,JP,
+2015,KK Wind Solutions,CERF,CERF,Private,0.0,1506.32,,
+2015,Korea,CERF,CERF,Member State,0.0,4500000.0,KR,
+2015,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2015,Liechtenstein,CERF,CERF,Member State,0.0,271768.67,LI,
+2015,Lithuania,CERF,CERF,Member State,0.0,21655.46,LT,
+2015,Luxembourg,CERF,CERF,Member State,0.0,4277200.0,LU,
+2015,Malaysia,CERF,CERF,Member State,0.0,50000.0,MY,
+2015,Mexico,CERF,CERF,Member State,0.0,250000.0,MX,
+2015,Monaco,CERF,CERF,Member State,0.0,52303.5,MC,
+2015,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2015,Netherlands,CERF,CERF,Member State,0.0,59169000.0,NL,
+2015,New Zealand,CERF,CERF,Member State,0.0,2337600.0,NZ,
+2015,Nigerian Economic Summit Group LTD,CERF,CERF,Private,0.0,1000.0,,
+2015,Norway,CERF,CERF,Member State,0.0,48983512.05,NO,
+2015,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2015,Peru,CERF,CERF,Member State,0.0,4166.66,PE,
+2015,Philippines,CERF,CERF,Member State,0.0,10000.0,PH,
+2015,Poland,CERF,CERF,Member State,0.0,204823.0,PL,
+2015,Portugal,CERF,CERF,Member State,0.0,59034.05,PT,
+2015,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,99755.58,,
+2015,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2015,San Marino,CERF,CERF,Member State,0.0,2266.0,SM,
+2015,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2015,Serbia,CERF,CERF,Member State,0.0,5000.0,RS,
+2015,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2015,South Africa,CERF,CERF,Member State,0.0,172562.55,ZA,
+2015,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2015,Spain,CERF,CERF,Member State,0.0,2185792.35,ES,
+2015,Stephanie Loose,CERF,CERF,Private,0.0,500.9,,
+2015,Sweden,CERF,CERF,Member State,0.0,52331717.07,SE,
+2015,Switzerland,CERF,CERF,Member State,0.0,10354726.73,CH,
+2015,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2015,Trinidad and Tobago,CERF,CERF,Member State,0.0,20000.0,TT,
+2015,Turkey,CERF,CERF,Member State,0.0,450000.0,TR,
+2015,United Arab Emirates,CERF,CERF,Member State,0.0,1000000.0,AE,
+2015,United Kingdom,CERF,CERF,Member State,0.0,83200500.0,GB,
+2015,United States of America,CERF,CERF,Member State,0.0,3000000.0,US,
+2015,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2015,"ZIV Aplicaciones y Tecnología, S.L. ",CERF,CERF,Private,0.0,2438.35,,
+2016,Albania,CERF,CERF,Member State,0.0,0.0,AL,
+2016,Andorra,CERF,CERF,Member State,0.0,16633.5,AD,
+2016,Argentina,CERF,CERF,Member State,0.0,60000.0,AR,
+2016,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2016,Australia,CERF,CERF,Member State,0.0,7575664.8,AU,
+2016,Bangladesh,CERF,CERF,Member State,0.0,5000.0,BD,
+2016,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,648960.0,,
+2016,Belgium,CERF,CERF,Member State,0.0,11312000.0,BE,
+2016,Canada,CERF,CERF,Member State,0.0,22624086.19,CA,
+2016,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2016,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2016,Cyprus,CERF,CERF,Member State,0.0,13910.0,CY,
+2016,Denmark,CERF,CERF,Member State,0.0,15328254.57,DK,
+2016,Djibouti,CERF,CERF,Member State,0.0,0.0,DJ,
+2016,Estonia,CERF,CERF,Member State,0.0,109780.0,EE,
+2016,Finland,CERF,CERF,Member State,0.0,7716100.0,FI,
+2016,Germany,CERF,CERF,Member State,0.0,55895000.0,DE,
+2016,Guyana,CERF,CERF,Member State,0.0,2179.18,GY,
+2016,Iceland,CERF,CERF,Member State,0.0,300000.0,IS,
+2016,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2016,Indonesia,CERF,CERF,Member State,0.0,200000.0,ID,
+2016,Iraq,CERF,CERF,Member State,0.0,5000.0,IQ,
+2016,Ireland,CERF,CERF,Member State,0.0,13783925.0,IE,
+2016,Italy,CERF,CERF,Member State,0.0,2239600.0,IT,
+2016,Japan,CERF,CERF,Member State,0.0,1285908.0,JP,
+2016,Kazakhstan,CERF,CERF,Member State,0.0,10000.0,KZ,
+2016,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2016,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2016,Liechtenstein,CERF,CERF,Member State,0.0,204729.25,LI,
+2016,Luxembourg,CERF,CERF,Member State,0.0,4762350.0,LU,
+2016,Monaco,CERF,CERF,Member State,0.0,57015.05,MC,
+2016,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2016,Montenegro,CERF,CERF,Member State,0.0,2000.0,ME,
+2016,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2016,Netherlands,CERF,CERF,Member State,0.0,60522000.0,NL,
+2016,New Zealand,CERF,CERF,Member State,0.0,2026200.0,NZ,
+2016,Norway,CERF,CERF,Member State,0.0,44493615.85,NO,
+2016,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2016,Peru,CERF,CERF,Member State,0.0,3972.91,PE,
+2016,Philippines,CERF,CERF,Member State,0.0,5000.0,PH,
+2016,Portugal,CERF,CERF,Member State,0.0,54650.0,PT,
+2016,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,19631.9,,
+2016,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2016,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2016,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2016,South Africa,CERF,CERF,Member State,0.0,428878.0,ZA,
+2016,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,5000.0,,
+2016,Spain,CERF,CERF,Member State,0.0,2245000.0,ES,
+2016,Sweden,CERF,CERF,Member State,0.0,82078120.59,SE,
+2016,Switzerland,CERF,CERF,Member State,0.0,8175020.71,CH,
+2016,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2016,Turkey,CERF,CERF,Member State,0.0,450000.0,TR,
+2016,United Arab Emirates,CERF,CERF,Member State,0.0,1000000.0,AE,
+2016,United Kingdom,CERF,CERF,Member State,0.0,69901837.5,GB,
+2016,United States of America,CERF,CERF,Member State,0.0,3000000.0,US,
+2016,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2017,Al Jisr Foundation,CERF,CERF,Private,0.0,250000.0,,
+2017,Andorra,CERF,CERF,Member State,0.0,23866.52,AD,
+2017,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2017,Australia,CERF,CERF,Member State,0.0,8226873.82,AU,
+2017,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,625860.0,,
+2017,Belgium,CERF,CERF,Member State,0.0,13963750.0,BE,
+2017,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2017,Bulgaria,CERF,CERF,Member State,0.0,20000.0,BG,
+2017,Canada,CERF,CERF,Member State,0.0,21844119.18,CA,
+2017,Chile,CERF,CERF,Member State,0.0,40000.0,CL,
+2017,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2017,Colombia,CERF,CERF,Member State,0.0,112500.0,CO,
+2017,Cyprus,CERF,CERF,Member State,0.0,11662.0,CY,
+2017,Czech Republic,CERF,CERF,Member State,0.0,38170.85,CZ,
+2017,Côte d'Ivoire,CERF,CERF,Member State,0.0,10000.0,,
+2017,Denmark,CERF,CERF,Member State,0.0,14233862.36,DK,
+2017,Estonia,CERF,CERF,Member State,0.0,106220.0,EE,
+2017,Finland,CERF,CERF,Member State,0.0,7511000.0,FI,
+2017,Germany,CERF,CERF,Member State,0.0,82786000.0,DE,
+2017,Iceland,CERF,CERF,Member State,0.0,765714.33,IS,
+2017,India,CERF,CERF,Member State,0.0,500000.0,IN,
+2017,Indonesia,CERF,CERF,Member State,0.0,220000.0,ID,
+2017,Ireland,CERF,CERF,Member State,0.0,23900000.0,IE,
+2017,Italy,CERF,CERF,Member State,0.0,2470400.0,IT,
+2017,Japan,CERF,CERF,Member State,0.0,1402809.0,JP,
+2017,Kazakhstan,CERF,CERF,Member State,0.0,50000.0,KZ,
+2017,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2017,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2017,Liechtenstein,CERF,CERF,Member State,0.0,200541.46,LI,
+2017,Lithuania,CERF,CERF,Member State,0.0,21734.0,LT,
+2017,Luxembourg,CERF,CERF,Member State,0.0,4872780.0,LU,
+2017,Monaco,CERF,CERF,Member State,0.0,52428.45,MC,
+2017,Mongolia,CERF,CERF,Member State,0.0,0.0,MN,
+2017,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2017,Netherlands,CERF,CERF,Member State,0.0,71266300.0,NL,
+2017,New Zealand,CERF,CERF,Member State,0.0,2176800.0,NZ,
+2017,Norway,CERF,CERF,Member State,0.0,53066570.04,NO,
+2017,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2017,Peru,CERF,CERF,Member State,0.0,4006.07,PE,
+2017,Philippines,CERF,CERF,Member State,0.0,50000.0,PH,
+2017,Portugal,CERF,CERF,Member State,0.0,104110.0,PT,
+2017,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,6854.53,,
+2017,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,51088.200000000004,,
+2017,Qatar,CERF,CERF,Member State,0.0,1000000.0,QA,
+2017,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2017,San Marino,CERF,CERF,Member State,0.0,2487.0,SM,
+2017,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2017,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2017,Slovakia,CERF,CERF,Member State,0.0,60155.0,SK,
+2017,South Africa,CERF,CERF,Member State,0.0,487257.0,ZA,
+2017,Sovereign Military Order of Malta,CERF,CERF,Observer,0.0,1000.0,,
+2017,Spain,CERF,CERF,Member State,0.0,3475600.0,ES,
+2017,Sri Lanka,CERF,CERF,Member State,0.0,5000.0,LK,
+2017,Sweden,CERF,CERF,Member State,0.0,75978438.04,SE,
+2017,Switzerland,CERF,CERF,Member State,0.0,6041234.58,CH,
+2017,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2017,Turkey,CERF,CERF,Member State,0.0,450000.0,TR,
+2017,United Arab Emirates,CERF,CERF,Member State,0.0,1250000.0,AE,
+2017,United Kingdom,CERF,CERF,Member State,0.0,102619750.0,GB,
+2017,United States of America,CERF,CERF,Member State,0.0,5000000.0,US,
+2017,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2017,Waterloo Foundation,CERF,CERF,Private,0.0,13192.61,,
+2018,Al Jisr Foundation,CERF,CERF,Private,0.0,250000.0,,
+2018,Algeria,CERF,CERF,Member State,0.0,10000.0,DZ,
+2018,Andorra,CERF,CERF,Member State,0.0,17735.1,AD,
+2018,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2018,Australia,CERF,CERF,Member State,0.0,8643721.52,AU,
+2018,Azerbaijan,CERF,CERF,Member State,0.0,20000.0,AZ,
+2018,Bangladesh,CERF,CERF,Member State,0.0,10000.0,BD,
+2018,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,707040.0,,
+2018,Belgium,CERF,CERF,Member State,0.0,14717500.0,BE,
+2018,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2018,Bulgaria,CERF,CERF,Member State,0.0,20000.0,BG,
+2018,Canada,CERF,CERF,Member State,0.0,22762465.16,CA,
+2018,Catalan Agency for Development Cooperation,CERF,CERF,Regional Local Authority,0.0,282800.0,,
+2018,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2018,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2018,Czech Republic,CERF,CERF,Member State,0.0,175173.69,CZ,
+2018,Côte d'Ivoire,CERF,CERF,Member State,0.0,10000.0,,
+2018,Denmark,CERF,CERF,Member State,0.0,21452655.07,DK,
+2018,Estonia,CERF,CERF,Member State,0.0,117840.0,EE,
+2018,Finland,CERF,CERF,Member State,0.0,8626800.0,FI,
+2018,Germany,CERF,CERF,Member State,0.0,109560500.0,DE,
+2018,Guyana,CERF,CERF,Member State,0.0,2179.18,GY,
+2018,Iceland,CERF,CERF,Member State,0.0,495785.82,IS,
+2018,Indonesia,CERF,CERF,Member State,0.0,220000.0,ID,
+2018,Iraq,CERF,CERF,Member State,0.0,10000.0,IQ,
+2018,Ireland,CERF,CERF,Member State,0.0,14064800.0,IE,
+2018,Italy,CERF,CERF,Member State,0.0,2949000.0,IT,
+2018,Japan,CERF,CERF,Member State,0.0,1360714.0,JP,
+2018,Kazakhstan,CERF,CERF,Member State,0.0,50000.0,KZ,
+2018,Korea,CERF,CERF,Member State,0.0,4000000.0,KR,
+2018,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2018,Liechtenstein,CERF,CERF,Member State,0.0,213538.33,LI,
+2018,Lithuania,CERF,CERF,Member State,0.0,22900.0,LT,
+2018,Luxembourg,CERF,CERF,Member State,0.0,5874592.5,LU,
+2018,Monaco,CERF,CERF,Member State,0.0,123080.0,MC,
+2018,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2018,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2018,Netherlands,CERF,CERF,Member State,0.0,65472000.0,NL,
+2018,New Zealand,CERF,CERF,Member State,0.0,2194500.0,NZ,
+2018,Norway,CERF,CERF,Member State,0.0,55283544.3,NO,
+2018,Philippines,CERF,CERF,Member State,0.0,50000.0,PH,
+2018,Portugal,CERF,CERF,Member State,0.0,118250.0,PT,
+2018,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,41523.89,,
+2018,Qatar,CERF,CERF,Member State,0.0,1000000.0,QA,
+2018,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2018,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2018,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2018,Slovakia,CERF,CERF,Member State,0.0,34365.0,SK,
+2018,Spain,CERF,CERF,Member State,0.0,3466100.0,ES,
+2018,Sri Lanka,CERF,CERF,Member State,0.0,5000.0,LK,
+2018,Sweden,CERF,CERF,Member State,0.0,85127752.87,SE,
+2018,Switzerland,CERF,CERF,Member State,0.0,6164144.140000001,CH,
+2018,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2018,Turkey,CERF,CERF,Member State,0.0,400000.0,TR,
+2018,United Arab Emirates,CERF,CERF,Member State,0.0,1500000.0,AE,
+2018,United Kingdom,CERF,CERF,Member State,0.0,114323552.5,GB,
+2018,United States of America,CERF,CERF,Member State,0.0,0.0,US,
+2018,World Mission Society Church of God,CERF,CERF,Private,0.0,100000.0,,
+2019,Al Jisr Foundation,CERF,CERF,Private,0.0,0.0,,
+2019,Andorra,CERF,CERF,Member State,0.0,16942.95,AD,
+2019,Armenia,CERF,CERF,Member State,0.0,5000.0,AM,
+2019,Australia,CERF,CERF,Member State,0.0,7841875.05,AU,
+2019,Azerbaijan,CERF,CERF,Member State,0.0,20000.0,AZ,
+2019,Bangladesh,CERF,CERF,Member State,0.0,20000.0,BD,
+2019,Basque Agency for Development Cooperation,CERF,CERF,Regional Local Authority,0.0,109554.11,,
+2019,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,684180.0,,
+2019,Belgium,CERF,CERF,Member State,0.0,19259300.0,BE,
+2019,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2019,Canada,CERF,CERF,Member State,0.0,21652466.13,CA,
+2019,Catalan Agency for Development Cooperation,CERF,CERF,Regional Local Authority,0.0,324307.0,,
+2019,Chile,CERF,CERF,Member State,0.0,30000.0,CL,
+2019,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2019,Cmax Foundation,CERF,CERF,Private,0.0,0.0,,
+2019,Colombia,CERF,CERF,Member State,0.0,90000.0,CO,
+2019,Czech Republic,CERF,CERF,Member State,0.0,221150.87,CZ,
+2019,Denmark,CERF,CERF,Member State,0.0,25432996.6,DK,
+2019,Estonia,CERF,CERF,Member State,0.0,113380.0,EE,
+2019,Finland,CERF,CERF,Member State,0.0,9038400.0,FI,
+2019,Germany,CERF,CERF,Member State,0.0,105421500.0,DE,
+2019,Guyana,CERF,CERF,Member State,0.0,2158.27,GY,
+2019,Iceland,CERF,CERF,Member State,0.0,410576.45,IS,
+2019,Indonesia,CERF,CERF,Member State,0.0,220000.0,ID,
+2019,Iran,CERF,CERF,Member State,0.0,23873.19,IR,
+2019,Ireland,CERF,CERF,Member State,0.0,11279200.0,IE,
+2019,Italy,CERF,CERF,Member State,0.0,3962000.0,IT,
+2019,Japan,CERF,CERF,Member State,0.0,680357.0,JP,
+2019,Kazakhstan,CERF,CERF,Member State,0.0,10000.0,KZ,
+2019,Korea,CERF,CERF,Member State,0.0,5000000.0,KR,
+2019,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2019,Late Barbara Cahill,CERF,CERF,Private,0.0,118234.85,,
+2019,Liechtenstein,CERF,CERF,Member State,0.0,198866.46,LI,
+2019,Luxembourg,CERF,CERF,Member State,0.0,5561500.0,LU,
+2019,Mali,CERF,CERF,Member State,0.0,0.0,ML,
+2019,Moldova,CERF,CERF,Member State,0.0,3000.0,MD,
+2019,Monaco,CERF,CERF,Member State,0.0,113390.0,MC,
+2019,Mongolia,CERF,CERF,Member State,0.0,10000.0,MN,
+2019,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2019,Netherlands,CERF,CERF,Member State,0.0,61055500.0,NL,
+2019,New Zealand,CERF,CERF,Member State,0.0,2014500.0,NZ,
+2019,Norway,CERF,CERF,Member State,0.0,53070237.370000005,NO,
+2019,Oman,CERF,CERF,Member State,0.0,50000.0,OM,
+2019,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2019,Peru,CERF,CERF,Member State,0.0,2942.62,PE,
+2019,Philippines,CERF,CERF,Member State,0.0,2500.0,PH,
+2019,Portugal,CERF,CERF,Member State,0.0,170220.0,PT,
+2019,"Private donations outside UN Foundation (under $10,000)",CERF,CERF,Private,0.0,237.0,,
+2019,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,338393.47000000003,,
+2019,Qatar,CERF,CERF,Member State,0.0,1000000.0,QA,
+2019,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2019,Saudi Arabia,CERF,CERF,Member State,0.0,150000.0,SA,
+2019,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
+2019,Spain,CERF,CERF,Member State,0.0,3318584.07,ES,
+2019,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2019,Sweden,CERF,CERF,Member State,0.0,82302165.14999999,SE,
+2019,Switzerland,CERF,CERF,Member State,0.0,6945243.760000001,CH,
+2019,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2019,Tunisia,CERF,CERF,Member State,0.0,5000.0,TN,
+2019,Turkey,CERF,CERF,Member State,0.0,400000.0,TR,
+2019,United Arab Emirates,CERF,CERF,Member State,0.0,5000000.0,AE,
+2019,United Kingdom,CERF,CERF,Member State,0.0,394568100.0,GB,
+2019,Vietnam,CERF,CERF,Member State,0.0,10000.0,VN,
+2020,Al Jisr Foundation,CERF,CERF,Private,0.0,0.0,,
+2020,Andorra,CERF,CERF,Member State,0.0,16806.72,AD,
+2020,Australia,CERF,CERF,Member State,0.0,7518476.08,AU,
+2020,Baha'i International Community (National Spiritual Assembly),CERF,CERF,Private,0.0,10000.0,,
+2020,Bangladesh,CERF,CERF,Member State,8000.0,12000.0,BD,
+2020,Basque Agency for Development Cooperation,CERF,CERF,Regional Local Authority,0.0,220735.0,,
+2020,Belgian Government of Flanders,CERF,CERF,Regional Local Authority,0.0,1344480.0,,
+2020,Belgium,CERF,CERF,Member State,0.0,24980400.0,BE,
+2020,Bhutan,CERF,CERF,Member State,0.0,1500.0,BT,
+2020,Cambodia,CERF,CERF,Member State,0.0,20000.0,KH,
+2020,Canada,CERF,CERF,Member State,0.0,21904336.16,CA,
+2020,Catalan Agency for Development Cooperation,CERF,CERF,Regional Local Authority,0.0,324859.98,,
+2020,China,CERF,CERF,Member State,0.0,500000.0,CN,
+2020,Cyprus,CERF,CERF,Member State,16501.6501,0.0,CY,
+2020,Denmark,CERF,CERF,Member State,0.0,25544319.39,DK,
+2020,Estonia,CERF,CERF,Member State,0.0,110720.0,EE,
+2020,Finland,CERF,CERF,Member State,0.0,8775200.0,FI,
+2020,France,CERF,CERF,Member State,0.0,1137656.43,FR,
+2020,Germany,CERF,CERF,Member State,0.0,113033000.0,DE,
+2020,Iceland,CERF,CERF,Member State,0.0,409098.35,IS,
+2020,Indonesia,CERF,CERF,Member State,220000.0,0.0,ID,
+2020,Iran,CERF,CERF,Member State,0.0,10000.0,IR,
+2020,Ireland,CERF,CERF,Member State,0.0,10680978.0,IE,
+2020,Italy,CERF,CERF,Member State,5500550.055,0.0,IT,
+2020,Japan,CERF,CERF,Member State,0.0,263636.0,JP,
+2020,Korea,CERF,CERF,Member State,0.0,5823817.29,KR,
+2020,Kuwait,CERF,CERF,Member State,0.0,1000000.0,KW,
+2020,Liechtenstein,CERF,CERF,Member State,0.0,207792.21,LI,
+2020,Luxembourg,CERF,CERF,Member State,0.0,5400000.0,LU,
+2020,Monaco,CERF,CERF,Member State,0.0,111890.0,MC,
+2020,Mongolia,CERF,CERF,Member State,0.0,0.0,MN,
+2020,Montenegro,CERF,CERF,Member State,0.0,3324.9,ME,
+2020,Myanmar,CERF,CERF,Member State,0.0,10000.0,MM,
+2020,Netherlands,CERF,CERF,Member State,0.0,85980013.75,NL,
+2020,New Zealand,CERF,CERF,Member State,0.0,6305750.0,NZ,
+2020,Norway,CERF,CERF,Member State,0.0,45835996.2,NO,
+2020,Pakistan,CERF,CERF,Member State,0.0,10000.0,PK,
+2020,Peru,CERF,CERF,Member State,0.0,2935.67,PE,
+2020,Philippines,CERF,CERF,Member State,0.0,50000.0,PH,
+2020,Poland,CERF,CERF,Member State,0.0,239693.19,PL,
+2020,Portugal,CERF,CERF,Member State,0.0,193462.5,PT,
+2020,"Private donations through UN Foundation (under $10,000)",CERF,CERF,Private Contributions through UNF,0.0,37259.07,,
+2020,Qatar,CERF,CERF,Member State,0.0,1000000.0,QA,
+2020,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
+2020,Saudi Arabia,CERF,CERF,Member State,0.0,0.0,SA,
+2020,Singapore,CERF,CERF,Member State,0.0,0.0,SG,
+2020,South Africa,CERF,CERF,Member State,0.0,85304.82,ZA,
+2020,Spain,CERF,CERF,Member State,0.0,0.0,ES,
+2020,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
+2020,Sweden,CERF,CERF,Member State,0.0,76301194.16,SE,
+2020,Switzerland,CERF,CERF,Member State,0.0,24235703.939999998,CH,
+2020,Thailand,CERF,CERF,Member State,0.0,20000.0,TH,
+2020,Turkey,CERF,CERF,Member State,0.0,0.0,TR,
+2020,Turkmenistan,CERF,CERF,Member State,0.0,100000.0,TM,
+2020,United Arab Emirates,CERF,CERF,Member State,0.0,5000000.0,AE,
+2020,United Kingdom,CERF,CERF,Member State,0.0,12982000.0,GB,
+2021,Australia,CERF,CERF,Member State,7304116.8658,0.0,AU,
+2021,Denmark,CERF,CERF,Member State,25170269.4699,0.0,DK,
+2021,Iceland,CERF,CERF,Member State,394913.5139,0.0,IS,
+2021,Ireland,CERF,CERF,Member State,11415525.1141,0.0,IE,
+2021,Netherlands,CERF,CERF,Member State,62500000.0,0.0,NL,
+2021,New Zealand,CERF,CERF,Member State,2039428.9598,0.0,NZ,
+2021,Norway,CERF,CERF,Member State,50347638.456,0.0,NO,
+2021,Portugal,CERF,CERF,Member State,0.0,148150.0,PT,
+2021,Qatar,CERF,CERF,Member State,1000000.0,0.0,QA,
+2021,Sweden,CERF,CERF,Member State,69061737.0073,0.0,SE,
+2021,United Kingdom,CERF,CERF,Member State,80075662.0427,0.0,GB,
+2022,Denmark,CERF,CERF,Member State,25170269.4699,0.0,DK,
+2022,Iceland,CERF,CERF,Member State,394913.5139,0.0,IS,
+2022,United Kingdom,CERF,CERF,Member State,113808322.8246,0.0,GB,
+2023,Iceland,CERF,CERF,Member State,394913.5139,0.0,IS,
+2023,United Kingdom,CERF,CERF,Member State,113808322.8246,0.0,GB,
