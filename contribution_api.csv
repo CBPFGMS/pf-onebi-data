@@ -1292,7 +1292,7 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,Germany,CBPF,Myanmar,Member State,0.0,1671934.58,DE,MM
 2020,Germany,CBPF,Nigeria,Member State,2941176.47,9393195.629999999,DE,NG
 2020,Germany,CBPF,Pakistan,Member State,0.0,3459465.3600000003,DE,PK
-2020,Germany,CBPF,Somalia,Member State,5344418.05,8469117.5,DE,SO
+2020,Germany,CBPF,Somalia,Member State,0.0,13800812.0,DE,SO
 2020,Germany,CBPF,South Sudan,Member State,5938242.28,8212762.51,DE,SS
 2020,Germany,CBPF,Sudan,Member State,1187648.46,6008526.5,DE,SD
 2020,Germany,CBPF,Syria,Member State,1176470.59,1655629.14,DE,SY
@@ -1411,10 +1411,10 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,Switzerland,CBPF,oPt,Member State,0.0,2068252.32,CH,PS
 2020,UN and Other Agencies,CBPF,Myanmar,Member State,0.0,1000000.0,,MM
 2020,UNF,CBPF,Afghanistan,Member State,3090.75,0.0,,AF
-2020,UNF,CBPF,CAR,Member State,3332.55,0.0,,CF
-2020,UNF,CBPF,DRC,Member State,20813.5,0.0,,CD
-2020,UNF,CBPF,Somalia,Member State,23134.81,0.0,,SO
-2020,UNF,CBPF,South Sudan,Member State,17899.05,0.0,,SS
+2020,UNF,CBPF,CAR,Member State,0.0,3332.55,,CF
+2020,UNF,CBPF,DRC,Member State,0.0,20813.5,,CD
+2020,UNF,CBPF,Somalia,Member State,0.0,23134.81,,SO
+2020,UNF,CBPF,South Sudan,Member State,0.0,17899.05,,SS
 2020,UNF,CBPF,Sudan,Member State,2913.3,0.0,,SD
 2020,UNF,CBPF,Yemen,Member State,0.0,500.0,,YE
 2020,United Kingdom,CBPF,Afghanistan,Member State,12360939.43,16130400.0,GB,AF
