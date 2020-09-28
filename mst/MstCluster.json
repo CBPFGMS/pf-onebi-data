@@ -1,31 +1,29 @@
-{
-  "value":[
+[
     {
-      "ClustId":1,"ClustNm":"Camp Coordination / Management","ClustCode":"CCM"
+      "id":1,"ClustNm":"Camp Coordination / Management","ClustCode":"CCM"
     },{
-      "ClustId":2,"ClustNm":"Early Recovery","ClustCode":"ER"
+      "id":2,"ClustNm":"Early Recovery","ClustCode":"ER"
     },{
-      "ClustId":3,"ClustNm":"Education","ClustCode":"E"
+      "id":3,"ClustNm":"Education","ClustCode":"E"
     },{
-      "ClustId":4,"ClustNm":"Emergency Shelter and NFI","ClustCode":"NFI"
+      "id":4,"ClustNm":"Emergency Shelter and NFI","ClustCode":"NFI"
     },{
-      "ClustId":5,"ClustNm":"Emergency Telecommunications","ClustCode":"ET"
+      "id":5,"ClustNm":"Emergency Telecommunications","ClustCode":"ET"
     },{
-      "ClustId":6,"ClustNm":"Food Security","ClustCode":"FS"
+      "id":6,"ClustNm":"Food Security","ClustCode":"FS"
     },{
-      "ClustId":7,"ClustNm":"Health","ClustCode":"H"
+      "id":7,"ClustNm":"Health","ClustCode":"H"
     },{
-      "ClustId":8,"ClustNm":"Logistics","ClustCode":"L"
+      "id":8,"ClustNm":"Logistics","ClustCode":"L"
     },{
-      "ClustId":9,"ClustNm":"Nutrition","ClustCode":"N"
+      "id":9,"ClustNm":"Nutrition","ClustCode":"N"
     },{
-      "ClustId":10,"ClustNm":"Protection","ClustCode":"P"
+      "id":10,"ClustNm":"Protection","ClustCode":"P"
     },{
-      "ClustId":11,"ClustNm":"Water Sanitation Hygiene","ClustCode":"WASH"
+      "id":11,"ClustNm":"Water Sanitation Hygiene","ClustCode":"WASH"
     },{
-      "ClustId":12,"ClustNm":"Coordination and Support Services","ClustCode":"CSS"
+      "id":12,"ClustNm":"Coordination and Support Services","ClustCode":"CSS"
     },{
-      "ClustId":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
+      "id":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
     }
-  ]
-}
+]
