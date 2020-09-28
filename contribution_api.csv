@@ -1282,7 +1282,7 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,European Commission,CBPF,South Sudan,Member State,0.0,3301500.0,,SS
 2020,European Commission,CBPF,Ukraine,Member State,0.0,1118900.0,,UA
 2020,France,CBPF,Syria Cross border,Member State,0.0,10147829.94,FR,XX
-2020,Germany,CBPF,Afghanistan,Member State,1187648.46,3852722.0,DE,AF
+2020,Germany,CBPF,Afghanistan,Member State,0.0,5038556.0,DE,AF
 2020,Germany,CBPF,CAR,Member State,3562945.37,6051024.5,DE,CF
 2020,Germany,CBPF,DRC,Member State,0.0,7131281.5,DE,CD
 2020,Germany,CBPF,Ethiopia,Member State,2239641.66,11185734.68,DE,ET
@@ -1300,7 +1300,7 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,Germany,CBPF,Ukraine,Member State,0.0,4499201.71,DE,UA
 2020,Germany,CBPF,Yemen,Member State,0.0,26658767.77,DE,YE
 2020,Germany,CBPF,oPt,Member State,0.0,13822511.1,DE,PS
-2020,Iceland,CBPF,Lebanon,Member State,148389.97,202183.58,IS,LB
+2020,Iceland,CBPF,Lebanon,Member State,0.0,349361.43999999994,IS,LB
 2020,Iceland,CBPF,Syria,Member State,0.0,202183.58,IS,SY
 2020,Iceland,CBPF,oPt,Member State,0.0,169998.64,IS,PS
 2020,Ireland,CBPF,Afghanistan,Member State,0.0,531776.0,IE,AF
@@ -1410,24 +1410,25 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,Switzerland,CBPF,Yemen,Member State,0.0,2585315.41,CH,YE
 2020,Switzerland,CBPF,oPt,Member State,0.0,2068252.32,CH,PS
 2020,UN and Other Agencies,CBPF,Myanmar,Member State,0.0,1000000.0,,MM
-2020,UNF,CBPF,Afghanistan,Member State,3090.75,0.0,,AF
+2020,UNF,CBPF,Afghanistan,Member State,0.0,3090.75,,AF
 2020,UNF,CBPF,CAR,Member State,0.0,3332.55,,CF
 2020,UNF,CBPF,DRC,Member State,0.0,20813.5,,CD
 2020,UNF,CBPF,Somalia,Member State,0.0,23134.81,,SO
 2020,UNF,CBPF,South Sudan,Member State,0.0,17899.05,,SS
-2020,UNF,CBPF,Sudan,Member State,2913.3,0.0,,SD
+2020,UNF,CBPF,Sudan,Member State,0.0,2913.3,,SD
 2020,UNF,CBPF,Yemen,Member State,0.0,500.0,,YE
-2020,United Kingdom,CBPF,Afghanistan,Member State,12360939.43,16130400.0,GB,AF
+2020,United Kingdom,CBPF,Afghanistan,Member State,0.0,22645900.0,GB,AF
 2020,United Kingdom,CBPF,CAR,Member State,0.0,6134500.04,GB,CF
 2020,United Kingdom,CBPF,Ethiopia,Member State,0.0,7453416.15,GB,ET
 2020,United Kingdom,CBPF,Iraq,Member State,0.0,4675901.75,GB,IQ
 2020,United Kingdom,CBPF,Jordan,Member State,0.0,2472187.89,GB,JO
-2020,United Kingdom,CBPF,Pakistan,Member State,0.0,3129176.8200000003,GB,PK
+2020,United Kingdom,CBPF,Pakistan,Member State,2557544.76,3129176.8200000003,GB,PK
 2020,United Kingdom,CBPF,South Sudan,Member State,0.0,8962450.0,GB,SS
 2020,United Kingdom,CBPF,Sudan,Member State,0.0,33511280.0,GB,SD
 2020,United Kingdom,CBPF,Syria,Member State,0.0,10000000.0,GB,SY
 2020,United Kingdom,CBPF,Syria Cross border,Member State,0.0,29633507.86,GB,XX
 2020,United Kingdom,CBPF,Yemen,Member State,0.0,13037809.65,GB,YE
+2020,United States of America,CBPF,Ethiopia,Member State,8000000.0,0.0,US,ET
 2020,United States of America,CBPF,Myanmar,Member State,2000000.0,0.0,US,MM
 2021,Australia,CBPF,Myanmar,Member State,3075030.75,0.0,AU,MM
 2021,Germany,CBPF,DRC,Member State,2171552.66,0.0,DE,CD
@@ -2514,7 +2515,7 @@ FiscalYear,DonorName,FundType,PooledFundName,DonorType,PledgeAmt,PaidAmt,DonorIS
 2020,Qatar,CERF,CERF,Member State,0.0,1000000.0,QA,
 2020,Russian Federation,CERF,CERF,Member State,0.0,1500000.0,RU,
 2020,Saudi Arabia,CERF,CERF,Member State,0.0,0.0,SA,
-2020,Singapore,CERF,CERF,Member State,0.0,0.0,SG,
+2020,Singapore,CERF,CERF,Member State,0.0,50000.0,SG,
 2020,South Africa,CERF,CERF,Member State,0.0,85304.82,ZA,
 2020,Spain,CERF,CERF,Member State,0.0,0.0,ES,
 2020,Sri Lanka,CERF,CERF,Member State,0.0,10000.0,LK,
