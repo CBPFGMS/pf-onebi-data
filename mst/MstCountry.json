@@ -1186,5 +1186,16 @@
     "ISO2Code": "XX",
     "latitude": 37.065378,
     "longitude": 37.393274
+  },
+  {
+    "id": 109,
+    "PooledFundName": "CERF",
+    "RegionName": "CERF",
+    "SubRegionName": "CERF",
+    "ContinentName": "CERF",
+    "CountryCode": "CERF",
+    "ISO2Code": "CERF",
+    "latitude": 40.71427,
+    "longitude": -74.00597
   }
 ]
