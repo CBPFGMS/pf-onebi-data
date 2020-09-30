@@ -25,5 +25,11 @@
       "id":12,"ClustNm":"Coordination and Support Services","ClustCode":"CSS"
     },{
       "id":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
+    },{
+      "id":14,"ClustNm":"Multi-purpose cash (not sector-specific)","ClustCode":"MPC"
+    },{
+      "id":15,"ClustNm":"Mine Action","ClustCode":"MA"
+    },{
+      "id":16,"ClustNm":"COVID-19","ClustCode":"COVID"
     }
 ]
