@@ -1,4 +1,4 @@
-FiscalYear,PledgeDate,DonorName,PooledFundName,PledgeAmt,PaidAmt
+FiscalYear,PledgeDate,DonorId,PooledFundId,PledgeAmt,PaidAmt
 2006,01-2006,124,36,0,5012000
 2006,01-2006,163,36,0,247934
 2006,01-2006,183,36,0,6956522
