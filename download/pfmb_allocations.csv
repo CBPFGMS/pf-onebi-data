@@ -7055,8 +7055,11 @@ Lebanon,2020,Rapid Response,3664,20-RR-WHO-029,Health,Health,100.0,4000009.0,CER
 Lebanon,2020,Rapid Response,3665,20-RR-HAB-002,Emergency Shelter and NFI,Emergency Shelter and NFI,80.0,799992.0,CERF
 Lebanon,2020,Rapid Response,3665,20-RR-HAB-002,Protection,Protection,10.0,99999.0,CERF
 Lebanon,2020,Rapid Response,3665,20-RR-HAB-002,Health,Health,10.0,99999.0,CERF
-Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Multi-Cluster,Multi-Cluster,100.0,1446720.0,CERF
-Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Camp Coordination / Management,Camp Coordination / Management,100.0,1000000.0,CERF
+Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Water Sanitation Hygiene,Water Sanitation Hygiene,100.0,1446720.0,CERF
+Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Health,Health,0.0,0.0,CERF
+Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Protection,Protection,0.0,0.0,CERF
+Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Emergency Shelter and NFI,Emergency Shelter and NFI,100.0,1000000.0,CERF
+Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Camp Coordination / Management,Camp Coordination / Management,0.0,0.0,CERF
 Philippines,2020,Rapid Response,3746,20-RR-WFP-049,Logistics,Logistics,100.0,666954.0,CERF
 Jordan,2020,Underfunded Emergencies,3515,20-UF-CEF-016,Water Sanitation Hygiene,Water Sanitation Hygiene,100.0,2000000.0,CERF
 Jordan,2020,Underfunded Emergencies,3516,20-UF-HCR-009,Health,Health,87.00001304795995,2000313.0,CERF
