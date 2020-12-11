@@ -7000,8 +7000,8 @@ Pakistan,2020,Rapid Response,3587,20-RR-WHO-021,Health,Health,100.0,150014.0,CER
 Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Water Sanitation Hygiene,Water Sanitation Hygiene,100.0,1446720.0,CERF
 Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Health,Health,0.0,0.0,CERF
 Philippines,2020,Rapid Response,3744,20-RR-CEF-062,Protection,Protection,0.0,0.0,CERF
-Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Emergency Shelter and NFI,Emergency Shelter and NFI,100.0,1000000.0,CERF
-Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Camp Coordination / Management,Camp Coordination / Management,0.0,0.0,CERF
+Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Emergency Shelter and NFI,Emergency Shelter and NFI,84.0,840000.0,CERF
+Philippines,2020,Rapid Response,3745,20-RR-IOM-031,Camp Coordination / Management,Camp Coordination / Management,16.0,160000.0,CERF
 Philippines,2020,Rapid Response,3746,20-RR-WFP-049,Logistics,Logistics,100.0,666954.0,CERF
 Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Water Sanitation Hygiene,Water Sanitation Hygiene,55.00000000000001,660000.0,CERF
 Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Nutrition,Nutrition,27.0,324000.0,CERF
@@ -9984,6 +9984,7 @@ Ethiopia,2020,Standard,15855,ETH-20/DDA-3379/SA1/WASH/UN/15855,Water Sanitation 
 Ethiopia,2020,Standard,15980,ETH-20/DDA-3379/SA1/WASH-NFI/ES/INGO/15980,Emergency Shelter and NFI,Child protection,65.0,356102.552,CBPF
 Ethiopia,2020,Standard,15980,ETH-20/DDA-3379/SA1/WASH-NFI/ES/INGO/15980,Water Sanitation Hygiene,Child Protection in Emergencies,35.0,191747.52800000002,CBPF
 Ethiopia,2020,Standard,17497,ETH-20/DDA-3379/SA2/H/INGO/17497,Health,Gender Based Violence (GBV),100.0,180000.71,CBPF
+Ethiopia,2020,Standard,17541,ETH-20/DDA-3379/SA2/H/INGO/17541,Health,Gender Based Violence (GBV),100.0,165004.19,CBPF
 Ethiopia,2020,Standard,17567,ETH-20/DDA-3379/SA2/H/INGO/17567,Health,Gender Based Violence (GBV),100.0,110053.8,CBPF
 Ethiopia,2020,Standard,17460,ETH-20/DDA-3379/SA2/H/NGO/17460,Health,Gender Based Violence (GBV),100.0,164996.69,CBPF
 Ethiopia,2020,Standard,17477,ETH-20/DDA-3379/SA2/H/NGO/17477,Health,Gender Based Violence (GBV),100.0,120000.11,CBPF
@@ -9991,6 +9992,7 @@ Ethiopia,2020,Standard,17543,ETH-20/DDA-3379/SA2/H/NGO/17543,Health,Gender Based
 Ethiopia,2020,Standard,17465,ETH-20/DDA-3379/SA2/NFI/ES/INGO/17465,Emergency Shelter and NFI,Child protection,100.0,237500.01,CBPF
 Ethiopia,2020,Standard,17492,ETH-20/DDA-3379/SA2/NFI/ES/INGO/17492,Emergency Shelter and NFI,Child protection,100.0,434375.71,CBPF
 Ethiopia,2020,Standard,17504,ETH-20/DDA-3379/SA2/NFI/ES/NGO/17504,Emergency Shelter and NFI,Child protection,100.0,118750.31,CBPF
+Ethiopia,2020,Standard,17486,ETH-20/DDA-3379/SA2/WASH/INGO/17486,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,200000.0,CBPF
 Haiti,2013,Reserve,139,HTI-13/X/3416/ER/CSS/INGO/139,Coordination and Support Services,,100.0,197235.29,CBPF
 Haiti,2013,Reserve,133,HTI-13/X/3416/ER/H/INGO/133,Health,,100.0,248775.0,CBPF
 Haiti,2013,Reserve,134,HTI-13/X/3416/ER/SNS/INGO/134,Multi-Sector,,100.0,116248.0,CBPF
