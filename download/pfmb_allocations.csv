@@ -6925,6 +6925,7 @@ Haiti,2020,Underfunded Emergencies,3541,20-UF-CEF-021,Health,Health,25.000024999
 Haiti,2020,Underfunded Emergencies,3542,20-UF-FPA-015,Health,Health,40.999978816002866,696752.0,CERF
 Haiti,2020,Underfunded Emergencies,3542,20-UF-FPA-015,Protection,Protection,59.00002118399714,1002644.0,CERF
 Honduras,2020,Rapid Response,3747,20-RR-CEF-063,Water Sanitation Hygiene,Water Sanitation Hygiene,100.0,1300000.0,CERF
+Honduras,2020,Rapid Response,3748,20-RR-WFP-050,Food Security,Food Security,100.0,1300000.0,CERF
 Honduras,2020,Rapid Response,3749,20-RR-WHO-039,Health,Health,100.0,1301926.0,CERF
 Honduras,2020,Underfunded Emergencies,3524,20-UF-WHO-011,Health,Health,100.0,700000.0,CERF
 Honduras,2020,Underfunded Emergencies,3519,20-UF-FAO-010,Food Security,Food Security,100.0,899999.0,CERF
@@ -7006,7 +7007,8 @@ Philippines,2020,Rapid Response,3746,20-RR-WFP-049,Logistics,Logistics,100.0,666
 Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Water Sanitation Hygiene,Water Sanitation Hygiene,55.00000000000001,660000.0,CERF
 Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Nutrition,Nutrition,27.0,324000.0,CERF
 Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Protection,Protection,18.0,216000.0,CERF
-Viet Nam,2020,Rapid Response,3742,20-RR-FPA-041,Health,Health,100.0,799889.0,CERF
+Viet Nam,2020,Rapid Response,3742,20-RR-FPA-041,Health,Health,3641.9999524934083,29131957.0,CERF
+Viet Nam,2020,Rapid Response,3742,20-RR-FPA-041,Protection,Protection,6358.000047506592,50856943.0,CERF
 Viet Nam,2020,Rapid Response,3743,20-RR-UDP-005,Emergency Shelter and NFI,Emergency Shelter and NFI,100.0,1000000.0,CERF
 Fiji,2020,Rapid Response,3630,20-RR-CEF-038,Water Sanitation Hygiene,Water Sanitation Hygiene,100.0,200077.0,CERF
 Fiji,2020,Rapid Response,3631,20-RR-IOM-018,Emergency Shelter and NFI,Emergency Shelter and NFI,100.0,100000.0,CERF
