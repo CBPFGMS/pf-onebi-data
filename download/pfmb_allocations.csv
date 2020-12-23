@@ -6804,9 +6804,9 @@ Democratic Republic of the Congo,2020,Rapid Response,3617,20-RR-HCR-020,Educatio
 Democratic Republic of the Congo,2020,Rapid Response,3618,20-RR-IOM-014,Health,Health,34.0,1195984.0,CERF
 Democratic Republic of the Congo,2020,Rapid Response,3618,20-RR-IOM-014,Emergency Shelter and NFI,Emergency Shelter and NFI,52.0,1829152.0,CERF
 Democratic Republic of the Congo,2020,Rapid Response,3618,20-RR-IOM-014,Water Sanitation Hygiene,Water Sanitation Hygiene,14.000000000000002,492464.0,CERF
-Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Nutrition,Nutrition,93.00000219172438,13578350.0,CERF
-Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Food Security,Food Security,2.000003287586566,292008.0,CERF
-Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Education,Education,6.000003013621019,876023.0,CERF
+Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Nutrition,Nutrition,92.0000005479311,13432346.0,CERF
+Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Food Security,Food Security,6.000003013621019,876023.0,CERF
+Democratic Republic of the Congo,2020,Rapid Response,3619,20-RR-WFP-029,Education,Education,1.9999964384478863,292007.0,CERF
 Democratic Republic of the Congo,2020,Rapid Response,3620,20-RR-WHO-025,Health,Health,100.0,7444356.0,CERF
 Republic of the Sudan,2020,Rapid Response,3469,20-RR-FAO-005,Food Security,Food Security,100.0,2973215.0,CERF
 Republic of the Sudan,2020,Rapid Response,3470,20-RR-IOM-003,Coordination and Support Services,Coordination and Support Services,18.0,540000.0,CERF
@@ -6818,7 +6818,7 @@ Republic of the Sudan,2020,Rapid Response,3473,20-RR-UDP-001,Early Recovery,Earl
 Republic of the Sudan,2020,Rapid Response,3473,20-RR-UDP-001,Food Security,Food Security,60.0,1800000.0,CERF
 Republic of the Sudan,2020,Rapid Response,3474,20-RR-HCR-004,Emergency Shelter and NFI,Emergency Shelter and NFI,45.99999906228497,13735516.0,CERF
 Republic of the Sudan,2020,Rapid Response,3474,20-RR-HCR-004,Protection,Protection,49.000000602816804,14631311.0,CERF
-Republic of the Sudan,2020,Rapid Response,3474,20-RR-HCR-004,Multi-purpose cash (not sector-specific),Multi-purpose cash (not sector-specific),5.999999732081421,1791589.0,CERF
+Republic of the Sudan,2020,Rapid Response,3474,20-RR-HCR-004,Multi-purpose cash (not sector-specific),Multi-purpose cash (not sector-specific),5.000000334898223,1492991.0,CERF
 Republic of the Sudan,2020,Rapid Response,3475,20-RR-CEF-006,Water Sanitation Hygiene,Water Sanitation Hygiene,16.00000121594317,3684383.0,CERF
 Republic of the Sudan,2020,Rapid Response,3475,20-RR-CEF-006,Protection,Protection,9.999999131469165,2302739.0,CERF
 Republic of the Sudan,2020,Rapid Response,3475,20-RR-CEF-006,Education,Education,19.99999826293833,4605478.0,CERF
@@ -10019,6 +10019,8 @@ Ethiopia,2020,Standard,17567,ETH-20/DDA-3379/SA2/H/INGO/17567,Health,Gender Base
 Ethiopia,2020,Standard,17460,ETH-20/DDA-3379/SA2/H/NGO/17460,Health,Gender Based Violence (GBV),100.0,164996.69,CBPF
 Ethiopia,2020,Standard,17477,ETH-20/DDA-3379/SA2/H/NGO/17477,Health,Gender Based Violence (GBV),100.0,120000.11,CBPF
 Ethiopia,2020,Standard,17543,ETH-20/DDA-3379/SA2/H/NGO/17543,Health,Gender Based Violence (GBV),100.0,179999.99,CBPF
+Ethiopia,2020,Standard,17500,ETH-20/DDA-3379/SA2/H-E/NGO/17500,Education,Livelihood,45.0,297879.3495,CBPF
+Ethiopia,2020,Standard,17500,ETH-20/DDA-3379/SA2/H-E/NGO/17500,Health,Gender Based Violence (GBV),55.0,364074.7605,CBPF
 Ethiopia,2020,Standard,17532,ETH-20/DDA-3379/SA2/N/INGO/17532,Nutrition,,100.0,248039.16,CBPF
 Ethiopia,2020,Standard,17546,ETH-20/DDA-3379/SA2/N/INGO/17546,Nutrition,,100.0,279999.99,CBPF
 Ethiopia,2020,Standard,17557,ETH-20/DDA-3379/SA2/N/INGO/17557,Nutrition,,100.0,239967.37,CBPF
@@ -10032,6 +10034,9 @@ Ethiopia,2020,Standard,17569,ETH-20/DDA-3379/SA2/NFI/ES-WASH-P/INGO/17569,Water 
 Ethiopia,2020,Standard,17573,ETH-20/DDA-3379/SA2/P/INGO/17573,Protection,GBV,100.0,199037.16,CBPF
 Ethiopia,2020,Standard,17480,ETH-20/DDA-3379/SA2/WASH/INGO/17480,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,550006.71,CBPF
 Ethiopia,2020,Standard,17486,ETH-20/DDA-3379/SA2/WASH/INGO/17486,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,200000.0,CBPF
+Ethiopia,2020,Standard,17490,ETH-20/DDA-3379/SA2/WASH-H-P/INGO/17490,Health,Gender Based Violence (GBV),29.0,145827.2105,CBPF
+Ethiopia,2020,Standard,17490,ETH-20/DDA-3379/SA2/WASH-H-P/INGO/17490,Protection,GBV,21.0,105599.0145,CBPF
+Ethiopia,2020,Standard,17490,ETH-20/DDA-3379/SA2/WASH-H-P/INGO/17490,Water Sanitation Hygiene,Child Protection in Emergencies,50.0,251426.225,CBPF
 Ethiopia,2020,Standard,17452,ETH-20/DDA-3379/SA2/WASH-NFI/ES/INGO/17452,Emergency Shelter and NFI,Child protection,23.07,150017.065221,CBPF
 Ethiopia,2020,Standard,17452,ETH-20/DDA-3379/SA2/WASH-NFI/ES/INGO/17452,Water Sanitation Hygiene,Child Protection in Emergencies,76.93,500251.964779,CBPF
 Ethiopia,2020,Standard,17542,ETH-20/DDA-3379/SA2/WASH-NFI/ES-H/INGO/17542,Emergency Shelter and NFI,Child protection,35.0,192500.84699999998,CBPF
@@ -17594,12 +17599,21 @@ Syria Cross border,2020,Standard,17772,TUR-20/3559/SA2/FS-WASH-ER/INGO/17772,Foo
 Syria Cross border,2020,Standard,17772,TUR-20/3559/SA2/FS-WASH-ER/INGO/17772,Water Sanitation Hygiene,,20.0,85509.0,CBPF
 Syria Cross border,2020,Standard,17651,TUR-20/3559/SA2/H/NGO/17651,Health,,100.0,657875.46,CBPF
 Syria Cross border,2020,Standard,17779,TUR-20/3559/SA2/H/NGO/17779,Health,,100.0,1113263.99,CBPF
+Syria Cross border,2020,Standard,17756,TUR-20/3559/SA2/H-FS/NGO/17756,Food Security,,63.39,493735.30926300003,CBPF
+Syria Cross border,2020,Standard,17756,TUR-20/3559/SA2/H-FS/NGO/17756,Health,,36.61,285149.860737,CBPF
 Syria Cross border,2020,Standard,17665,TUR-20/3559/SA2/NFI/INGO/17665,Emergency Shelter and NFI,,100.0,699763.46,CBPF
 Syria Cross border,2020,Standard,17657,TUR-20/3559/SA2/NFI/NGO/17657,Emergency Shelter and NFI,,100.0,1185178.12,CBPF
+Syria Cross border,2020,Standard,17684,TUR-20/3559/SA2/NFI/NGO/17684,Emergency Shelter and NFI,,100.0,674217.29,CBPF
 Syria Cross border,2020,Standard,17754,TUR-20/3559/SA2/NFI-CCM/NGO/17754,Camp Coordination / Management,Child Protection,10.0,68600.345,CBPF
 Syria Cross border,2020,Standard,17754,TUR-20/3559/SA2/NFI-CCM/NGO/17754,Emergency Shelter and NFI,,90.0,617403.105,CBPF
+Syria Cross border,2020,Standard,17760,TUR-20/3559/SA2/P-ER-WASH/NGO/17760,Early Recovery,Aging and Disability,20.0,128913.01,CBPF
+Syria Cross border,2020,Standard,17760,TUR-20/3559/SA2/P-ER-WASH/NGO/17760,Protection,,65.0,418967.2825,CBPF
+Syria Cross border,2020,Standard,17760,TUR-20/3559/SA2/P-ER-WASH/NGO/17760,Water Sanitation Hygiene,,15.0,96684.7575,CBPF
+Syria Cross border,2020,Standard,17758,TUR-20/3559/SA2/WASH/NGO/17758,Water Sanitation Hygiene,,100.0,422700.0,CBPF
 Syria Cross border,2020,Standard,17692,TUR-20/3559/SA2/WASH-ER/NGO/17692,Early Recovery,Aging and Disability,17.0,94875.8984,CBPF
 Syria Cross border,2020,Standard,17692,TUR-20/3559/SA2/WASH-ER/NGO/17692,Water Sanitation Hygiene,,83.0,463217.6216,CBPF
+Syria Cross border,2020,Standard,17778,TUR-20/3559/SA2/WASH-P/NGO/17778,Protection,,10.0,52821.003,CBPF
+Syria Cross border,2020,Standard,17778,TUR-20/3559/SA2/WASH-P/NGO/17778,Water Sanitation Hygiene,,90.0,475389.027,CBPF
 Ukraine,2019,Standard,13624,UKR-19/UKR_CBPF/SA1/FSL/NGO/13624,Food Security,,100.0,208896.41,CBPF
 Ukraine,2019,Standard,14396,UKR-19/UKR_CBPF/SA1/H-N/INGO/14396,Health,,100.0,419499.99,CBPF
 Ukraine,2019,Standard,13737,UKR-19/UKR_CBPF/SA1/H-N-WASH/NGO/13737,Health,,50.0,111445.25,CBPF
