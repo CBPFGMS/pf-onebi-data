@@ -1129,8 +1129,8 @@
 		"ContinentName": "Americas",
 		"CountryCode": "VZR",
 		"ISO2Code": "0V",
-		"latitude": "#N/A",
-		"longitude": "#N/A"
+		"latitude": 10.063611,
+		"longitude": -69.334724
 	},{
 		"id": 104,
 		"PooledFundName": "Viet Nam",
@@ -1206,7 +1206,7 @@
 		"ContinentName": "Africa",
 		"CountryCode": "XX",
 		"ISO2Code": "0SOA",
-		"latitude": "#N/A",
-		"longitude": "#N/A"
+		"latitude": 8.997060,
+		"longitude": 38.730412
 	}
 ]
